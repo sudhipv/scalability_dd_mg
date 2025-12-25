@@ -1,8 +1,8 @@
 # Scalable Domain Decomposition & Multigrid Benchmarks
 
 <p align="center">
-  <img src="deterministic/heat/strong/strong_iter.png" alt="KSP iteration counts for strong scaling" width="45%">
-  <img src="deterministic/heat/strong/strong_heat.png" alt="Wall-clock time for strong scaling" width="45%">
+  <img src="deterministic/heat/strong/strong_iter.jpg" alt="KSP iteration counts for strong scaling" width="45%">
+  <img src="deterministic/heat/strong/strong_heat.jpg" alt="Wall-clock time for strong scaling" width="45%">
 </p>
 *Comparison of scalability of two-grid restricted additive Schwarz variants for the linear heat equation. Left: Strong parallel scalability. Right: Strong numerical scalability.*
 
