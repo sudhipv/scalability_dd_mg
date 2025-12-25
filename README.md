@@ -1,5 +1,9 @@
 # Scalable Domain Decomposition & Multigrid Benchmarks
 
+![KSP iteration counts for strong scaling](deterministic/heat/strong/strong_iter.png)
+![Wall-clock time for strong scaling](deterministic/heat/strong/strong_heat.png)
+*Comparison of scalability of two-grid restricted additive Schwarz variants for the linear heat equation. Left: Strong parallel scalability. Right: Strong numerical scalability.*
+
 This repository hosts the FreeFEM++ input files, auxiliary scripts, and reference data that were used to study how different domain decomposition (DD) and multigrid (MG) strategies scale for diffusion-dominated PDEs. The deterministic folders focus on steady and transient Poisson/heat problems, while the stochastic folders extend the same solvers with polynomial chaos expansions (PCE) to capture input randomness modelled either as random variables or random processes.
 
 ## Repository Layout
@@ -109,3 +113,13 @@ The repository mirrors research snapshots rather than a packaged library. If you
 
 Sudhi Sharma P V  
 [sudhisharmapadillath@gmail.com](mailto:sudhisharmapadillath@gmail.com)
+
+## Reference
+```
+@phdthesis{vasudevan2023scalable,
+  title={Scalable Domain Decomposition Methods for Nonlinear and Time-Dependent Stochastic Systems},
+  author={Vasudevan, Padillath and Sharma, Sudhi},
+  year={2023},
+  school={Carleton University}
+}
+```
