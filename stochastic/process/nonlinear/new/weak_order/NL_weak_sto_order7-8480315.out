@@ -1,0 +1,843 @@
+
+The following have been reloaded with a version change:
+  1) mii/1.1.1 => mii/1.1.2
+
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+Number of Vertices for coarse grid  143641
+Number of Vertices for fine mesh is  573049
+1	
+	-111111	
+number of random variable  2
+order of input  2
+order of output  7
+Number of input PC   6
+Number of output PC  36
+Mean of Gaussian  0
+Sd of Gaussian  0.3
+Size of linear System  2.06298e+07
+sindex is 25 2	
+	   1   1
+	   1   2
+	   2   1
+	   2   2
+	   1   3
+	   3   1
+	   2   3
+	   3   2
+	   1   4
+	   4   1
+	   3   3
+	   2   4
+	   4   2
+	   3   4
+	   4   3
+	   1   5
+	   5   1
+	   2   5
+	   5   2
+	   4   4
+	   3   5
+	   5   3
+	   1   6
+	   6   1
+	   2   6
+	
+mindex for file ./kledata/Tijkl/multiIndex_O7_D2.dat is 36 2	
+	   0   0
+	   1   0
+	   0   1
+	   2   0
+	   1   1
+	   0   2
+	   3   0
+	   2   1
+	   1   2
+	   0   3
+	   4   0
+	   3   1
+	   2   2
+	   1   3
+	   0   4
+	   5   0
+	   4   1
+	   3   2
+	   2   3
+	   1   4
+	   0   5
+	   6   0
+	   5   1
+	   4   2
+	   3   3
+	   2   4
+	   1   5
+	   0   6
+	   7   0
+	   6   1
+	   5   2
+	   4   3
+	   3   4
+	   2   5
+	   1   6
+	   0   7
+	
+Finished generating log normal input coefficients for rank 0
+Assembling matrices for level 0 and rank 0
+Assembling matrices for level 1 and rank 0
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.321001651689e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 7.501468535228e+00 
+      1 KSP Residual norm 2.385772500054e+00 
+      2 KSP Residual norm 4.374854215146e-01 
+      3 KSP Residual norm 8.744026786449e-02 
+      4 KSP Residual norm 1.741046962008e-02 
+      5 KSP Residual norm 3.742007877200e-03 
+      6 KSP Residual norm 8.492048397725e-04 
+      7 KSP Residual norm 1.936252427821e-04 
+      8 KSP Residual norm 4.051346571689e-05 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  1 KSP Residual norm 1.224219233531e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.180618196005e-02 
+      1 KSP Residual norm 1.006359829565e-03 
+      2 KSP Residual norm 2.219833695039e-04 
+      3 KSP Residual norm 4.276351655359e-05 
+      4 KSP Residual norm 8.068057576806e-06 
+      5 KSP Residual norm 1.704863964257e-06 
+      6 KSP Residual norm 3.896601005618e-07 
+      7 KSP Residual norm 8.855441104568e-08 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  2 KSP Residual norm 9.515353640207e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.911164549631e-01 
+      1 KSP Residual norm 9.455588017733e-03 
+      2 KSP Residual norm 1.816275400409e-03 
+      3 KSP Residual norm 2.912682987309e-04 
+      4 KSP Residual norm 5.890518097294e-05 
+      5 KSP Residual norm 1.222264660583e-05 
+      6 KSP Residual norm 2.720421807167e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  3 KSP Residual norm 4.044113640567e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.709014098233e-01 
+      1 KSP Residual norm 1.538546419198e-02 
+      2 KSP Residual norm 6.011471774047e-04 
+      3 KSP Residual norm 1.205250251872e-04 
+      4 KSP Residual norm 2.072979293410e-05 
+      5 KSP Residual norm 4.236346664978e-06 
+      6 KSP Residual norm 9.094815844714e-07 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  4 KSP Residual norm 1.055318746612e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.850978700073e-01 
+      1 KSP Residual norm 2.998180150445e-02 
+      2 KSP Residual norm 3.441270342300e-03 
+      3 KSP Residual norm 6.054509539819e-04 
+      4 KSP Residual norm 1.231847763907e-04 
+      5 KSP Residual norm 2.361533838869e-05 
+      6 KSP Residual norm 5.224529062959e-06 
+      7 KSP Residual norm 1.172112401793e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  5 KSP Residual norm 2.627376169292e-06 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.943081844280e-01 
+      1 KSP Residual norm 4.108974628359e-02 
+      2 KSP Residual norm 4.339448038800e-03 
+      3 KSP Residual norm 7.804546807499e-04 
+      4 KSP Residual norm 1.510791140613e-04 
+      5 KSP Residual norm 2.905005936843e-05 
+      6 KSP Residual norm 6.487046625230e-06 
+      7 KSP Residual norm 1.458858592693e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  6 KSP Residual norm 7.497328038588e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.997601315289e-01 
+      1 KSP Residual norm 4.789129235474e-02 
+      2 KSP Residual norm 3.150474971175e-03 
+      3 KSP Residual norm 5.877372295249e-04 
+      4 KSP Residual norm 1.036343468020e-04 
+      5 KSP Residual norm 2.094180117921e-05 
+      6 KSP Residual norm 4.560310699869e-06 
+      7 KSP Residual norm 1.031905600267e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  7 KSP Residual norm 2.793114077905e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.170843962558e-01 
+      1 KSP Residual norm 4.524124576235e-02 
+      2 KSP Residual norm 1.757492422425e-03 
+      3 KSP Residual norm 2.032545512849e-04 
+      4 KSP Residual norm 4.438748030655e-05 
+      5 KSP Residual norm 9.115683044660e-06 
+      6 KSP Residual norm 2.218411551491e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  8 KSP Residual norm 1.253085473507e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.124099889516e-01 
+      1 KSP Residual norm 4.214242608171e-02 
+      2 KSP Residual norm 3.151505652413e-03 
+      3 KSP Residual norm 5.705986086111e-04 
+      4 KSP Residual norm 1.133533063798e-04 
+      5 KSP Residual norm 2.308662528536e-05 
+      6 KSP Residual norm 5.170406478387e-06 
+      7 KSP Residual norm 1.117310257354e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  9 KSP Residual norm 4.208068629497e-08 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.537031858582e-01 
+      1 KSP Residual norm 4.161608980747e-02 
+      2 KSP Residual norm 3.182581723280e-03 
+      3 KSP Residual norm 5.604246813188e-04 
+      4 KSP Residual norm 1.170248004854e-04 
+      5 KSP Residual norm 2.272303168412e-05 
+      6 KSP Residual norm 4.961186897813e-06 
+      7 KSP Residual norm 1.100169850360e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+ 10 KSP Residual norm 1.153991767251e-08 
+iteration 0     0.982442
+time for 1 Picard Iteration 2098.32
+Assembling matrices for level 0 and rank 0
+Assembling matrices for level 1 and rank 0
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.321001651689e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 7.501803834747e+00 
+      1 KSP Residual norm 2.542828477631e+00 
+      2 KSP Residual norm 4.172517628507e-01 
+      3 KSP Residual norm 8.075254629211e-02 
+      4 KSP Residual norm 1.620823510594e-02 
+      5 KSP Residual norm 3.389738621061e-03 
+      6 KSP Residual norm 7.525433793466e-04 
+      7 KSP Residual norm 1.715110320221e-04 
+      8 KSP Residual norm 3.585375852341e-05 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  1 KSP Residual norm 1.224244297595e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.137697262228e-02 
+      1 KSP Residual norm 8.309283889598e-04 
+      2 KSP Residual norm 1.663463824602e-04 
+      3 KSP Residual norm 2.951130753905e-05 
+      4 KSP Residual norm 5.703512947648e-06 
+      5 KSP Residual norm 1.164811542890e-06 
+      6 KSP Residual norm 2.551073533804e-07 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  2 KSP Residual norm 8.198596317742e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.100677221739e-01 
+      1 KSP Residual norm 4.880604195018e-03 
+      2 KSP Residual norm 1.043101757760e-03 
+      3 KSP Residual norm 1.750011452574e-04 
+      4 KSP Residual norm 3.478215133295e-05 
+      5 KSP Residual norm 7.023628027486e-06 
+      6 KSP Residual norm 1.517354800594e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  3 KSP Residual norm 1.782257341119e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 5.929215893238e-01 
+      1 KSP Residual norm 1.237616729499e-02 
+      2 KSP Residual norm 2.596342878937e-03 
+      3 KSP Residual norm 4.065117416005e-04 
+      4 KSP Residual norm 8.206691512461e-05 
+      5 KSP Residual norm 1.663081147601e-05 
+      6 KSP Residual norm 3.614784997693e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  4 KSP Residual norm 2.001574339125e-06 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.958712817995e-01 
+      1 KSP Residual norm 1.604579631431e-02 
+      2 KSP Residual norm 2.088779042146e-03 
+      3 KSP Residual norm 3.205278287224e-04 
+      4 KSP Residual norm 6.881148273858e-05 
+      5 KSP Residual norm 1.314227707967e-05 
+      6 KSP Residual norm 2.780833189684e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  5 KSP Residual norm 4.519461489350e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.835890474150e-01 
+      1 KSP Residual norm 1.462208023360e-02 
+      2 KSP Residual norm 8.054606390904e-04 
+      3 KSP Residual norm 1.454645297851e-04 
+      4 KSP Residual norm 3.074065860305e-05 
+      5 KSP Residual norm 7.395629213297e-06 
+      6 KSP Residual norm 1.651743160502e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  6 KSP Residual norm 1.461889030949e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.756709768145e-01 
+      1 KSP Residual norm 2.573462827883e-02 
+      2 KSP Residual norm 1.916359352176e-03 
+      3 KSP Residual norm 3.265729364744e-04 
+      4 KSP Residual norm 6.101127312775e-05 
+      5 KSP Residual norm 1.185931933620e-05 
+      6 KSP Residual norm 2.530206558946e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  7 KSP Residual norm 2.450028277484e-08 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.849747429730e-01 
+      1 KSP Residual norm 3.064488426999e-02 
+      2 KSP Residual norm 1.677003464949e-03 
+      3 KSP Residual norm 3.090371312092e-04 
+      4 KSP Residual norm 6.912989365083e-05 
+      5 KSP Residual norm 1.612124821564e-05 
+      6 KSP Residual norm 3.819905155532e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  8 KSP Residual norm 4.683292265489e-09 
+iteration 1     0.970258
+time for 1 Picard Iteration 2089.24
+Assembling matrices for level 0 and rank 0
+Assembling matrices for level 1 and rank 0
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.321001651689e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 7.502139147391e+00 
+      1 KSP Residual norm 2.514264240335e+00 
+      2 KSP Residual norm 4.351938160970e-01 
+      3 KSP Residual norm 8.303677013414e-02 
+      4 KSP Residual norm 1.622270008203e-02 
+      5 KSP Residual norm 3.103994975861e-03 
+      6 KSP Residual norm 6.514148280623e-04 
+      7 KSP Residual norm 1.446799353090e-04 
+      8 KSP Residual norm 3.299539405872e-05 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  1 KSP Residual norm 1.224290415068e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.141360302125e-02 
+      1 KSP Residual norm 7.816313881065e-04 
+      2 KSP Residual norm 1.676214206905e-04 
+      3 KSP Residual norm 2.918174376720e-05 
+      4 KSP Residual norm 5.458356031920e-06 
+      5 KSP Residual norm 1.034342780934e-06 
+      6 KSP Residual norm 2.116437517538e-07 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  2 KSP Residual norm 8.216949455049e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.113642239420e-01 
+      1 KSP Residual norm 5.090306510595e-03 
+      2 KSP Residual norm 1.141425063020e-03 
+      3 KSP Residual norm 1.938042949973e-04 
+      4 KSP Residual norm 3.712470087254e-05 
+      5 KSP Residual norm 7.061436805168e-06 
+      6 KSP Residual norm 1.446158451430e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  3 KSP Residual norm 1.791426333132e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 5.935920981909e-01 
+      1 KSP Residual norm 1.280229676728e-02 
+      2 KSP Residual norm 2.872697226761e-03 
+      3 KSP Residual norm 4.539789371766e-04 
+      4 KSP Residual norm 8.806910722218e-05 
+      5 KSP Residual norm 1.685857777413e-05 
+      6 KSP Residual norm 3.425187732201e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  4 KSP Residual norm 2.008786315464e-06 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.962206799369e-01 
+      1 KSP Residual norm 1.619313507809e-02 
+      2 KSP Residual norm 2.327432084381e-03 
+      3 KSP Residual norm 3.563066718099e-04 
+      4 KSP Residual norm 7.477917899261e-05 
+      5 KSP Residual norm 1.394437365889e-05 
+      6 KSP Residual norm 2.880470730112e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  5 KSP Residual norm 4.524732831395e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.832977550019e-01 
+      1 KSP Residual norm 1.460541078395e-02 
+      2 KSP Residual norm 8.435478718586e-04 
+      3 KSP Residual norm 1.612832719870e-04 
+      4 KSP Residual norm 3.261618237154e-05 
+      5 KSP Residual norm 7.929057251280e-06 
+      6 KSP Residual norm 1.867135889697e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  6 KSP Residual norm 1.465409731217e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.753622269036e-01 
+      1 KSP Residual norm 2.577244859416e-02 
+      2 KSP Residual norm 2.087090873622e-03 
+      3 KSP Residual norm 3.690955421833e-04 
+      4 KSP Residual norm 6.709233453195e-05 
+      5 KSP Residual norm 1.268970956894e-05 
+      6 KSP Residual norm 2.620161910087e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  7 KSP Residual norm 2.458149094397e-08 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.849647976948e-01 
+      1 KSP Residual norm 3.066463588187e-02 
+      2 KSP Residual norm 1.800403094049e-03 
+      3 KSP Residual norm 3.484206719808e-04 
+      4 KSP Residual norm 7.563245057152e-05 
+      5 KSP Residual norm 1.847002536372e-05 
+      6 KSP Residual norm 4.561126477963e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  8 KSP Residual norm 4.693547889377e-09 
+iteration 2     0.0148822
+time for 1 Picard Iteration 2091.25
+Assembling matrices for level 0 and rank 0
+Assembling matrices for level 1 and rank 0
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.321001651689e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 7.502136447116e+00 
+      1 KSP Residual norm 2.510700253553e+00 
+      2 KSP Residual norm 4.324496232507e-01 
+      3 KSP Residual norm 7.999449356114e-02 
+      4 KSP Residual norm 1.565166231220e-02 
+      5 KSP Residual norm 3.145650150321e-03 
+      6 KSP Residual norm 6.434091287686e-04 
+      7 KSP Residual norm 1.373825066645e-04 
+      8 KSP Residual norm 2.927245902300e-05 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  1 KSP Residual norm 1.224289046281e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.141225608127e-02 
+      1 KSP Residual norm 7.806086684065e-04 
+      2 KSP Residual norm 1.681834706383e-04 
+      3 KSP Residual norm 2.858786909581e-05 
+      4 KSP Residual norm 5.243927672062e-06 
+      5 KSP Residual norm 1.041602122906e-06 
+      6 KSP Residual norm 2.143167296278e-07 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  2 KSP Residual norm 8.216589459008e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.113724769703e-01 
+      1 KSP Residual norm 5.076076923436e-03 
+      2 KSP Residual norm 1.141206969151e-03 
+      3 KSP Residual norm 1.890269170814e-04 
+      4 KSP Residual norm 3.559367879598e-05 
+      5 KSP Residual norm 7.074461064636e-06 
+      6 KSP Residual norm 1.470507778072e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  3 KSP Residual norm 1.791399981179e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 5.935881826587e-01 
+      1 KSP Residual norm 1.277088107116e-02 
+      2 KSP Residual norm 2.870550798073e-03 
+      3 KSP Residual norm 4.427478222360e-04 
+      4 KSP Residual norm 8.452593272325e-05 
+      5 KSP Residual norm 1.684130687276e-05 
+      6 KSP Residual norm 3.474871815423e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  4 KSP Residual norm 2.008778758437e-06 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.962219738562e-01 
+      1 KSP Residual norm 1.618203052041e-02 
+      2 KSP Residual norm 2.324101772109e-03 
+      3 KSP Residual norm 3.493619356192e-04 
+      4 KSP Residual norm 7.146289541571e-05 
+      5 KSP Residual norm 1.372155303693e-05 
+      6 KSP Residual norm 2.967301131148e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  5 KSP Residual norm 4.524667069174e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.832972979348e-01 
+      1 KSP Residual norm 1.460438719618e-02 
+      2 KSP Residual norm 8.400423740990e-04 
+      3 KSP Residual norm 1.574214199371e-04 
+      4 KSP Residual norm 3.069747196513e-05 
+      5 KSP Residual norm 7.913847406792e-06 
+      6 KSP Residual norm 1.963523374763e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  6 KSP Residual norm 1.465393797779e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.753610829818e-01 
+      1 KSP Residual norm 2.576829587886e-02 
+      2 KSP Residual norm 2.084899545004e-03 
+      3 KSP Residual norm 3.651825144235e-04 
+      4 KSP Residual norm 6.403291570823e-05 
+      5 KSP Residual norm 1.240312513264e-05 
+      6 KSP Residual norm 2.692552457383e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  7 KSP Residual norm 2.458128910898e-08 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.849655718596e-01 
+      1 KSP Residual norm 3.066072324044e-02 
+      2 KSP Residual norm 1.786839316014e-03 
+      3 KSP Residual norm 3.351277204808e-04 
+      4 KSP Residual norm 7.028525865514e-05 
+      5 KSP Residual norm 1.862531928497e-05 
+      6 KSP Residual norm 4.910586993345e-06 
+      7 KSP Residual norm 1.093191375656e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  8 KSP Residual norm 4.693451538075e-09 
+iteration 3     0.000350094
+time for 1 Picard Iteration 2086.16
+Assembling matrices for level 0 and rank 0
+Assembling matrices for level 1 and rank 0
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.321001651689e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 7.502136468998e+00 
+      1 KSP Residual norm 2.526485583840e+00 
+      2 KSP Residual norm 4.136481939423e-01 
+      3 KSP Residual norm 8.489211674947e-02 
+      4 KSP Residual norm 1.760332367050e-02 
+      5 KSP Residual norm 3.664428024491e-03 
+      6 KSP Residual norm 7.808855372802e-04 
+      7 KSP Residual norm 1.670975498577e-04 
+      8 KSP Residual norm 3.375360590772e-05 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  1 KSP Residual norm 1.224289073471e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.141224969775e-02 
+      1 KSP Residual norm 7.853910473717e-04 
+      2 KSP Residual norm 1.604487028070e-04 
+      3 KSP Residual norm 2.944220060074e-05 
+      4 KSP Residual norm 5.887784635390e-06 
+      5 KSP Residual norm 1.202514213700e-06 
+      6 KSP Residual norm 2.598936876563e-07 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  2 KSP Residual norm 8.216596525500e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.113721589140e-01 
+      1 KSP Residual norm 5.105544638462e-03 
+      2 KSP Residual norm 1.095904994247e-03 
+      3 KSP Residual norm 1.939737521036e-04 
+      4 KSP Residual norm 3.968097354883e-05 
+      5 KSP Residual norm 8.105438875339e-06 
+      6 KSP Residual norm 1.748387870280e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  3 KSP Residual norm 1.791399852988e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 5.935881734858e-01 
+      1 KSP Residual norm 1.282978433568e-02 
+      2 KSP Residual norm 2.766489996561e-03 
+      3 KSP Residual norm 4.527892302759e-04 
+      4 KSP Residual norm 9.415273285782e-05 
+      5 KSP Residual norm 1.936994010197e-05 
+      6 KSP Residual norm 4.181105847749e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  4 KSP Residual norm 2.008777869882e-06 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.962217743098e-01 
+      1 KSP Residual norm 1.620347984298e-02 
+      2 KSP Residual norm 2.255855350979e-03 
+      3 KSP Residual norm 3.495737120658e-04 
+      4 KSP Residual norm 7.822206740418e-05 
+      5 KSP Residual norm 1.497267843216e-05 
+      6 KSP Residual norm 3.108702795834e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  5 KSP Residual norm 4.524664684099e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.832974625093e-01 
+      1 KSP Residual norm 1.460604437350e-02 
+      2 KSP Residual norm 8.265089137492e-04 
+      3 KSP Residual norm 1.498109499302e-04 
+      4 KSP Residual norm 3.048332873947e-05 
+      5 KSP Residual norm 6.803496615373e-06 
+      6 KSP Residual norm 1.496517806443e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  6 KSP Residual norm 1.465395136163e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.753606011659e-01 
+      1 KSP Residual norm 2.577637802067e-02 
+      2 KSP Residual norm 2.037886607605e-03 
+      3 KSP Residual norm 3.532263195163e-04 
+      4 KSP Residual norm 7.007372259873e-05 
+      5 KSP Residual norm 1.344707754262e-05 
+      6 KSP Residual norm 2.840951611064e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  7 KSP Residual norm 2.458140992520e-08 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.849644848994e-01 
+      1 KSP Residual norm 3.066489777861e-02 
+      2 KSP Residual norm 1.757360785621e-03 
+      3 KSP Residual norm 3.171031531269e-04 
+      4 KSP Residual norm 6.492887664353e-05 
+      5 KSP Residual norm 1.356202952668e-05 
+      6 KSP Residual norm 3.180392577431e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  8 KSP Residual norm 4.693498582828e-09 
+iteration 4     6.81545e-06
+time for 1 Picard Iteration 2090.8
+Assembling matrices for level 0 and rank 0
+Assembling matrices for level 1 and rank 0
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.321001651689e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 7.502136469049e+00 
+      1 KSP Residual norm 2.526485640131e+00 
+      2 KSP Residual norm 4.136482621848e-01 
+      3 KSP Residual norm 8.489216375001e-02 
+      4 KSP Residual norm 1.760334526149e-02 
+      5 KSP Residual norm 3.664437117674e-03 
+      6 KSP Residual norm 7.808884492011e-04 
+      7 KSP Residual norm 1.670983023357e-04 
+      8 KSP Residual norm 3.375377494318e-05 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  1 KSP Residual norm 1.224289073139e-03 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.141224929988e-02 
+      1 KSP Residual norm 7.853911226417e-04 
+      2 KSP Residual norm 1.604487317986e-04 
+      3 KSP Residual norm 2.944221523307e-05 
+      4 KSP Residual norm 5.887791348675e-06 
+      5 KSP Residual norm 1.202516957203e-06 
+      6 KSP Residual norm 2.598946005194e-07 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  2 KSP Residual norm 8.216596429095e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.113721613069e-01 
+      1 KSP Residual norm 5.105544797864e-03 
+      2 KSP Residual norm 1.095905104350e-03 
+      3 KSP Residual norm 1.939738437937e-04 
+      4 KSP Residual norm 3.968101473668e-05 
+      5 KSP Residual norm 8.105456028259e-06 
+      6 KSP Residual norm 1.748393782804e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  3 KSP Residual norm 1.791399846916e-05 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 5.935881727105e-01 
+      1 KSP Residual norm 1.282978450372e-02 
+      2 KSP Residual norm 2.766490201495e-03 
+      3 KSP Residual norm 4.527894289521e-04 
+      4 KSP Residual norm 9.415282492731e-05 
+      5 KSP Residual norm 1.936997981921e-05 
+      6 KSP Residual norm 4.181119674187e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  4 KSP Residual norm 2.008777868123e-06 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.962217746750e-01 
+      1 KSP Residual norm 1.620347993776e-02 
+      2 KSP Residual norm 2.255855524924e-03 
+      3 KSP Residual norm 3.495738638935e-04 
+      4 KSP Residual norm 7.822214365096e-05 
+      5 KSP Residual norm 1.497270943124e-05 
+      6 KSP Residual norm 3.108714117355e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  5 KSP Residual norm 4.524664669115e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.832974623342e-01 
+      1 KSP Residual norm 1.460604440655e-02 
+      2 KSP Residual norm 8.265090282863e-04 
+      3 KSP Residual norm 1.498110796400e-04 
+      4 KSP Residual norm 3.048340725531e-05 
+      5 KSP Residual norm 6.803526559322e-06 
+      6 KSP Residual norm 1.496527309804e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  6 KSP Residual norm 1.465395133484e-07 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.753606008718e-01 
+      1 KSP Residual norm 2.577637804811e-02 
+      2 KSP Residual norm 2.037886726856e-03 
+      3 KSP Residual norm 3.532264314407e-04 
+      4 KSP Residual norm 7.007378840413e-05 
+      5 KSP Residual norm 1.344710229427e-05 
+      6 KSP Residual norm 2.840961324612e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  7 KSP Residual norm 2.458140991589e-08 
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.849644849730e-01 
+      1 KSP Residual norm 3.066489788142e-02 
+      2 KSP Residual norm 1.757361281339e-03 
+      3 KSP Residual norm 3.171036456633e-04 
+      4 KSP Residual norm 6.492912028061e-05 
+      5 KSP Residual norm 1.356211519750e-05 
+      6 KSP Residual norm 3.180427341506e-06 
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  8 KSP Residual norm 4.693498576174e-09 
+iteration 5     1.15458e-07
+time for 1 Picard Iteration 2092.9
+Finished Picard Loop
+time taken for solve is12550
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0324.scinet.local with 514 processors, by sudhipv Thu Nov 24 21:12:22 2022
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           1.255e+04     1.000   1.255e+04
+Objects:              1.900e+02     1.000   1.900e+02
+Flop:                 3.766e+13     1.574   3.147e+13  1.618e+16
+Flop/sec:             3.000e+09     1.574   2.507e+09  1.289e+12
+MPI Messages:         9.189e+03     9.000   5.752e+03  2.957e+06
+MPI Message Lengths:  1.523e+08     3.996   1.947e+04  5.757e+10
+MPI Reductions:       1.052e+03     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 1.2551e+04 100.0%  1.6176e+16 100.0%  2.957e+06 100.0%  1.947e+04      100.0%  1.034e+03  98.3%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         17 1.0 2.1002e+03149.8 0.00e+00 0.0 8.7e+03 4.0e+00 1.5e+01  6  0  0  0  1   6  0  0  0  1     0
+BuildTwoSidedF        12 1.0 2.0994e+03155.9 0.00e+00 0.0 0.0e+00 0.0e+00 1.2e+01  6  0  0  0  1   6  0  0  0  1     0
+MatMult              679 1.0 1.8315e+01 1.3 8.64e+09 1.2 2.0e+06 5.8e+03 2.0e+00  0  0 67 20  0   0  0 67 20  0 220534
+MatMultAdd            50 1.0 1.8979e-01 3.2 4.35e+06 1.2 1.5e+05 1.2e+04 0.0e+00  0  0  5  3  0   0  0  5  3  0 10870
+MatMultTranspose      50 1.0 1.8151e+0018.1 0.00e+00 0.0 1.5e+05 4.0e+04 0.0e+00  0  0  5 10  0   0  0  5 10  0     0
+MatSolve             266 1.0 2.9436e+01 1.5 3.76e+13 1.6 0.0e+00 0.0e+00 0.0e+00  0100  0  0  0   0100  0  0  0 549402283
+MatLUFactorSym         1 1.0 5.9504e-01 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum         6 1.0 2.0596e+01 1.4 6.31e+08 1.5 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 13637
+MatConvert             6 1.0 4.9302e-01 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 2.4e+01  0  0  0  0  2   0  0  0  0  2     0
+MatResidual           50 1.0 2.3609e+00 1.5 1.10e+09 1.2 1.4e+05 7.2e+03 0.0e+00  0  0  5  2  0   0  0  5  2  0 219868
+MatAssemblyBegin      26 1.0 2.0994e+03155.8 0.00e+00 0.0 0.0e+00 0.0e+00 1.2e+01  6  0  0  0  1   6  0  0  0  1     0
+MatAssemblyEnd        26 1.0 4.2594e+02232.9 0.00e+00 0.0 0.0e+00 0.0e+00 3.2e+01  1  0  0  0  3   1  0  0  0  3     0
+MatGetRowIJ           13 1.0 1.3182e-02 2.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       6 1.0 2.2293e+00 1.3 0.00e+00 0.0 2.9e+04 1.2e+06 1.0e+00  0  0  1 59  0   0  0  1 59  0     0
+MatGetOrdering         1 1.0 3.0594e-02 2.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 5.1260e-02 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        10 1.0 1.2397e-01 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              13 1.0 3.4667e+01 1.0 9.34e+12 1.6 4.1e+05 9.0e+04 1.4e+02  0 25 14 63 14   0 25 14 63 14 115774015
+KSPSolve               6 1.0 1.0533e+02 1.0 2.83e+13 1.6 2.5e+06 8.0e+03 8.2e+02  1 75 85 35 77   1 75 85 35 79 115475224
+KSPGMRESOrthog       429 1.0 1.2460e+01 4.1 1.53e+08 1.3 0.0e+00 0.0e+00 4.3e+02  0  0  0  0 41   0  0  0  0 41  5716
+PCSetUp               11 1.0 5.8565e+01 1.0 9.34e+12 1.6 4.1e+05 9.0e+04 1.7e+02  0 25 14 63 16   0 25 14 63 16 68531618
+PCSetUpOnBlocks      106 1.0 4.2622e+00 1.3 1.05e+08 1.5 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 10983
+PCApply               50 1.0 1.0261e+02 1.0 2.83e+13 1.6 2.4e+06 8.0e+03 7.1e+02  1 75 80 33 67   1 75 80 33 69 118528002
+PCApplyOnBlocks      266 1.0 4.6396e+01 1.5 3.76e+13 1.6 0.0e+00 0.0e+00 0.0e+00  0100  0  0  0   0100  0  0  0 348567438
+VecMDot              429 1.0 1.2421e+01 4.2 7.67e+07 1.3 0.0e+00 0.0e+00 4.3e+02  0  0  0  0 41   0  0  0  0 41  2867
+VecNorm              491 1.0 8.1856e+00 8.7 1.92e+07 1.3 0.0e+00 0.0e+00 4.9e+02  0  0  0  0 47   0  0  0  0 47  1081
+VecScale             591 1.0 3.7019e-03 1.5 9.58e+06 1.3 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 1195318
+VecCopy              578 1.0 2.4527e-02 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet              1397 1.0 8.6169e-02 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY              112 1.0 8.7805e-03 2.2 6.55e+06 1.2 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 350229
+VecAYPX              300 1.0 3.4985e-02 1.9 1.74e+07 1.2 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 235873
+VecAXPBYCZ           100 1.0 1.9101e-02 1.7 2.17e+07 1.2 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 540013
+VecMAXPY             491 1.0 5.5328e-02 1.4 9.37e+07 1.3 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 785245
+VecScatterBegin     1693 1.0 1.1983e+00 6.2 0.00e+00 0.0 2.6e+06 5.8e+03 3.0e+00  0  0 88 26  0   0  0 88 26  0     0
+VecScatterEnd       1693 1.0 3.6813e+0035.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize         435 1.0 8.1749e+00 8.7 2.14e+07 1.3 0.0e+00 0.0e+00 4.4e+02  0  0  0  0 41   0  0  0  0 42  1200
+SFSetGraph             5 1.0 1.5702e-04 2.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 1.0698e+0017.8 0.00e+00 0.0 1.7e+04 1.5e+03 3.0e+00  0  0  1  0  0   0  0  1  0  0     0
+SFReduceBegin        266 1.0 2.6167e-02 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          266 1.0 2.2551e-04 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack              1693 1.0 1.8559e-02 3.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack            1693 1.0 4.6274e-0313.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    17             17    275163708     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Viewer     2              1          848     0.
+              Vector   120            120     27118176     0.
+           Index Set    20             20      2262856     0.
+   IS L to G Mapping     1              1       513896     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.16999e-08
+Average time for MPI_Barrier(): 8.55546e-05
+Average time for zero size MPI_Send(): 1.34129e-06
+#PETSc Option Table entries:
+-ksp_max_it 200
+-ksp_monitor
+-ksp_pc_side right
+-ksp_type fgmres
+-log_view
+-m 378
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_monitor
+-mg_coarse_ksp_pc_side right
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_factor_mat_solver_type mumps
+-mg_levels_sub_pc_type lu
+-n 378
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+
+scontrol show jobid 8480315
+JobId=8480315 JobName=NL_weak_sto_order7
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=1273729 Nice=0 Account=def-asarkar QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=03:29:32 TimeLimit=07:35:00 TimeMin=N/A
+   SubmitTime=2022-11-24T16:30:23 EligibleTime=2022-11-24T16:30:23
+   AccrueTime=2022-11-24T16:30:23
+   StartTime=2022-11-24T17:42:52 EndTime=2022-11-24T21:12:24 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2022-11-24T17:42:52 Scheduler=Backfill
+   Partition=compute AllocNode:Sid=nia-login07:154972
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia[0328,0345,0349,0369,0397,0437,0443-0444,0451,0458,0844-0845]
+   BatchHost=nia0324
+   NumNodes=12 NumCPUs=1040 NumTasks=520 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1040,mem=2275000M,node=13,billing=520
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/stochastic/process_NL/NLpoisson_new/runff_niagara.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/stochastic/process_NL/NLpoisson_new
+   Comment=/opt/slurm/bin/sbatch --export=NONE runff_niagara.sh 
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/stochastic/process_NL/NLpoisson_new/NL_weak_sto_order7-8480315.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/stochastic/process_NL/NLpoisson_new/NL_weak_sto_order7-8480315.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=INVALID_DEPEND,BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+   
+
+sacct -j 8480315
+JobID           JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+8480315      NL_weak_s+ def-asark+   03:29:32                         01:45:40 74-11:14:+      0:0 
+8480315.bat+      batch def-asark+   03:29:32  99457128K  69351564K  08:20.589 5-19:04:43      0:0 
+8480315.ext+     extern def-asark+   03:29:32    142384K      1132K  00:00.004  00:00.006      0:0 
+8480315.0         orted def-asark+   03:29:21  99075032K  70063500K   01:37:20 68-16:09:+      0:0 

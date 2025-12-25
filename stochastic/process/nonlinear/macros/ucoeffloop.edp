@@ -1,0 +1,80 @@
+if(k ==0 )
+{
+uc0[j][] = uc0[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==1)
+{
+uc1[j][] = uc1[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==2)
+{
+uc2[j][] = uc2[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==3)
+{
+uc3[j][] = uc3[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==4)
+{
+uc4[j][] = uc4[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==5)
+{
+uc5[j][] = uc5[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==6)
+{
+uc6[j][] = uc6[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==7)
+{
+uc7[j][] = uc7[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==8)
+{
+uc8[j][] = uc8[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==9)
+{
+uc9[j][] = uc9[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==10)
+{
+uc10[j][] = uc10[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==11)
+{
+uc11[j][] = uc11[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==12)
+{
+uc12[j][] = uc12[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==13)
+{
+uc13[j][] = uc13[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==14)
+{
+uc14[j][] = uc14[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==15)
+{
+uc15[j][] = uc15[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==16)
+{
+uc16[j][] = uc16[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==17)
+{
+uc17[j][] = uc17[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==18)
+{
+uc18[j][] = uc18[j][] + Li * Cijk(idcijk,3);
+}
+else if(k==19)
+{
+uc19[j][] = uc19[j][] + Li * Cijk(idcijk,3);
+}

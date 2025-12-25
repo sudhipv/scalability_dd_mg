@@ -1,0 +1,1353 @@
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+Number of Vertices for coarse mesh in process  0  564001
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 1 Time0.01
+Time for 1 timestep 1.99225
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 2 Time0.02
+Time for 1 timestep 1.73054
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 3 Time0.03
+Time for 1 timestep 1.72978
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 4 Time0.04
+Time for 1 timestep 1.73528
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 5 Time0.05
+Time for 1 timestep 1.72373
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 6 Time0.06
+Time for 1 timestep 1.73531
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 7 Time0.07
+Time for 1 timestep 1.80778
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 8 Time0.08
+Time for 1 timestep 1.78809
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 9 Time0.09
+Time for 1 timestep 1.78773
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 10 Time0.1
+Time for 1 timestep 1.78895
+total time taken is20.9316
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1779.scinet.local with 40 processors, by sudhipv Fri Oct 22 05:21:19 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           2.101e+01     1.000   2.101e+01
+Objects:              2.130e+02     1.000   2.130e+02
+Flop:                 1.122e+10     1.222   1.007e+10  4.027e+11
+Flop/sec:             5.343e+08     1.222   4.793e+08  1.917e+10
+MPI Messages:         1.035e+04     4.000   6.017e+03  2.407e+05
+MPI Message Lengths:  1.465e+07     2.525   1.914e+03  4.606e+08
+MPI Reductions:       1.146e+03     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 2.1005e+01 100.0%  4.0269e+11 100.0%  2.407e+05 100.0%  1.914e+03      100.0%  1.128e+03  98.4%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         25 1.0 4.2571e-01 6.8 0.00e+00 0.0 5.6e+02 4.0e+00 2.3e+01  1  0  0  0  2   1  0  0  0  2     0
+BuildTwoSidedF        20 1.0 3.3958e-01 6.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  2   1  0  0  0  2     0
+MatMult              800 1.0 7.5895e-01 1.2 3.84e+08 1.0 1.5e+05 1.4e+03 2.0e+00  3  4 62 44  0   3  4 62 44  0 20053
+MatMultAdd            70 1.0 1.1020e-01 1.1 7.96e+06 1.0 1.3e+04 2.4e+03 0.0e+00  0  0  5  7  0   0  0  5  7  0  2862
+MatMultTranspose      70 1.0 1.1828e-01 1.5 0.00e+00 0.0 1.3e+04 7.9e+03 0.0e+00  0  0  5 22  0   0  0  5 22  0     0
+MatSolve             390 1.0 4.4416e+00 1.1 3.57e+09 1.1 0.0e+00 0.0e+00 0.0e+00 20 34  0  0  0  20 34  0  0  0 31090
+MatLUFactorSym         1 1.0 7.9592e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        10 1.0 4.2379e+00 1.4 6.89e+09 1.4 0.0e+00 0.0e+00 0.0e+00 18 58  0  0  0  18 58  0  0  0 55226
+MatConvert            10 1.0 2.1065e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 4.0e+01  0  0  0  0  3   0  0  0  0  4     0
+MatResidual           70 1.0 1.0146e-01 1.5 5.57e+07 1.0 1.3e+04 1.6e+03 0.0e+00  0  1  5  4  0   0  1  5  4  0 21744
+MatAssemblyBegin      42 1.0 3.4011e-01 6.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  2   1  0  0  0  2     0
+MatAssemblyEnd        42 1.0 3.9788e-02 2.8 0.00e+00 0.0 0.0e+00 0.0e+00 4.8e+01  0  0  0  0  4   0  0  0  0  4     0
+MatGetRowIJ           21 1.0 2.4726e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      10 1.0 9.5592e-02 1.0 0.00e+00 0.0 2.6e+03 8.5e+03 1.0e+00  0  0  1  5  0   0  0  1  5  0     0
+MatGetOrdering         1 1.0 2.7549e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 5.4899e-03 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 6.0463e-03 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              21 1.0 6.0910e+00 1.0 8.13e+09 1.3 4.2e+04 2.0e+03 2.2e+02 29 70 18 18 19  29 70 18 18 20 46317
+KSPSolve              10 1.0 6.2240e+00 1.0 3.10e+09 1.1 2.0e+05 1.8e+03 8.2e+02 30 30 81 78 71  30 30 81 78 73 19373
+KSPGMRESOrthog       450 1.0 3.7109e-01 1.9 2.29e+08 1.0 0.0e+00 0.0e+00 4.5e+02  1  2  0  0 39   1  2  0  0 40 24412
+PCSetUp               19 1.0 6.4787e+00 1.0 8.13e+09 1.3 4.2e+04 2.0e+03 2.7e+02 31 70 18 18 23  31 70 18 18 24 43545
+PCSetUpOnBlocks      150 1.0 5.2505e-01 1.3 6.89e+08 1.4 0.0e+00 0.0e+00 0.0e+00  2  6  0  0  0   2  6  0  0  0 44575
+PCApply               70 1.0 6.0839e+00 1.0 2.97e+09 1.1 1.8e+05 1.8e+03 6.7e+02 29 29 76 73 58  29 29 76 73 59 18919
+PCApplyOnBlocks      390 1.0 8.2086e+00 1.2 9.77e+09 1.2 0.0e+00 0.0e+00 0.0e+00 37 87  0  0  0  37 87  0  0  0 42483
+VecMDot              450 1.0 2.9430e-01 2.4 1.14e+08 1.0 0.0e+00 0.0e+00 4.5e+02  1  1  0  0 39   1  1  0  0 40 15391
+VecNorm              540 1.0 1.1245e+0014.8 3.17e+07 1.0 0.0e+00 0.0e+00 5.4e+02  2  0  0  0 47   2  0  0  0 48  1112
+VecScale             680 1.0 4.9675e-03 1.2 1.58e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 125913
+VecCopy              300 1.0 1.9898e-02 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet              1846 1.0 1.3932e-01 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecAXPY              160 1.0 1.2609e-02 1.3 1.22e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 38425
+VecAYPX              420 1.0 5.7455e-02 1.3 3.18e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 21960
+VecAXPBYCZ           140 1.0 3.0859e-02 1.2 3.98e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 51107
+VecMAXPY             540 1.0 9.5080e-02 1.0 1.42e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 59018
+VecScatterBegin     2290 1.0 3.5002e-01 1.6 0.00e+00 0.0 2.1e+05 1.4e+03 3.0e+00  1  0 87 62  0   1  0 87 62  0     0
+VecScatterEnd       2290 1.0 1.2946e-01 4.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize         460 1.0 1.1221e+0015.4 3.38e+07 1.0 0.0e+00 0.0e+00 4.6e+02  2  0  0  0 40   2  0  0  0 41  1190
+SFSetGraph             5 1.0 1.2711e-04 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 1.3586e-0125.7 0.00e+00 0.0 1.1e+03 3.3e+02 3.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin        390 1.0 4.2486e-02 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          390 1.0 3.4479e-04 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack              2290 1.0 6.2252e-03 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack            2290 1.0 2.3336e-03 4.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    21             21     76440732     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Vector   146            146     47750392     0.
+           Index Set    13             13      1379516     0.
+   IS L to G Mapping     1              1      2805172     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.02e-08
+Average time for MPI_Barrier(): 4.52824e-05
+Average time for zero size MPI_Send(): 1.11705e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 750
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 750
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with 40 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  1127844
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 1 Time0.01
+Time for 1 timestep 2.09283
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 2 Time0.02
+Time for 1 timestep 1.81239
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 3 Time0.03
+Time for 1 timestep 1.79734
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 4 Time0.04
+Time for 1 timestep 1.80044
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 5 Time0.05
+Time for 1 timestep 1.8172
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 6 Time0.06
+Time for 1 timestep 1.86343
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 7 Time0.07
+Time for 1 timestep 1.8575
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 8 Time0.08
+Time for 1 timestep 1.90013
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 9 Time0.09
+Time for 1 timestep 1.84986
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 10 Time0.1
+Time for 1 timestep 1.84735
+total time taken is23.3135
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1779.scinet.local with 80 processors, by sudhipv Fri Oct 22 05:21:44 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           2.338e+01     1.000   2.338e+01
+Objects:              2.130e+02     1.000   2.130e+02
+Flop:                 1.116e+10     1.261   9.872e+09  7.897e+11
+Flop/sec:             4.774e+08     1.261   4.223e+08  3.378e+10
+MPI Messages:         1.035e+04     4.000   6.599e+03  5.280e+05
+MPI Message Lengths:  1.528e+07     3.089   1.853e+03  9.785e+08
+MPI Reductions:       1.146e+03     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 2.3379e+01 100.0%  7.8975e+11 100.0%  5.280e+05 100.0%  1.853e+03      100.0%  1.128e+03  98.4%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         25 1.0 5.4659e-01 4.3 0.00e+00 0.0 1.2e+03 4.0e+00 2.3e+01  1  0  0  0  2   1  0  0  0  2     0
+BuildTwoSidedF        20 1.0 5.3059e-01 7.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  2   1  0  0  0  2     0
+MatMult              800 1.0 7.9197e-01 1.2 3.86e+08 1.0 3.3e+05 1.3e+03 2.0e+00  3  4 62 44  0   3  4 62 44  0 38451
+MatMultAdd            70 1.0 1.4455e-01 1.5 7.97e+06 1.0 2.9e+04 2.3e+03 0.0e+00  0  0  5  7  0   0  0  5  7  0  4365
+MatMultTranspose      70 1.0 1.3873e-01 1.7 0.00e+00 0.0 2.9e+04 7.7e+03 0.0e+00  0  0  5 22  0   0  0  5 22  0     0
+MatSolve             390 1.0 4.5358e+00 1.1 3.57e+09 1.1 0.0e+00 0.0e+00 0.0e+00 18 35  0  0  0  18 35  0  0  0 60409
+MatLUFactorSym         1 1.0 9.3614e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        10 1.0 4.3609e+00 1.5 6.83e+09 1.4 0.0e+00 0.0e+00 0.0e+00 16 58  0  0  0  16 58  0  0  0 104245
+MatConvert            10 1.0 3.2584e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 4.0e+01  0  0  0  0  3   0  0  0  0  4     0
+MatResidual           70 1.0 1.1119e-01 1.6 5.58e+07 1.0 2.9e+04 1.5e+03 0.0e+00  0  1  5  4  0   0  1  5  4  0 39705
+MatAssemblyBegin      42 1.0 5.3123e-01 7.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  2   1  0  0  0  2     0
+MatAssemblyEnd        42 1.0 6.6012e-02 4.3 0.00e+00 0.0 0.0e+00 0.0e+00 4.8e+01  0  0  0  0  4   0  0  0  0  4     0
+MatGetRowIJ           21 1.0 4.3592e-03 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      10 1.0 1.0984e-01 1.1 0.00e+00 0.0 5.7e+03 8.2e+03 1.0e+00  0  0  1  5  0   0  0  1  5  0     0
+MatGetOrdering         1 1.0 4.0825e-02 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 6.7612e-03 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 7.3948e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              21 1.0 6.2752e+00 1.0 8.06e+09 1.4 9.3e+04 1.9e+03 2.2e+02 27 70 18 18 19  27 70 18 18 20 87670
+KSPSolve              10 1.0 6.5741e+00 1.0 3.10e+09 1.1 4.3e+05 1.8e+03 8.2e+02 28 30 81 78 71  28 30 81 78 73 36447
+KSPGMRESOrthog       450 1.0 4.5290e-01 1.7 2.29e+08 1.0 0.0e+00 0.0e+00 4.5e+02  2  2  0  0 39   2  2  0  0 40 40012
+PCSetUp               19 1.0 6.7464e+00 1.0 8.06e+09 1.4 9.3e+04 1.9e+03 2.7e+02 29 70 18 18 23  29 70 18 18 24 81546
+PCSetUpOnBlocks      150 1.0 5.2772e-01 1.3 6.83e+08 1.4 0.0e+00 0.0e+00 0.0e+00  2  6  0  0  0   2  6  0  0  0 86146
+PCApply               70 1.0 6.3910e+00 1.0 2.96e+09 1.1 4.0e+05 1.8e+03 6.7e+02 27 29 76 73 58  27 29 76 73 59 35778
+PCApplyOnBlocks      390 1.0 8.4134e+00 1.2 9.71e+09 1.3 0.0e+00 0.0e+00 0.0e+00 33 87  0  0  0  33 87  0  0  0 81198
+VecMDot              450 1.0 3.7765e-01 2.1 1.15e+08 1.0 0.0e+00 0.0e+00 4.5e+02  1  1  0  0 39   1  1  0  0 40 23992
+VecNorm              540 1.0 1.3538e+0017.2 3.17e+07 1.0 0.0e+00 0.0e+00 5.4e+02  3  0  0  0 47   3  0  0  0 48  1848
+VecScale             680 1.0 4.8768e-03 1.3 1.59e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 256541
+VecCopy              300 1.0 2.1142e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet              1846 1.0 1.4526e-01 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecAXPY              160 1.0 1.5429e-02 1.6 1.23e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 62817
+VecAYPX              420 1.0 6.0504e-02 1.4 3.19e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 41716
+VecAXPBYCZ           140 1.0 3.2416e-02 1.2 3.99e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 97327
+VecMAXPY             540 1.0 9.9616e-02 1.1 1.42e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 112681
+VecScatterBegin     2290 1.0 3.7213e-01 1.7 0.00e+00 0.0 4.6e+05 1.3e+03 3.0e+00  1  0 87 62  0   1  0 87 62  0     0
+VecScatterEnd       2290 1.0 2.2350e-01 8.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize         460 1.0 1.3475e+0018.8 3.39e+07 1.0 0.0e+00 0.0e+00 4.6e+02  3  0  0  0 40   3  0  0  0 41  1983
+SFSetGraph             5 1.0 1.7131e-04 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 1.3892e-0122.3 0.00e+00 0.0 2.4e+03 3.2e+02 3.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin        390 1.0 4.5226e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          390 1.0 3.5495e-04 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack              2290 1.0 6.5372e-03 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack            2290 1.0 2.7557e-03 6.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    21             21     76432312     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Vector   146            146     47967288     0.
+           Index Set    13             13      1382084     0.
+   IS L to G Mapping     1              1      2028588     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 2.95e-08
+Average time for MPI_Barrier(): 5.2713e-05
+Average time for zero size MPI_Send(): 1.33386e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 1061
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 1061
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 80 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  2253001
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 1 Time0.01
+Time for 1 timestep 2.25818
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 2 Time0.02
+Time for 1 timestep 1.89142
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 3 Time0.03
+Time for 1 timestep 1.95877
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 4 Time0.04
+Time for 1 timestep 1.88053
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 5 Time0.05
+Time for 1 timestep 1.89958
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 6 Time0.06
+Time for 1 timestep 1.89378
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 7 Time0.07
+Time for 1 timestep 2.06821
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 8 Time0.08
+Time for 1 timestep 1.88928
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 9 Time0.09
+Time for 1 timestep 1.88578
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 10 Time0.1
+Time for 1 timestep 1.88027
+total time taken is27.5492
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1779.scinet.local with 160 processors, by sudhipv Fri Oct 22 05:22:15 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           2.762e+01     1.000   2.762e+01
+Objects:              2.130e+02     1.000   2.130e+02
+Flop:                 1.118e+10     1.265   9.942e+09  1.591e+12
+Flop/sec:             4.047e+08     1.265   3.600e+08  5.760e+10
+MPI Messages:         1.035e+04     4.000   6.874e+03  1.100e+06
+MPI Message Lengths:  1.712e+07     3.099   1.859e+03  2.045e+09
+MPI Reductions:       1.146e+03     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 2.7618e+01 100.0%  1.5908e+12 100.0%  1.100e+06 100.0%  1.859e+03      100.0%  1.128e+03  98.4%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         25 1.0 9.8160e-01 2.6 0.00e+00 0.0 2.6e+03 4.0e+00 2.3e+01  2  0  0  0  2   2  0  0  0  2     0
+BuildTwoSidedF        20 1.0 8.0693e-01 2.6 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  2  0  0  0  2   2  0  0  0  2     0
+MatMult              800 1.0 8.2447e-01 1.2 3.85e+08 1.0 6.8e+05 1.3e+03 2.0e+00  3  4 62 44  0   3  4 62 44  0 73814
+MatMultAdd            70 1.0 1.1889e-01 1.2 7.97e+06 1.0 6.0e+04 2.3e+03 0.0e+00  0  0  5  7  0   0  0  5  7  0 10605
+MatMultTranspose      70 1.0 1.4391e-01 1.8 0.00e+00 0.0 6.0e+04 7.7e+03 0.0e+00  0  0  5 22  0   0  0  5 22  0     0
+MatSolve             390 1.0 4.6077e+00 1.1 3.58e+09 1.1 0.0e+00 0.0e+00 0.0e+00 16 35  0  0  0  16 35  0  0  0 119297
+MatLUFactorSym         1 1.0 8.3703e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        10 1.0 4.3714e+00 1.5 6.85e+09 1.4 0.0e+00 0.0e+00 0.0e+00 14 58  0  0  0  14 58  0  0  0 210209
+MatConvert            10 1.0 3.7959e-02 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 4.0e+01  0  0  0  0  3   0  0  0  0  4     0
+MatResidual           70 1.0 1.2039e-01 1.7 5.58e+07 1.0 6.0e+04 1.5e+03 0.0e+00  0  1  5  5  0   0  1  5  5  0 73284
+MatAssemblyBegin      42 1.0 8.0755e-01 2.6 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  2  0  0  0  2   2  0  0  0  2     0
+MatAssemblyEnd        42 1.0 9.8606e-02 3.2 0.00e+00 0.0 0.0e+00 0.0e+00 4.8e+01  0  0  0  0  4   0  0  0  0  4     0
+MatGetRowIJ           21 1.0 2.6839e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      10 1.0 1.0258e-01 1.1 0.00e+00 0.0 1.2e+04 8.2e+03 1.0e+00  0  0  1  5  0   0  0  1  5  0     0
+MatGetOrdering         1 1.0 2.8775e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 7.7156e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 6.6477e-03 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              21 1.0 6.3777e+00 1.0 8.08e+09 1.4 1.9e+05 1.9e+03 2.2e+02 23 70 18 18 19  23 70 18 18 20 174109
+KSPSolve              10 1.0 6.9206e+00 1.0 3.11e+09 1.1 8.9e+05 1.8e+03 8.2e+02 25 30 81 78 71  25 30 81 78 73 69408
+KSPGMRESOrthog       450 1.0 6.3955e-01 2.3 2.29e+08 1.0 0.0e+00 0.0e+00 4.5e+02  2  2  0  0 39   2  2  0  0 40 56615
+PCSetUp               19 1.0 6.8946e+00 1.0 8.08e+09 1.4 1.9e+05 1.9e+03 2.7e+02 25 70 18 18 23  25 70 18 18 24 161054
+PCSetUpOnBlocks      150 1.0 5.4912e-01 1.5 6.85e+08 1.4 0.0e+00 0.0e+00 0.0e+00  2  6  0  0  0   2  6  0  0  0 167343
+PCApply               70 1.0 6.7076e+00 1.0 2.97e+09 1.1 8.3e+05 1.8e+03 6.7e+02 24 29 76 73 58  24 29 76 73 59 68350
+PCApplyOnBlocks      390 1.0 8.5765e+00 1.3 9.73e+09 1.3 0.0e+00 0.0e+00 0.0e+00 28 87  0  0  0  28 87  0  0  0 160519
+VecMDot              450 1.0 5.6117e-01 2.8 1.15e+08 1.0 0.0e+00 0.0e+00 4.5e+02  1  1  0  0 39   1  1  0  0 40 32261
+VecNorm              540 1.0 1.5062e+0010.3 3.17e+07 1.0 0.0e+00 0.0e+00 5.4e+02  3  0  0  0 47   3  0  0  0 48  3319
+VecScale             680 1.0 4.8050e-03 1.3 1.58e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 520229
+VecCopy              300 1.0 2.1285e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet              1846 1.0 1.4998e-01 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecAXPY              160 1.0 1.4757e-02 1.5 1.23e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 131228
+VecAYPX              420 1.0 6.2123e-02 1.4 3.19e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 81183
+VecAXPBYCZ           140 1.0 3.3332e-02 1.3 3.98e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 189133
+VecMAXPY             540 1.0 1.0010e-01 1.1 1.42e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 224047
+VecScatterBegin     2290 1.0 4.0505e-01 1.7 0.00e+00 0.0 9.6e+05 1.3e+03 3.0e+00  1  0 87 62  0   1  0 87 62  0     0
+VecScatterEnd       2290 1.0 2.3499e-0110.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize         460 1.0 1.4981e+0010.8 3.39e+07 1.0 0.0e+00 0.0e+00 4.6e+02  2  0  0  0 40   2  0  0  0 41  3563
+SFSetGraph             5 1.0 1.5054e-04 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 1.8718e-0128.5 0.00e+00 0.0 5.1e+03 3.2e+02 3.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin        390 1.0 4.6903e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          390 1.0 3.2988e-04 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack              2290 1.0 7.0727e-03 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack            2290 1.0 2.5171e-03 5.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    21             21     77374224     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Vector   146            146     47811656     0.
+           Index Set    13             13      1380028     0.
+   IS L to G Mapping     1              1       681680     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.17e-08
+Average time for MPI_Barrier(): 5.40622e-05
+Average time for zero size MPI_Send(): 1.22301e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 1500
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 1500
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 160 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  3381921
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 1 Time0.01
+Time for 1 timestep 3.15195
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 2 Time0.02
+Time for 1 timestep 2.02499
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 3 Time0.03
+Time for 1 timestep 1.89859
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 4 Time0.04
+Time for 1 timestep 1.93058
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 5 Time0.05
+Time for 1 timestep 1.89323
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 6 Time0.06
+Time for 1 timestep 1.95389
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 7 Time0.07
+Time for 1 timestep 1.88135
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 8 Time0.08
+Time for 1 timestep 1.89449
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 9 Time0.09
+Time for 1 timestep 1.89504
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 10 Time0.1
+Time for 1 timestep 1.89269
+total time taken is31.7719
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1779.scinet.local with 240 processors, by sudhipv Fri Oct 22 05:22:54 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           3.184e+01     1.000   3.184e+01
+Objects:              2.130e+02     1.000   2.130e+02
+Flop:                 1.171e+10     1.362   9.950e+09  2.388e+12
+Flop/sec:             3.679e+08     1.362   3.125e+08  7.499e+10
+MPI Messages:         1.038e+04     4.000   7.101e+03  1.704e+06
+MPI Message Lengths:  1.705e+07     3.267   1.812e+03  3.089e+09
+MPI Reductions:       1.152e+03     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 3.1844e+01 100.0%  2.3880e+12 100.0%  1.704e+06 100.0%  1.812e+03      100.0%  1.134e+03  98.4%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         25 1.0 8.9598e-01 4.2 0.00e+00 0.0 3.9e+03 4.0e+00 2.3e+01  2  0  0  0  2   2  0  0  0  2     0
+BuildTwoSidedF        20 1.0 8.0312e-01 4.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  2  0  0  0  2   2  0  0  0  2     0
+MatMult              803 1.0 8.2279e-01 1.3 3.86e+08 1.0 1.1e+06 1.3e+03 2.0e+00  2  4 62 44  0   2  4 62 44  0 111209
+MatMultAdd            70 1.0 1.1911e-01 1.2 7.98e+06 1.0 9.2e+04 2.2e+03 0.0e+00  0  0  5  7  0   0  0  5  7  0 15891
+MatMultTranspose      70 1.0 2.5913e-01 3.5 0.00e+00 0.0 9.2e+04 7.5e+03 0.0e+00  0  0  5 22  0   0  0  5 22  0     0
+MatSolve             390 1.0 4.6517e+00 1.1 3.70e+09 1.1 0.0e+00 0.0e+00 0.0e+00 14 35  0  0  0  14 35  0  0  0 177483
+MatLUFactorSym         1 1.0 8.7678e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        10 1.0 4.3913e+00 1.6 7.24e+09 1.6 0.0e+00 0.0e+00 0.0e+00 12 58  0  0  0  12 58  0  0  0 313941
+MatConvert            10 1.0 3.8140e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 4.0e+01  0  0  0  0  3   0  0  0  0  4     0
+MatResidual           70 1.0 1.1457e-01 2.0 5.58e+07 1.0 9.2e+04 1.5e+03 0.0e+00  0  1  5  4  0   0  1  5  4  0 115609
+MatAssemblyBegin      42 1.0 8.0375e-01 4.2 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  2  0  0  0  2   2  0  0  0  2     0
+MatAssemblyEnd        42 1.0 1.9952e-01 4.8 0.00e+00 0.0 0.0e+00 0.0e+00 4.8e+01  1  0  0  0  4   1  0  0  0  4     0
+MatGetRowIJ           21 1.0 2.7473e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      10 1.0 1.0296e-01 1.1 0.00e+00 0.0 1.8e+04 8.0e+03 1.0e+00  0  0  1  5  0   0  0  1  5  0     0
+MatGetOrdering         1 1.0 3.8523e-02 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 7.8099e-03 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 6.5647e-03 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              21 1.0 7.1475e+00 1.0 8.52e+09 1.5 3.0e+05 1.9e+03 2.2e+02 22 70 18 18 19  22 70 18 18 20 233119
+KSPSolve              10 1.0 6.9809e+00 1.0 3.20e+09 1.1 1.4e+06 1.7e+03 8.2e+02 22 30 81 78 72  22 30 81 78 73 103394
+KSPGMRESOrthog       453 1.0 5.5278e-01 2.3 2.30e+08 1.0 0.0e+00 0.0e+00 4.5e+02  1  2  0  0 39   1  2  0  0 40 98700
+PCSetUp               19 1.0 7.6984e+00 1.0 8.52e+09 1.5 3.0e+05 1.9e+03 2.7e+02 24 70 18 18 23  24 70 18 18 24 216438
+PCSetUpOnBlocks      150 1.0 5.4360e-01 1.5 7.24e+08 1.6 0.0e+00 0.0e+00 0.0e+00  1  6  0  0  0   1  6  0  0  0 253606
+PCApply               70 1.0 6.8121e+00 1.0 3.06e+09 1.1 1.3e+06 1.8e+03 6.8e+02 21 29 76 73 59  21 29 76 73 60 101133
+PCApplyOnBlocks      390 1.0 8.6605e+00 1.3 1.02e+10 1.4 0.0e+00 0.0e+00 0.0e+00 25 87  0  0  0  25 87  0  0  0 238594
+VecMDot              453 1.0 4.7600e-01 3.1 1.15e+08 1.0 0.0e+00 0.0e+00 4.5e+02  1  1  0  0 39   1  1  0  0 40 57310
+VecNorm              543 1.0 2.0412e+00 3.9 3.18e+07 1.0 0.0e+00 0.0e+00 5.4e+02  3  0  0  0 47   3  0  0  0 48  3687
+VecScale             683 1.0 4.9220e-03 1.4 1.59e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 764466
+VecCopy              300 1.0 2.1006e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet              1849 1.0 1.4991e-01 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY              160 1.0 4.5037e-02 4.5 1.23e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 64550
+VecAYPX              420 1.0 5.9847e-02 1.4 3.19e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 126512
+VecAXPBYCZ           140 1.0 3.3512e-02 1.3 3.99e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 282415
+VecMAXPY             543 1.0 1.0045e-01 1.1 1.43e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 336381
+VecScatterBegin     2293 1.0 4.1664e-01 1.8 0.00e+00 0.0 1.5e+06 1.3e+03 3.0e+00  1  0 87 62  0   1  0 87 62  0     0
+VecScatterEnd       2293 1.0 2.5073e-0112.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize         463 1.0 2.0332e+00 3.9 3.41e+07 1.0 0.0e+00 0.0e+00 4.6e+02  3  0  0  0 40   3  0  0  0 41  3956
+SFSetGraph             5 1.0 1.5399e-04 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 1.8252e-0112.1 0.00e+00 0.0 7.9e+03 3.1e+02 3.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin        390 1.0 4.8599e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          390 1.0 3.8054e-04 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack              2293 1.0 7.3662e-03 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack            2293 1.0 2.6548e-03 6.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    21             21     77928388     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Vector   146            146     47856312     0.
+           Index Set    13             13      1380496     0.
+   IS L to G Mapping     1              1       681992     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.07e-08
+Average time for MPI_Barrier(): 5.89518e-05
+Average time for zero size MPI_Send(): 1.22035e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 1838
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 1838
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 240 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  5635876
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 1 Time0.01
+Time for 1 timestep 2.67116
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 2 Time0.02
+Time for 1 timestep 1.97108
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 3 Time0.03
+Time for 1 timestep 2.09054
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 4 Time0.04
+Time for 1 timestep 2.15433
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 5 Time0.05
+Time for 1 timestep 2.0261
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 6 Time0.06
+Time for 1 timestep 2.07842
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 7 Time0.07
+Time for 1 timestep 2.1207
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 8 Time0.08
+Time for 1 timestep 1.99138
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 9 Time0.09
+Time for 1 timestep 2.14042
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+Finished time step 10 Time0.1
+Time for 1 timestep 1.98144
+total time taken is39.9074
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1779.scinet.local with 400 processors, by sudhipv Fri Oct 22 05:23:38 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           3.998e+01     1.000   3.998e+01
+Objects:              2.130e+02     1.000   2.130e+02
+Flop:                 1.126e+10     1.269   9.902e+09  3.961e+12
+Flop/sec:             2.817e+08     1.269   2.477e+08  9.907e+10
+MPI Messages:         1.043e+04     4.000   7.283e+03  2.913e+06
+MPI Message Lengths:  1.608e+07     2.984   1.808e+03  5.267e+09
+MPI Reductions:       1.166e+03     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 3.9980e+01 100.0%  3.9606e+12 100.0%  2.913e+06 100.0%  1.808e+03      100.0%  1.148e+03  98.5%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         25 1.0 1.4236e+00 2.9 0.00e+00 0.0 6.7e+03 4.0e+00 2.3e+01  3  0  0  0  2   3  0  0  0  2     0
+BuildTwoSidedF        20 1.0 1.2647e+00 3.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  2  0  0  0  2   2  0  0  0  2     0
+MatMult              810 1.0 8.7410e-01 1.2 3.88e+08 1.0 1.8e+06 1.3e+03 2.0e+00  2  4 62 44  0   2  4 62 44  0 175067
+MatMultAdd            70 1.0 1.2237e-01 1.2 7.98e+06 1.0 1.6e+05 2.2e+03 0.0e+00  0  0  5  7  0   0  0  5  7  0 25781
+MatMultTranspose      70 1.0 1.4769e-01 1.8 0.00e+00 0.0 1.6e+05 7.6e+03 0.0e+00  0  0  5 22  0   0  0  5 22  0     0
+MatSolve             390 1.0 4.6179e+00 1.1 3.62e+09 1.1 0.0e+00 0.0e+00 0.0e+00 11 35  0  0  0  11 35  0  0  0 297516
+MatLUFactorSym         1 1.0 1.1515e-01 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        10 1.0 4.5570e+00 1.6 6.94e+09 1.4 0.0e+00 0.0e+00 0.0e+00  9 58  0  0  0   9 58  0  0  0 500091
+MatConvert            10 1.0 6.8256e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 4.0e+01  0  0  0  0  3   0  0  0  0  3     0
+MatResidual           70 1.0 1.2431e-01 1.7 5.59e+07 1.0 1.6e+05 1.5e+03 0.0e+00  0  1  5  4  0   0  1  5  4  0 177608
+MatAssemblyBegin      42 1.0 1.2653e+00 3.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  2  0  0  0  2   2  0  0  0  2     0
+MatAssemblyEnd        42 1.0 3.1420e-0111.8 0.00e+00 0.0 0.0e+00 0.0e+00 4.8e+01  1  0  0  0  4   1  0  0  0  4     0
+MatGetRowIJ           21 1.0 4.6831e-03 2.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      10 1.0 1.0866e-01 1.1 0.00e+00 0.0 3.1e+04 8.0e+03 1.0e+00  0  0  1  5  0   0  0  1  5  0     0
+MatGetOrdering         1 1.0 4.1635e-02 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 1.3425e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 7.4733e-03 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              21 1.0 6.8087e+00 1.0 8.17e+09 1.4 5.1e+05 1.9e+03 2.2e+02 17 70 17 18 19  17 70 17 18 19 405021
+KSPSolve              10 1.0 7.6095e+00 1.0 3.15e+09 1.1 2.4e+06 1.7e+03 8.4e+02 19 30 81 78 72  19 30 81 78 73 158089
+KSPGMRESOrthog       460 1.0 7.9259e-01 1.6 2.33e+08 1.0 0.0e+00 0.0e+00 4.6e+02  2  2  0  0 39   2  2  0  0 40 115722
+PCSetUp               19 1.0 7.5152e+00 1.0 8.17e+09 1.4 5.1e+05 1.9e+03 2.7e+02 19 70 17 18 23  19 70 17 18 23 366945
+PCSetUpOnBlocks      150 1.0 6.0115e-01 1.5 6.94e+08 1.4 0.0e+00 0.0e+00 0.0e+00  1  6  0  0  0   1  6  0  0  0 379094
+PCApply               70 1.0 7.3224e+00 1.0 3.01e+09 1.1 2.2e+06 1.7e+03 6.9e+02 18 29 76 73 59  18 29 76 73 60 156810
+PCApplyOnBlocks      390 1.0 8.6664e+00 1.3 9.81e+09 1.3 0.0e+00 0.0e+00 0.0e+00 20 86  0  0  0  20 86  0  0  0 395194
+VecMDot              460 1.0 7.1415e-01 1.8 1.16e+08 1.0 0.0e+00 0.0e+00 4.6e+02  1  1  0  0 39   1  1  0  0 40 64216
+VecNorm              550 1.0 1.7144e+00 8.0 3.21e+07 1.0 0.0e+00 0.0e+00 5.5e+02  2  0  0  0 47   2  0  0  0 48  7362
+VecScale             690 1.0 4.9539e-03 1.4 1.60e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 1273831
+VecCopy              300 1.0 2.1370e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet              1856 1.0 1.4915e-01 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY              160 1.0 3.1529e-02 3.2 1.23e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 153671
+VecAYPX              420 1.0 5.9809e-02 1.3 3.19e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 210988
+VecAXPBYCZ           140 1.0 3.2826e-02 1.3 3.99e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 480529
+VecMAXPY             550 1.0 1.0335e-01 1.1 1.44e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 549477
+VecScatterBegin     2300 1.0 4.6490e-01 1.8 0.00e+00 0.0 2.5e+06 1.3e+03 3.0e+00  1  0 87 62  0   1  0 87 62  0     0
+VecScatterEnd       2300 1.0 2.7243e-0111.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize         470 1.0 1.6983e+00 8.6 3.44e+07 1.0 0.0e+00 0.0e+00 4.7e+02  2  0  0  0 40   2  0  0  0 41  7962
+SFSetGraph             5 1.0 1.6305e-04 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 2.3021e-0112.2 0.00e+00 0.0 1.3e+04 3.1e+02 3.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin        390 1.0 4.6726e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          390 1.0 4.3280e-04 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack              2300 1.0 7.0289e-03 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack            2300 1.0 2.6314e-03 6.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    21             21     76564112     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Vector   146            146     47898456     0.
+           Index Set    13             13      1380724     0.
+   IS L to G Mapping     1              1       682160     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.1e-08
+Average time for MPI_Barrier(): 6.77202e-05
+Average time for zero size MPI_Send(): 1.30222e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2373
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2373
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 400 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+
+scontrol show jobid 6267137
+JobId=6267137 JobName=heat_weak_hypre
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=1775834 Nice=0 Account=def-asarkar QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:02:48 TimeLimit=01:30:00 TimeMin=N/A
+   SubmitTime=2021-10-22T05:03:43 EligibleTime=2021-10-22T05:03:43
+   AccrueTime=2021-10-22T05:03:43
+   StartTime=2021-10-22T05:20:51 EndTime=2021-10-22T05:23:39 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-10-22T05:20:51
+   Partition=compute AllocNode:Sid=nia-login07:412227
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia[1780-1785,1787-1788]
+   BatchHost=nia1779
+   NumNodes=8 NumCPUs=800 NumTasks=400 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=800,mem=1750000M,node=10,billing=400
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak_heat/runff_niagara_heat.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak_heat
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak_heat/heat_weak_hypre-6267137.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak_heat/heat_weak_hypre-6267137.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+
+sacct -j 6267137
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+6267137      heat_weak+ def-asark+   00:02:48                        14:03.663   08:31:30      0:0 
+6267137.bat+      batch def-asark+   00:02:48  47242604K  26642508K  02:40.709   01:36:22      0:0 
+6267137.ext+     extern def-asark+   00:02:48    138360K      1068K   00:00:00  00:00.006      0:0 
+6267137.0         orted def-asark+   00:00:23    395280K      2988K  00:01.031  00:01.002      0:0 
+6267137.1         orted def-asark+   00:00:27    395280K      2992K  00:25.634  15:32.402      0:0 
+6267137.2         orted def-asark+   00:00:30  40014928K  21502036K  01:25.177  54:49.954      0:0 
+6267137.3         orted def-asark+   00:00:39  34135048K  11174444K  02:55.192   01:46:02      0:0 
+6267137.4         orted def-asark+   00:00:46  36004676K  11192748K  06:35.917   03:58:42      0:0 

@@ -1,0 +1,122 @@
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+Number of Vertices for coarse mesh in process  0  25010001
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 23 with PID 127231 on node nia0045 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 10 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+slurmstepd: error: Detected 179 oom-kill event(s) in step 6179821.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
+
+scontrol show jobid 6179821
+JobId=6179821 JobName=Poisson_Weak
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=2429021 Nice=0 Account=def-asarkar QOS=normal
+   JobState=COMPLETING Reason=OutOfMemory Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:125
+   RunTime=00:00:35 TimeLimit=00:30:00 TimeMin=N/A
+   SubmitTime=2021-10-02T00:48:50 EligibleTime=2021-10-02T00:48:50
+   AccrueTime=2021-10-02T00:48:50
+   StartTime=2021-10-02T00:48:52 EndTime=2021-10-02T00:49:27 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-10-02T00:48:52
+   Partition=compute AllocNode:Sid=nia-login03:376588
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia0045
+   BatchHost=nia0045
+   NumNodes=1 NumCPUs=80 NumTasks=40 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=80,mem=175000M,node=1,billing=40
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak/runff_niagara_weak.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak/Poisson_Weak-6179821.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak/Poisson_Weak-6179821.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+
+sacct -j 6179821
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+6179821      Poisson_W+ def-asark+   00:00:35                        00:04.109  00:10.317    0:125 
+6179821.bat+      batch def-asark+   00:00:35    138676K      1256K  00:04.108  00:10.317    0:125 
+6179821.ext+     extern def-asark+   00:00:35    138360K       876K   00:00:00   00:00:00      0:0 
+
+kernel messages produced during job executions:
+[Oct 2 00:20] FreeFem++-mpi invoked oom-killer: gfp_mask=0xd0, order=0, oom_score_adj=0
+[  +0.009471] FreeFem++-mpi cpuset=/ mems_allowed=0-1
+[  +0.006095] CPU: 32 PID: 127240 Comm: FreeFem++-mpi Tainted: G           OE  ------------ T 3.10.0-957.78.2.el7.x86_64 #1
+[  +0.012774] Hardware name: Lenovo ThinkSystem SD530 -[7X21CTO1WW]-/-[7X21CTO1WW]-, BIOS -[TEE148M-2.41]- 10/31/2019
+[  +0.012170] Call Trace:
+[  +0.003266]  [<ffffffffb6166bca>] dump_stack+0x19/0x1b
+[  +0.006275]  [<ffffffffb6161d11>] dump_header+0x90/0x229
+[  +0.006462]  [<ffffffffb5ad81d2>] ? default_wake_function+0x12/0x20
+[  +0.007520]  [<ffffffffb5bbb9d6>] ? find_lock_task_mm+0x56/0xc0
+[  +0.007145]  [<ffffffffb5c33508>] ? try_get_mem_cgroup_from_mm+0x28/0x60
+[  +0.008022]  [<ffffffffb5bbbe84>] oom_kill_process+0x254/0x3d0
+[  +0.007061]  [<ffffffffb5c37706>] mem_cgroup_oom_synchronize+0x546/0x570
+[  +0.008019]  [<ffffffffb5c36b80>] ? mem_cgroup_charge_common+0xc0/0xc0
+[  +0.007837]  [<ffffffffb5bbc714>] pagefault_out_of_memory+0x14/0x90
+[  +0.007548]  [<ffffffffb616019d>] mm_fault_error+0x6a/0x157
+[  +0.006777]  [<ffffffffb61747e8>] __do_page_fault+0x3c8/0x4f0
+[  +0.006971]  [<ffffffffb6174945>] do_page_fault+0x35/0x90
+[  +0.006586]  [<ffffffffb6170778>] page_fault+0x28/0x30
+[  +0.006297] Task in /slurm/uid_3061414/job_6179821/step_batch killed as a result of limit of /slurm/uid_3061414/job_6179821/step_batch
+[  +0.014582] memory: usage 179200000kB, limit 179200000kB, failcnt 6742
+[  +0.007907] memory+swap: usage 179200000kB, limit 9007199254740988kB, failcnt 0
+[  +0.008782] kmem: usage 0kB, limit 9007199254740988kB, failcnt 0
+[  +0.007332] Memory cgroup stats for /slurm/uid_3061414/job_6179821/step_batch: cache:72028KB rss:179127972KB rss_huge:141361152KB mapped_file:51028KB swap:0KB inactive_anon:71892KB active_anon:179127900KB inactive_file:12KB active_file:0KB unevictable:0KB
+[  +0.027861] [ pid ]   uid  tgid total_vm      rss nr_ptes swapents oom_score_adj name
+[  +0.009756] [126711] 3061414 126711    28389      506      12        0             0 slurm_script
+[  +0.010823] [127200] 3061414 127200   127554     3566      40        0             0 mpirun
+[  +0.010239] [127210] 3061414 127210  1243584  1101774    2238        0             0 FreeFem++-mpi
+[  +0.010916] [127211] 3061414 127211  1244110  1115235    2268        0             0 FreeFem++-mpi
+[  +0.010906] [127212] 3061414 127212  1243584  1086138    2210        0             0 FreeFem++-mpi
+[  +0.010895] [127213] 3061414 127213  1246426  1123812    2289        0             0 FreeFem++-mpi
+[  +0.010903] [127214] 3061414 127214  1344083  1143738    2326        0             0 FreeFem++-mpi
+[  +0.010895] [127215] 3061414 127215  1341241  1176028    2384        0             0 FreeFem++-mpi
+[  +0.010712] [127216] 3061414 127216  1246689  1113287    2267        0             0 FreeFem++-mpi
+[  +0.010901] [127217] 3061414 127217  1243584  1092177    2217        0             0 FreeFem++-mpi
+[  +0.010884] [127218] 3061414 127218  1194755  1066054    2170        0             0 FreeFem++-mpi
+[  +0.010886] [127219] 3061414 127219  1343820  1132831    2302        0             0 FreeFem++-mpi
+[  +0.010881] [127220] 3061414 127220  1246426  1092762    2224        0             0 FreeFem++-mpi
+[  +0.010884] [127221] 3061414 127221  1245637  1114344    2264        0             0 FreeFem++-mpi
+[  +0.010890] [127222] 3061414 127222  1243584  1125380    2285        0             0 FreeFem++-mpi
+[  +0.011048] [127223] 3061414 127223  1244110  1125122    2287        0             0 FreeFem++-mpi
+[  +0.010867] [127224] 3061414 127224  1246426  1128436    2296        0             0 FreeFem++-mpi
+[  +0.010834] [127225] 3061414 127225  1245637  1121355    2279        0             0 FreeFem++-mpi
+[  +0.010792] [127226] 3061414 127226  1245900  1118601    2275        0             0 FreeFem++-mpi
+[  +0.010788] [127227] 3061414 127227  1246163  1102072    2238        0             0 FreeFem++-mpi
+[  +0.010798] [127228] 3061414 127228  1243847  1090479    2220        0             0 FreeFem++-mpi
+[  +0.010779] [127229] 3061414 127229  1246163  1128400    2289        0             0 FreeFem++-mpi
+[  +0.010770] [127230] 3061414 127230  1246163  1128410    2295        0             0 FreeFem++-mpi
+[  +0.010743] [127231] 3061414 127231  1343820  1187864    2413        0             0 FreeFem++-mpi
+[  +0.010715] [127232] 3061414 127232  1246163  1122796    2283        0             0 FreeFem++-mpi
+[  +0.010703] [127233] 3061414 127233  1344083  1167996    2371        0             0 FreeFem++-mpi
+[  +0.010693] [127234] 3061414 127234  1243847  1124999    2281        0             0 FreeFem++-mpi
+[  +0.010687] [127235] 3061414 127235  1244110  1105649    2250        0             0 FreeFem++-mpi
+[  +0.010690] [127236] 3061414 127236  1245900  1098352    2236        0             0 FreeFem++-mpi
+[  +0.010686] [127237] 3061414 127237  1246163  1106685    2249        0             0 FreeFem++-mpi
+[  +0.010662] [127238] 3061414 127238  1343819  1174871    2385        0             0 FreeFem++-mpi
+[  +0.010660] [127239] 3061414 127239  1246426  1115357    2271        0             0 FreeFem++-mpi
+[  +0.010662] [127240] 3061414 127240  1244110  1111628    2258        0             0 FreeFem++-mpi
+[  +0.010654] [127241] 3061414 127241  1246426  1117265    2272        0             0 FreeFem++-mpi
+[  +0.010649] [127242] 3061414 127242  1343557  1143404    2325        0             0 FreeFem++-mpi
+[  +0.010552] [127243] 3061414 127243  1246163  1111026    2262        0             0 FreeFem++-mpi
+[  +0.010632] [127244] 3061414 127244  1243847  1100967    2239        0             0 FreeFem++-mpi
+[  +0.010632] [127245] 3061414 127245  1343820  1146086    2330        0             0 FreeFem++-mpi
+[  +0.010554] [127246] 3061414 127246  1246162  1122220    2280        0             0 FreeFem++-mpi
+[  +0.010493] [127247] 3061414 127247  1246425  1093810    2225        0             0 FreeFem++-mpi
+[  +0.010586] [127249] 3061414 127249  1246425  1122807    2286        0             0 FreeFem++-mpi
+[  +0.010552] [127250] 3061414 127250  1246163  1094100    2227        0             0 FreeFem++-mpi
+[  +0.010672] Memory cgroup out of memory: Kill process 128972 (FreeFem++-mpi) score 26 or sacrifice child
+[  +0.011244] Killed process 127231 (FreeFem++-mpi) total-vm:5375280kB, anon-rss:4749956kB, file-rss:0kB, shmem-rss:1500kB

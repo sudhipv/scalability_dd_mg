@@ -1,0 +1,2430 @@
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+Number of Vertices for coarse mesh in process  0  8003241
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     1
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.174839
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.0194926
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     0.00129681
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     9.63168e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     9.15598e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     6.28984e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 7     6.25712e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 8     4.61508e-09
+Finished time step 1 Time0.01
+Time for 1 timestep 172.417
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.270205
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.0183175
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.00104469
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     7.78301e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     5.35412e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     3.99523e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     2.87535e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 7     2.10448e-09
+Finished time step 2 Time0.02
+Time for 1 timestep 152.829
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.162058
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00758866
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.000413336
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     2.55755e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     1.62857e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     1.05244e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     6.81521e-09
+Finished time step 3 Time0.03
+Time for 1 timestep 134.178
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.115936
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00435932
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.000217545
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     1.17762e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     6.95716e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     3.96925e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     2.40204e-09
+Finished time step 4 Time0.04
+Time for 1 timestep 132.364
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0900613
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00288806
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.000130582
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     6.45069e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     3.49347e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     1.83493e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     1.02471e-09
+Finished time step 5 Time0.05
+Time for 1 timestep 132.717
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.073235
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00207056
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     8.52334e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     3.92258e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     1.95277e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     9.63568e-09
+Finished time step 6 Time0.06
+Time for 1 timestep 114.434
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0611618
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00156008
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     5.90377e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     2.56174e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     1.18109e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     5.52984e-09
+Finished time step 7 Time0.07
+Time for 1 timestep 114.566
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.051877
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00121587
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     4.27901e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     1.7652e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     7.59639e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     3.39594e-09
+Finished time step 8 Time0.08
+Time for 1 timestep 114.239
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0443908
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.000970967
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     3.21836e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     1.27013e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     5.13736e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     2.20416e-09
+Finished time step 9 Time0.09
+Time for 1 timestep 113.536
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.03817
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.000789724
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     2.49864e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     9.48133e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     3.62682e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     1.50107e-09
+Finished time step 10 Time0.1
+Time for 1 timestep 113.68
+total time taken is1323.02
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0599.scinet.local with 320 processors, by sudhipv Fri Oct 22 06:08:45 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           1.323e+03     1.000   1.323e+03
+Objects:              6.770e+02     1.000   6.770e+02
+Flop:                 1.654e+11     1.288   1.468e+11  4.698e+13
+Flop/sec:             1.250e+08     1.288   1.110e+08  3.550e+10
+MPI Messages:         7.029e+04     4.000   4.832e+04  1.546e+07
+MPI Message Lengths:  1.465e+08     2.672   2.466e+03  3.814e+10
+MPI Reductions:       7.740e+03     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 1.3232e+03 100.0%  4.6979e+13 100.0%  1.546e+07 100.0%  2.466e+03      100.0%  7.722e+03  99.8%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided        141 1.0 1.1131e+0219.1 0.00e+00 0.0 5.3e+03 4.0e+00 1.4e+02  5  0  0  0  2   5  0  0  0  2     0
+BuildTwoSidedF       136 1.0 1.1114e+0219.4 0.00e+00 0.0 0.0e+00 0.0e+00 1.4e+02  5  0  0  0  2   5  0  0  0  2     0
+MatMult             5508 1.0 1.0376e+01 1.1 4.67e+09 1.0 9.7e+06 1.7e+03 2.0e+00  1  3 63 44  0   1  3 63 44  0 142434
+MatMultAdd           476 1.0 1.8630e+00 1.4 9.60e+07 1.0 8.4e+05 3.0e+03 0.0e+00  0  0  5  7  0   0  0  5  7  0 16353
+MatMultTranspose     476 1.0 1.9220e+00 2.0 0.00e+00 0.0 8.4e+05 1.0e+04 0.0e+00  0  0  5 23  0   0  0  5 23  0     0
+MatSolve            2652 1.0 6.3007e+01 1.1 4.68e+10 1.1 0.0e+00 0.0e+00 0.0e+00  4 30  0  0  0   4 30  0  0  0 227015
+MatLUFactorSym         1 1.0 1.7186e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        68 1.0 8.5245e+01 1.5 1.10e+11 1.4 0.0e+00 0.0e+00 0.0e+00  6 63  0  0  0   6 63  0  0  0 348438
+MatConvert            68 1.0 6.8607e-01 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.7e+02  0  0  0  0  4   0  0  0  0  4     0
+MatResidual          476 1.0 1.4719e+00 1.6 6.72e+08 1.0 8.4e+05 2.1e+03 0.0e+00  0  0  5  5  0   0  0  5  5  0 144859
+MatAssemblyBegin     274 1.0 1.1115e+0219.3 0.00e+00 0.0 0.0e+00 0.0e+00 1.4e+02  5  0  0  0  2   5  0  0  0  2     0
+MatAssemblyEnd       274 1.0 1.8369e+0010.9 0.00e+00 0.0 0.0e+00 0.0e+00 2.8e+02  0  0  0  0  4   0  0  0  0  4     0
+MatGetRowIJ          137 1.0 5.4535e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      68 1.0 1.3108e+00 1.2 0.00e+00 0.0 1.3e+05 1.4e+04 1.0e+00  0  0  1  5  0   0  0  1  5  0     0
+MatGetOrdering         1 1.0 6.4266e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 1.9152e-02 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries       134 1.0 1.2474e-01 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp             137 1.0 1.0970e+02 1.0 1.26e+11 1.4 2.6e+06 2.6e+03 1.4e+03  8 74 17 18 19   8 74 17 18 19 315582
+KSPSolve              68 1.0 9.3910e+01 1.0 4.02e+10 1.1 1.3e+07 2.4e+03 5.7e+03  7 26 82 78 74   7 26 82 78 74 131625
+KSPGMRESOrthog      3128 1.0 8.2702e+00 2.1 2.80e+09 1.0 0.0e+00 0.0e+00 3.1e+03  0  2  0  0 40   0  2  0  0 41 107099
+PCSetUp              135 1.0 1.1607e+02 1.0 1.26e+11 1.4 2.6e+06 2.6e+03 1.7e+03  9 74 17 18 22   9 74 17 18 22 298242
+PCSetUpOnBlocks     1020 1.0 1.4859e+00 1.4 1.62e+09 1.4 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 293966
+PCApply              476 1.0 9.1460e+01 1.0 3.85e+10 1.1 1.2e+07 2.4e+03 4.7e+03  7 25 77 74 61   7 25 77 74 61 129370
+PCApplyOnBlocks     2652 1.0 1.4623e+02 1.3 1.55e+11 1.3 0.0e+00 0.0e+00 0.0e+00 10 93  0  0  0  10 93  0  0  0 297952
+VecMDot             3128 1.0 7.0687e+00 2.7 1.40e+09 1.0 0.0e+00 0.0e+00 3.1e+03  0  1  0  0 40   0  1  0  0 41 62651
+VecNorm             3740 1.0 2.9404e+0133.0 3.85e+08 1.0 0.0e+00 0.0e+00 3.7e+03  1  0  0  0 48   1  0  0  0 48  4145
+VecScale            4692 1.0 6.5797e-02 1.4 1.93e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 926146
+VecCopy             2040 1.0 3.7961e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             12586 1.0 2.0105e+00 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY             1088 1.0 2.1259e-01 1.8 1.48e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 220087
+VecAYPX             2856 1.0 8.5087e-01 1.3 3.84e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 143221
+VecAXPBYCZ           952 1.0 4.6172e-01 1.3 4.80e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 329916
+VecMAXPY            3740 1.0 1.5132e+00 1.1 1.73e+09 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 362431
+VecScatterBegin    15640 1.0 3.8704e+00 1.3 0.00e+00 0.0 1.4e+07 1.8e+03 3.0e+00  0  0 88 63  0   0  0 88 63  0     0
+VecScatterEnd      15640 1.0 2.8492e+00 8.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize        3196 1.0 2.9268e+0139.9 4.13e+08 1.0 0.0e+00 0.0e+00 3.2e+03  1  0  0  0 41   1  0  0  0 41  4462
+SFSetGraph             5 1.0 2.5642e-04 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 4.4577e-0142.7 0.00e+00 0.0 1.1e+04 4.2e+02 3.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin       2652 1.0 7.2825e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd         2652 1.0 3.0151e-03 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             15640 1.0 8.9920e-02 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           15640 1.0 2.9423e-02 7.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    79             79    142594288     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Vector   552            552    315601088     0.
+           Index Set    13             13      2437308     0.
+   IS L to G Mapping     1              1      1208984     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.24e-08
+Average time for MPI_Barrier(): 6.54082e-05
+Average time for zero size MPI_Send(): 1.38796e-06
+#PETSc Option Table entries:
+-beta 1
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with 40 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     1
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.174839
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.0194926
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     0.00129681
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     9.63168e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     9.156e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     6.2896e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 7     6.25663e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 8     4.61477e-09
+Finished time step 1 Time0.01
+Time for 1 timestep 137.162
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.270205
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.0183175
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.00104469
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     7.78306e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     5.35413e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     3.99521e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     2.87534e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 7     2.1045e-09
+Finished time step 2 Time0.02
+Time for 1 timestep 121.783
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.162058
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00758866
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.000413338
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     2.55757e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     1.62866e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     1.05251e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     6.81564e-09
+Finished time step 3 Time0.03
+Time for 1 timestep 106.265
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.115936
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00435932
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.000217544
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     1.17762e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     6.95719e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     3.96928e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     2.40205e-09
+Finished time step 4 Time0.04
+Time for 1 timestep 107.452
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0900613
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00288806
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.000130583
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     6.45096e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     3.49373e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     1.83507e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     1.02485e-09
+Finished time step 5 Time0.05
+Time for 1 timestep 106.736
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.073235
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00207056
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     8.52336e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     3.92258e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     1.95277e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     9.63567e-09
+Finished time step 6 Time0.06
+Time for 1 timestep 91.7287
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0611618
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00156008
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     5.90371e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     2.56175e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     1.18109e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     5.52991e-09
+Finished time step 7 Time0.07
+Time for 1 timestep 91.4846
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0518771
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00121588
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     4.27905e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     1.76519e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     7.59638e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     3.39592e-09
+Finished time step 8 Time0.08
+Time for 1 timestep 91.7028
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0443908
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.000970968
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     3.21836e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     1.27013e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     5.13735e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     2.20415e-09
+Finished time step 9 Time0.09
+Time for 1 timestep 93.6168
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.03817
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.000789723
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     2.49861e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     9.48141e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     3.62686e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     1.50103e-09
+Finished time step 10 Time0.1
+Time for 1 timestep 91.1822
+total time taken is1067.06
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0599.scinet.local with 400 processors, by sudhipv Fri Oct 22 06:26:36 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           1.067e+03     1.000   1.067e+03
+Objects:              6.770e+02     1.000   6.770e+02
+Flop:                 1.318e+11     1.376   1.087e+11  4.349e+13
+Flop/sec:             1.235e+08     1.376   1.019e+08  4.076e+10
+MPI Messages:         7.029e+04     4.000   4.885e+04  1.954e+07
+MPI Message Lengths:  1.330e+08     3.010   2.171e+03  4.243e+10
+MPI Reductions:       7.740e+03     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 1.0671e+03 100.0%  4.3491e+13 100.0%  1.954e+07 100.0%  2.171e+03      100.0%  7.722e+03  99.8%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided        141 1.0 9.1703e+0117.8 0.00e+00 0.0 6.7e+03 4.0e+00 1.4e+02  5  0  0  0  2   5  0  0  0  2     0
+BuildTwoSidedF       136 1.0 9.1564e+0118.2 0.00e+00 0.0 0.0e+00 0.0e+00 1.4e+02  5  0  0  0  2   5  0  0  0  2     0
+MatMult             5508 1.0 8.5988e+00 1.3 3.74e+09 1.0 1.2e+07 1.5e+03 2.0e+00  1  3 63 44  0   1  3 63 44  0 171866
+MatMultAdd           476 1.0 1.5030e+00 1.5 7.70e+07 1.0 1.1e+06 2.7e+03 0.0e+00  0  0  5  7  0   0  0  5  7  0 20270
+MatMultTranspose     476 1.0 1.5751e+00 1.9 0.00e+00 0.0 1.1e+06 9.0e+03 0.0e+00  0  0  5 23  0   0  0  5 23  0     0
+MatSolve            2652 1.0 4.9170e+01 1.1 3.71e+10 1.1 0.0e+00 0.0e+00 0.0e+00  4 32  0  0  0   4 32  0  0  0 283092
+MatLUFactorSym         1 1.0 1.3475e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        68 1.0 6.2956e+01 1.6 8.72e+10 1.6 0.0e+00 0.0e+00 0.0e+00  5 61  0  0  0   5 61  0  0  0 422497
+MatConvert            68 1.0 6.4328e-01 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.7e+02  0  0  0  0  4   0  0  0  0  4     0
+MatResidual          476 1.0 1.3314e+00 2.0 5.39e+08 1.0 1.1e+06 1.8e+03 0.0e+00  0  0  5  5  0   0  0  5  5  0 160148
+MatAssemblyBegin     274 1.0 9.1570e+0118.2 0.00e+00 0.0 0.0e+00 0.0e+00 1.4e+02  5  0  0  0  2   5  0  0  0  2     0
+MatAssemblyEnd       274 1.0 1.3273e+00 8.9 0.00e+00 0.0 0.0e+00 0.0e+00 2.8e+02  0  0  0  0  4   0  0  0  0  4     0
+MatGetRowIJ          137 1.0 4.5249e-03 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      68 1.0 1.0552e+00 1.2 0.00e+00 0.0 1.6e+05 1.2e+04 1.0e+00  0  0  1  5  0   0  0  1  5  0     0
+MatGetOrdering         1 1.0 4.6967e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 1.6044e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries       134 1.0 9.3975e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp             137 1.0 8.2266e+01 1.0 9.99e+10 1.5 3.3e+06 2.3e+03 1.4e+03  8 72 17 18 19   8 72 17 18 19 381765
+KSPSolve              68 1.0 7.5637e+01 1.0 3.19e+10 1.1 1.6e+07 2.1e+03 5.7e+03  7 28 82 79 74   7 28 82 79 74 159779
+KSPGMRESOrthog      3128 1.0 6.8570e+00 1.9 2.24e+09 1.0 0.0e+00 0.0e+00 3.1e+03  1  2  0  0 40   1  2  0  0 41 129172
+PCSetUp              135 1.0 8.8041e+01 1.0 9.99e+10 1.5 3.3e+06 2.3e+03 1.7e+03  8 72 17 18 22   8 72 17 18 22 356723
+PCSetUpOnBlocks     1020 1.0 1.0925e+00 1.4 1.28e+09 1.6 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 358048
+PCApply              476 1.0 7.3392e+01 1.0 3.06e+10 1.1 1.5e+07 2.1e+03 4.7e+03  7 27 77 74 61   7 27 77 74 61 157461
+PCApplyOnBlocks     2652 1.0 1.1153e+02 1.3 1.23e+11 1.4 0.0e+00 0.0e+00 0.0e+00  9 92  0  0  0   9 92  0  0  0 359781
+VecMDot             3128 1.0 5.9601e+00 2.3 1.12e+09 1.0 0.0e+00 0.0e+00 3.1e+03  0  1  0  0 40   0  1  0  0 41 74305
+VecNorm             3740 1.0 2.3812e+0126.6 3.09e+08 1.0 0.0e+00 0.0e+00 3.7e+03  1  0  0  0 48   1  0  0  0 48  5118
+VecScale            4692 1.0 4.6862e-02 1.3 1.55e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 1300365
+VecCopy             2040 1.0 2.6123e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             12586 1.0 1.6143e+00 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY             1088 1.0 1.5808e-01 1.7 1.18e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 295981
+VecAYPX             2856 1.0 6.7166e-01 1.4 3.08e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 181435
+VecAXPBYCZ           952 1.0 3.5148e-01 1.3 3.85e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 433396
+VecMAXPY            3740 1.0 1.1638e+00 1.1 1.39e+09 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 471232
+VecScatterBegin    15640 1.0 2.9600e+00 1.3 0.00e+00 0.0 1.7e+07 1.6e+03 3.0e+00  0  0 88 63  0   0  0 88 63  0     0
+VecScatterEnd      15640 1.0 3.3476e+00 9.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize        3196 1.0 2.3656e+0131.9 3.32e+08 1.0 0.0e+00 0.0e+00 3.2e+03  1  0  0  0 41   1  0  0  0 41  5520
+SFSetGraph             5 1.0 2.0373e-04 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 3.4154e-0133.9 0.00e+00 0.0 1.3e+04 3.7e+02 3.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin       2652 1.0 5.2474e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd         2652 1.0 3.0338e-03 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             15640 1.0 7.0087e-02 2.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           15640 1.0 2.4686e-02 7.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    79             79    113215632     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Vector   552            552    252652232     0.
+           Index Set    13             13      1952336     0.
+   IS L to G Mapping     1              1       967316     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.16e-08
+Average time for MPI_Barrier(): 6.3695e-05
+Average time for zero size MPI_Send(): 1.33898e-06
+#PETSc Option Table entries:
+-beta 1
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 400 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     1
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.174839
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.0194926
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     0.00129681
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     9.63177e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     9.15603e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     6.28987e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 7     6.25712e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 8     4.61511e-09
+Finished time step 1 Time0.01
+Time for 1 timestep 90.7871
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.270205
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.0183175
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.00104469
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     7.78302e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     5.35411e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     3.99521e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     2.87534e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 7     2.10449e-09
+Finished time step 2 Time0.02
+Time for 1 timestep 80.2297
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.162058
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00758866
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.000413336
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     2.55756e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     1.6286e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     1.05246e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     6.81532e-09
+Finished time step 3 Time0.03
+Time for 1 timestep 70.6512
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.115936
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00435932
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.000217544
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     1.17762e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     6.95729e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     3.96933e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     2.40196e-09
+Finished time step 4 Time0.04
+Time for 1 timestep 70.9263
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0900613
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00288806
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     0.000130591
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     6.4508e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     3.49343e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     1.83489e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 6     1.02475e-09
+Finished time step 5 Time0.05
+Time for 1 timestep 70.8554
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.073235
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00207055
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     8.52339e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     3.92271e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     1.95287e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     9.63605e-09
+Finished time step 6 Time0.06
+Time for 1 timestep 60.1685
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0611618
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00156008
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     5.90377e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     2.56174e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     1.18109e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     5.5299e-09
+Finished time step 7 Time0.07
+Time for 1 timestep 59.9695
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0518771
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.00121587
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     4.27895e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     1.76521e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     7.59647e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     3.396e-09
+Finished time step 8 Time0.08
+Time for 1 timestep 59.8113
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 4
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.0443908
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.000970978
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     3.2184e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     1.27014e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     5.13739e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     2.20412e-09
+Finished time step 9 Time0.09
+Time for 1 timestep 60.0826
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 0     0.03817
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 1     0.000789723
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 2     2.49861e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 3     9.48141e-07
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 4     3.62686e-08
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 5
+Linear solve converged due to CONVERGED_RTOL iterations 7
+iteration 5     1.50105e-09
+Finished time step 10 Time0.1
+Time for 1 timestep 60.0459
+total time taken is711.108
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0599.scinet.local with 600 processors, by sudhipv Fri Oct 22 06:38:33 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           7.112e+02     1.000   7.112e+02
+Objects:              6.770e+02     1.000   6.770e+02
+Flop:                 7.601e+10     1.376   6.274e+10  3.765e+13
+Flop/sec:             1.069e+08     1.376   8.822e+07  5.293e+10
+MPI Messages:         8.015e+04     9.000   5.029e+04  3.017e+07
+MPI Message Lengths:  1.101e+08     3.340   1.752e+03  5.287e+10
+MPI Reductions:       7.980e+03     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 7.1120e+02 100.0%  3.7647e+13 100.0%  3.017e+07 100.0%  1.752e+03      100.0%  7.962e+03  99.8%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided        141 1.0 6.2425e+0116.8 0.00e+00 0.0 1.0e+04 4.0e+00 1.4e+02  5  0  0  0  2   5  0  0  0  2     0
+BuildTwoSidedF       136 1.0 6.2329e+0117.2 0.00e+00 0.0 0.0e+00 0.0e+00 1.4e+02  5  0  0  0  2   5  0  0  0  2     0
+MatMult             5628 1.0 6.0666e+00 1.4 2.52e+09 1.0 1.9e+07 1.2e+03 2.0e+00  1  4 63 45  0   1  4 63 45  0 245658
+MatMultAdd           476 1.0 7.8454e-01 1.2 5.14e+07 1.0 1.6e+06 2.2e+03 0.0e+00  0  0  5  7  0   0  0  5  7  0 38832
+MatMultTranspose     476 1.0 1.0429e+00 2.0 0.00e+00 0.0 1.6e+06 7.4e+03 0.0e+00  0  0  5 22  0   0  0  5 22  0     0
+MatSolve            2652 1.0 3.1898e+01 1.2 2.36e+10 1.1 0.0e+00 0.0e+00 0.0e+00  4 35  0  0  0   4 35  0  0  0 413126
+MatLUFactorSym         1 1.0 1.1052e-01 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        68 1.0 3.0795e+01 1.8 4.73e+10 1.6 0.0e+00 0.0e+00 0.0e+00  3 57  0  0  0   3 57  0  0  0 696848
+MatConvert            68 1.0 4.0059e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.7e+02  0  0  0  0  3   0  0  0  0  3     0
+MatResidual          476 1.0 8.4773e-01 2.1 3.60e+08 1.0 1.6e+06 1.5e+03 0.0e+00  0  1  5  5  0   0  1  5  5  0 251514
+MatAssemblyBegin     274 1.0 6.2333e+0117.2 0.00e+00 0.0 0.0e+00 0.0e+00 1.4e+02  5  0  0  0  2   5  0  0  0  2     0
+MatAssemblyEnd       274 1.0 1.0349e+00 7.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.8e+02  0  0  0  0  4   0  0  0  0  4     0
+MatGetRowIJ          137 1.0 4.4967e-03 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      68 1.0 7.7800e-01 1.3 0.00e+00 0.0 2.4e+05 9.8e+03 1.0e+00  0  0  1  5  0   0  0  1  5  0     0
+MatGetOrdering         1 1.0 4.4515e-02 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 1.5896e-02 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries       134 1.0 8.0373e-02 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp             137 1.0 4.3713e+01 1.0 5.54e+10 1.5 5.1e+06 1.9e+03 1.4e+03  6 69 17 18 18   6 69 17 18 18 596110
+KSPSolve              68 1.0 5.1314e+01 1.0 2.06e+10 1.1 2.5e+07 1.7e+03 6.0e+03  7 31 82 79 75   7 31 82 79 75 225846
+KSPGMRESOrthog      3248 1.0 4.8799e+00 2.0 1.53e+09 1.0 0.0e+00 0.0e+00 3.2e+03  1  2  0  0 41   1  2  0  0 41 185441
+PCSetUp              135 1.0 4.8448e+01 1.0 5.54e+10 1.5 5.1e+06 1.9e+03 1.7e+03  7 69 17 18 22   7 69 17 18 22 537850
+PCSetUpOnBlocks     1020 1.0 5.6615e-01 1.6 6.95e+08 1.6 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 557427
+PCApply              476 1.0 4.9947e+01 1.0 1.97e+10 1.1 2.3e+07 1.7e+03 4.9e+03  7 29 77 74 62   7 29 77 74 62 221441
+PCApplyOnBlocks     2652 1.0 6.2545e+01 1.4 7.02e+10 1.4 0.0e+00 0.0e+00 0.0e+00  8 91  0  0  0   8 91  0  0  0 548756
+VecMDot             3248 1.0 4.3476e+00 2.3 7.66e+08 1.0 0.0e+00 0.0e+00 3.2e+03  0  1  0  0 41   0  1  0  0 41 104073
+VecNorm             3860 1.0 1.4138e+0116.3 2.10e+08 1.0 0.0e+00 0.0e+00 3.9e+03  1  0  0  0 48   1  0  0  0 48  8756
+VecScale            4812 1.0 3.4225e-02 1.4 1.05e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 1808569
+VecCopy             2040 1.0 1.4495e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             12706 1.0 1.0411e+00 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY             1088 1.0 1.0893e-01 1.7 7.91e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 429546
+VecAYPX             2856 1.0 4.1402e-01 1.4 2.06e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 294340
+VecAXPBYCZ           952 1.0 2.1617e-01 1.3 2.57e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 704668
+VecMAXPY            3860 1.0 6.7669e-01 1.1 9.48e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 827480
+VecScatterBegin    15760 1.0 1.8691e+00 1.3 0.00e+00 0.0 2.6e+07 1.3e+03 3.0e+00  0  0 88 63  0   0  0 88 63  0     0
+VecScatterEnd      15760 1.0 2.3089e+0020.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize        3316 1.0 1.4031e+0118.0 2.27e+08 1.0 0.0e+00 0.0e+00 3.3e+03  1  0  0  0 42   1  0  0  0 42  9512
+SFSetGraph             5 1.0 1.4744e-04 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 2.2253e-0115.2 0.00e+00 0.0 2.0e+04 3.0e+02 3.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin       2652 1.0 3.1494e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd         2652 1.0 2.4580e-03 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             15760 1.0 5.0885e-02 2.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           15760 1.0 1.9951e-02 6.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    79             79     72176760     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Vector   552            552    168862720     0.
+           Index Set    13             13      1307900     0.
+   IS L to G Mapping     1              1       646160     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.05e-08
+Average time for MPI_Barrier(): 0.00014677
+Average time for zero size MPI_Send(): 1.36457e-06
+#PETSc Option Table entries:
+-beta 1
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 400 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+
+scontrol show jobid 6267184
+JobId=6267184 JobName=heatNL_strong_HYPRE_2
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=1775978 Nice=0 Account=def-asarkar QOS=normal
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:52:18 TimeLimit=01:40:00 TimeMin=N/A
+   SubmitTime=2021-10-22T05:36:53 EligibleTime=2021-10-22T05:36:53
+   AccrueTime=2021-10-22T05:36:53
+   StartTime=2021-10-22T05:46:18 EndTime=2021-10-22T06:38:36 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-10-22T05:46:18
+   Partition=compute AllocNode:Sid=nia-login07:412227
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia[0599-0608,0870-0874]
+   BatchHost=nia0599
+   NumNodes=15 NumCPUs=1200 NumTasks=600 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1200,mem=2625000M,node=15,billing=600
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_heatNL/runff_niagara_heatNL.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_heatNL
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_heatNL/heatNL_strong_HYPRE_2-6267184.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_heatNL/heatNL_strong_HYPRE_2-6267184.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+
+sacct -j 6267184
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+6267184      heatNL_st+ def-asark+   00:52:18                       1-14:13:00 13-04:10:+      0:0 
+6267184.bat+      batch def-asark+   00:52:18  90233760K  69671552K   03:59:32 1-06:26:21      0:0 
+6267184.ext+     extern def-asark+   00:52:18    138360K       884K  00:00.002  00:00.009      0:0 
+6267184.0         orted def-asark+   00:22:12  94925948K  76418248K   10:58:41 3-19:47:37      0:0 
+6267184.1         orted def-asark+   00:17:52  86518484K  67961736K   11:21:48 3-23:14:41      0:0 
+6267184.2         orted def-asark+   00:11:59  97220864K  78740832K   11:52:58 4-02:41:22      0:0 
+
+kernel messages produced during job executions:
+[Oct22 04:47] CIFS PidTable: buckets 64
+[  +0.004787] CIFS BufTable: buckets 64

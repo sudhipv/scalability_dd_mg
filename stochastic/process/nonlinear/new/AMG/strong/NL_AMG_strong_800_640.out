@@ -1,0 +1,614 @@
+
+The following have been reloaded with a version change:
+  1) mii/1.1.1 => mii/1.1.2
+
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+1	
+	-111111	
+number of random variable  3
+order of input  2
+order of output  3
+Number of input PC   10
+Number of output PC  20
+Mean of Gaussian  0
+Sd of Gaussian  0.3
+Size of linear System  1.2832e+07
+sindex is 25 2	
+	   1   1
+	   1   2
+	   2   1
+	   2   2
+	   1   3
+	   3   1
+	   2   3
+	   3   2
+	   1   4
+	   4   1
+	   3   3
+	   2   4
+	   4   2
+	   3   4
+	   4   3
+	   1   5
+	   5   1
+	   2   5
+	   5   2
+	   4   4
+	   3   5
+	   5   3
+	   1   6
+	   6   1
+	   2   6
+	
+mindex for file ./kledata/Tijkl/multiIndex_O3_D3.dat is 20 3	
+	   0   0   0
+	   1   0   0
+	   0   1   0
+	   0   0   1
+	   2   0   0
+	   1   1   0
+	   1   0   1
+	   0   2   0
+	   0   1   1
+	   0   0   2
+	   3   0   0
+	   2   1   0
+	   2   0   1
+	   1   2   0
+	   1   1   1
+	   1   0   2
+	   0   3   0
+	   0   2   1
+	   0   1   2
+	   0   0   3
+	
+Finished generating log normal input coefficients for rank 0
+Assembly time for picard iteration 0 is 77.9939
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.154002488986e-03 
+  2 KSP Residual norm 4.386504309144e-04 
+  3 KSP Residual norm 1.008454363812e-04 
+  4 KSP Residual norm 2.259818298369e-05 
+  5 KSP Residual norm 4.567527510127e-06 
+  6 KSP Residual norm 8.203398198410e-07 
+  7 KSP Residual norm 1.657625400015e-07 
+  8 KSP Residual norm 3.248283847335e-08 
+  9 KSP Residual norm 5.845899193300e-09 
+iteration 0     0.982347
+time for 1 Picard Iteration 81.755
+Assembly time for picard iteration 1 is 79.2479
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.162917831125e-03 
+  2 KSP Residual norm 4.766990926337e-04 
+  3 KSP Residual norm 1.047660301029e-04 
+  4 KSP Residual norm 2.156414756484e-05 
+  5 KSP Residual norm 4.629224622561e-06 
+  6 KSP Residual norm 8.903159057820e-07 
+  7 KSP Residual norm 1.717442822499e-07 
+  8 KSP Residual norm 3.490221799171e-08 
+  9 KSP Residual norm 6.425402072991e-09 
+iteration 1     0.97007
+time for 1 Picard Iteration 82.5597
+Assembly time for picard iteration 2 is 79.9048
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.165800794485e-03 
+  2 KSP Residual norm 4.478371135646e-04 
+  3 KSP Residual norm 9.771779149307e-05 
+  4 KSP Residual norm 2.224590613486e-05 
+  5 KSP Residual norm 4.491217546670e-06 
+  6 KSP Residual norm 7.823123331918e-07 
+  7 KSP Residual norm 1.352838148808e-07 
+  8 KSP Residual norm 2.745382821025e-08 
+  9 KSP Residual norm 5.257482264378e-09 
+iteration 2     0.0149729
+time for 1 Picard Iteration 83.0798
+Assembly time for picard iteration 3 is 79.6364
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.165859996890e-03 
+  2 KSP Residual norm 4.403474236462e-04 
+  3 KSP Residual norm 9.642502971571e-05 
+  4 KSP Residual norm 2.024880245241e-05 
+  5 KSP Residual norm 4.142914932994e-06 
+  6 KSP Residual norm 7.246323487661e-07 
+  7 KSP Residual norm 1.216274299599e-07 
+  8 KSP Residual norm 2.218848391727e-08 
+  9 KSP Residual norm 3.971003685386e-09 
+iteration 3     0.000354696
+time for 1 Picard Iteration 82.9178
+Assembly time for picard iteration 4 is 79.8483
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.163754715499e-03 
+  2 KSP Residual norm 4.644474652628e-04 
+  3 KSP Residual norm 1.023519033754e-04 
+  4 KSP Residual norm 2.178579762660e-05 
+  5 KSP Residual norm 4.589550292452e-06 
+  6 KSP Residual norm 8.914793572140e-07 
+  7 KSP Residual norm 1.737099462169e-07 
+  8 KSP Residual norm 3.543387265191e-08 
+  9 KSP Residual norm 6.388325775332e-09 
+iteration 4     6.96391e-06
+time for 1 Picard Iteration 83.1076
+Assembly time for picard iteration 5 is 79.8409
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.163083729189e-03 
+  2 KSP Residual norm 4.586188747707e-04 
+  3 KSP Residual norm 1.016005119915e-04 
+  4 KSP Residual norm 2.259186205994e-05 
+  5 KSP Residual norm 5.049310246787e-06 
+  6 KSP Residual norm 1.092533913038e-06 
+  7 KSP Residual norm 2.280093013533e-07 
+  8 KSP Residual norm 4.569832647432e-08 
+  9 KSP Residual norm 8.274250940214e-09 
+iteration 5     3.03769e-07
+time for 1 Picard Iteration 83.0702
+Finished Picard Loop
+time taken for solve is499.287
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0163.scinet.local with 800 processors, by sudhipv Thu Dec  8 17:53:24 2022
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           4.999e+02     1.000   4.999e+02
+Objects:              7.000e+01     1.000   7.000e+01
+Flop:                 2.904e+08     1.228   2.634e+08  2.108e+11
+Flop/sec:             5.810e+05     1.228   5.270e+05  4.216e+08
+MPI Messages:         5.120e+02     4.000   3.646e+02  2.917e+05
+MPI Message Lengths:  2.115e+06     3.388   4.039e+03  1.178e+09
+MPI Reductions:       2.120e+02     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 4.9986e+02 100.0%  2.1076e+11 100.0%  2.917e+05 100.0%  4.039e+03      100.0%  1.940e+02  91.5%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          7 1.0 5.6772e+01289.4 0.00e+00 0.0 4.6e+03 4.0e+00 7.0e+00  6  0  2  0  3   6  0  2  0  4     0
+BuildTwoSidedF         6 1.0 5.6767e+01296.7 0.00e+00 0.0 0.0e+00 0.0e+00 6.0e+00  6  0  0  0  3   6  0  0  0  3     0
+MatMult               54 1.0 4.5355e-01 1.2 2.66e+08 1.2 2.6e+05 3.1e+03 1.0e+00  0 92 88 68  0   0 92 88 68  1 425641
+MatConvert             6 1.0 8.3306e-01 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 2.4e+01  0  0  0  0 11   0  0  0  0 12     0
+MatAssemblyBegin      13 1.0 5.6767e+01296.0 0.00e+00 0.0 0.0e+00 0.0e+00 6.0e+00  6  0  0  0  3   6  0  0  0  3     0
+MatAssemblyEnd        13 1.0 1.0652e+0156.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.8e+01  1  0  0  0 13   1  0  0  0 14     0
+MatGetRowIJ           12 1.0 2.4183e-0432.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries         5 1.0 3.2321e-02 2.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp               6 1.0 7.5930e-02232.8 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+KSPSolve               6 1.0 7.5284e+00 1.0 2.90e+08 1.2 2.6e+05 3.1e+03 1.2e+02  2100 88 68 54   2100 88 68 59 27995
+KSPGMRESOrthog        54 1.0 5.3310e-01 2.7 1.91e+07 1.2 0.0e+00 0.0e+00 5.4e+01  0  7  0  0 25   0  7  0  0 28 25996
+PCSetUp                6 1.0 1.2491e+01 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 2.4e+01  2  0  0  0 11   2  0  0  0 12     0
+PCApply               60 1.0 6.4896e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecMDot               54 1.0 5.2790e-01 2.7 9.54e+06 1.2 0.0e+00 0.0e+00 5.4e+01  0  3  0  0 25   0  3  0  0 28 13126
+VecNorm               60 1.0 3.9965e-01 1.0 2.12e+06 1.2 0.0e+00 0.0e+00 6.0e+01  0  1  0  0 28   0  1  0  0 31  3853
+VecScale              60 1.0 8.0340e-04 2.4 1.06e+06 1.2 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 958324
+VecCopy               18 1.0 1.1872e-03 2.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet                73 1.0 2.5826e-03 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY                6 1.0 1.8120e-02 1.4 2.12e+05 1.2 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0  8498
+VecMAXPY              60 1.0 5.7152e-03 1.6 1.14e+07 1.2 0.0e+00 0.0e+00 0.0e+00  0  4  0  0  0   0  4  0  0  0 1454930
+VecScatterBegin       54 1.0 1.4212e-02 4.2 0.00e+00 0.0 2.6e+05 3.1e+03 1.0e+00  0  0 88 68  0   0  0 88 68  1     0
+VecScatterEnd         54 1.0 9.6158e-0315.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize          60 1.0 4.0017e-01 1.0 3.18e+06 1.2 0.0e+00 0.0e+00 6.0e+01  0  1  0  0 28   0  1  0  0 31  5772
+SFSetGraph             1 1.0 1.4176e-0513.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                1 1.0 1.2768e-0222.9 0.00e+00 0.0 9.1e+03 8.0e+02 1.0e+00  0  0  3  1  0   0  0  3  1  1     0
+SFPack                54 1.0 1.5081e-03 4.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack              54 1.0 1.0503e-0411.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    10             10     27121068     0.
+       Krylov Solver     1              1        18856     0.
+      Preconditioner     1              1         1496     0.
+              Viewer     2              1          848     0.
+              Vector    42             42      3353296     0.
+           Index Set     8              8       494504     0.
+   Star Forest Graph     3              3         3384     0.
+    Distributed Mesh     1              1         5048     0.
+     Discrete System     1              1          904     0.
+           Weak Form     1              1          824     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.12e-08
+Average time for MPI_Barrier(): 9.5875e-05
+Average time for zero size MPI_Send(): 1.33575e-06
+#PETSc Option Table entries:
+-ksp_max_it 200
+-ksp_monitor
+-ksp_pc_side right
+-ksp_type gmres
+-log_view
+-m 800
+-n 800
+-nw
+-pc_type hypre
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+2	
+	-111111	  3	
+number of random variable  3
+order of input  2
+order of output  3
+Number of input PC   10
+Number of output PC  20
+Mean of Gaussian  0
+Sd of Gaussian  0.3
+Size of linear System  1.2832e+07
+sindex is 25 2	
+	   1   1
+	   1   2
+	   2   1
+	   2   2
+	   1   3
+	   3   1
+	   2   3
+	   3   2
+	   1   4
+	   4   1
+	   3   3
+	   2   4
+	   4   2
+	   3   4
+	   4   3
+	   1   5
+	   5   1
+	   2   5
+	   5   2
+	   4   4
+	   3   5
+	   5   3
+	   1   6
+	   6   1
+	   2   6
+	
+mindex for file ./kledata/Tijkl/multiIndex_O3_D3.dat is 20 3	
+	   0   0   0
+	   1   0   0
+	   0   1   0
+	   0   0   1
+	   2   0   0
+	   1   1   0
+	   1   0   1
+	   0   2   0
+	   0   1   1
+	   0   0   2
+	   3   0   0
+	   2   1   0
+	   2   0   1
+	   1   2   0
+	   1   1   1
+	   1   0   2
+	   0   3   0
+	   0   2   1
+	   0   1   2
+	   0   0   3
+	
+Finished generating log normal input coefficients for rank 0
+Assembly time for picard iteration 0 is 98.4484
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.146595288438e-03 
+  2 KSP Residual norm 4.492396600381e-04 
+  3 KSP Residual norm 1.006065310457e-04 
+  4 KSP Residual norm 2.121967204087e-05 
+  5 KSP Residual norm 4.581726022747e-06 
+  6 KSP Residual norm 8.548652968823e-07 
+  7 KSP Residual norm 1.564268466108e-07 
+  8 KSP Residual norm 2.943094593072e-08 
+  9 KSP Residual norm 5.384438245066e-09 
+iteration 0     0.982347
+time for 1 Picard Iteration 102.195
+Assembly time for picard iteration 1 is 97.2951
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.157170894359e-03 
+  2 KSP Residual norm 4.277152066409e-04 
+  3 KSP Residual norm 9.095133578495e-05 
+  4 KSP Residual norm 1.867683870925e-05 
+  5 KSP Residual norm 3.587599762512e-06 
+  6 KSP Residual norm 6.063792234500e-07 
+  7 KSP Residual norm 1.035897562945e-07 
+  8 KSP Residual norm 1.927452798149e-08 
+  9 KSP Residual norm 3.347518979179e-09 
+iteration 1     0.97007
+time for 1 Picard Iteration 100.853
+Assembly time for picard iteration 2 is 97.2142
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.159326523537e-03 
+  2 KSP Residual norm 4.177405485589e-04 
+  3 KSP Residual norm 8.595520755715e-05 
+  4 KSP Residual norm 1.771457321895e-05 
+  5 KSP Residual norm 3.457699237569e-06 
+  6 KSP Residual norm 6.063825288850e-07 
+  7 KSP Residual norm 1.064057450620e-07 
+  8 KSP Residual norm 2.035058749271e-08 
+  9 KSP Residual norm 3.830724550120e-09 
+iteration 2     0.0149729
+time for 1 Picard Iteration 100.71
+Assembly time for picard iteration 3 is 97.2258
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.154891688836e-03 
+  2 KSP Residual norm 4.498578872649e-04 
+  3 KSP Residual norm 9.064608755423e-05 
+  4 KSP Residual norm 1.909288383654e-05 
+  5 KSP Residual norm 3.942847885530e-06 
+  6 KSP Residual norm 7.195531509069e-07 
+  7 KSP Residual norm 1.248148215418e-07 
+  8 KSP Residual norm 2.336911364947e-08 
+  9 KSP Residual norm 4.430971063351e-09 
+iteration 3     0.000354679
+time for 1 Picard Iteration 100.917
+Assembly time for picard iteration 4 is 97.6515
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.157248663023e-03 
+  2 KSP Residual norm 4.316063380931e-04 
+  3 KSP Residual norm 9.580177598428e-05 
+  4 KSP Residual norm 2.029515177124e-05 
+  5 KSP Residual norm 3.938047548472e-06 
+  6 KSP Residual norm 6.716113295626e-07 
+  7 KSP Residual norm 1.091466415870e-07 
+  8 KSP Residual norm 2.058770615288e-08 
+  9 KSP Residual norm 3.808762906733e-09 
+iteration 4     6.94862e-06
+time for 1 Picard Iteration 101.148
+Assembly time for picard iteration 5 is 97.1638
+Exited Assembling for rank0
+Starting solve for rank 0
+  0 KSP Residual norm 1.248437500000e-03 
+  1 KSP Residual norm 1.157986369999e-03 
+  2 KSP Residual norm 4.314013450989e-04 
+  3 KSP Residual norm 9.040779743462e-05 
+  4 KSP Residual norm 1.909291373245e-05 
+  5 KSP Residual norm 3.819237957005e-06 
+  6 KSP Residual norm 6.927400902354e-07 
+  7 KSP Residual norm 1.252918478197e-07 
+  8 KSP Residual norm 2.442714658698e-08 
+  9 KSP Residual norm 4.217598154425e-09 
+iteration 5     2.73991e-07
+time for 1 Picard Iteration 100.73
+Finished Picard Loop
+time taken for solve is609.035
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0163.scinet.local with 640 processors, by sudhipv Thu Dec  8 18:03:36 2022
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           6.093e+02     1.000   6.093e+02
+Objects:              7.000e+01     1.000   7.000e+01
+Flop:                 3.612e+08     1.199   3.293e+08  2.108e+11
+Flop/sec:             5.928e+05     1.199   5.405e+05  3.459e+08
+MPI Messages:         5.760e+02     9.000   3.622e+02  2.318e+05
+MPI Message Lengths:  2.107e+06     3.406   4.514e+03  1.046e+09
+MPI Reductions:       2.120e+02     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 6.0928e+02 100.0%  2.1076e+11 100.0%  2.318e+05 100.0%  4.514e+03      100.0%  1.940e+02  91.5%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          7 1.0 6.6742e+01321.7 0.00e+00 0.0 3.6e+03 4.0e+00 7.0e+00  5  0  2  0  3   5  0  2  0  4     0
+BuildTwoSidedF         6 1.0 6.6735e+01328.0 0.00e+00 0.0 0.0e+00 0.0e+00 6.0e+00  5  0  0  0  3   5  0  0  0  3     0
+MatMult               54 1.0 5.9204e-01 1.6 3.31e+08 1.2 2.0e+05 3.5e+03 1.0e+00  0 92 88 68  0   0 92 88 68  1 326078
+MatConvert             6 1.0 7.8570e-01 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 2.4e+01  0  0  0  0 11   0  0  0  0 12     0
+MatAssemblyBegin      13 1.0 6.6736e+01326.9 0.00e+00 0.0 0.0e+00 0.0e+00 6.0e+00  5  0  0  0  3   5  0  0  0  3     0
+MatAssemblyEnd        13 1.0 1.4657e+0181.7 0.00e+00 0.0 0.0e+00 0.0e+00 2.8e+01  1  0  0  0 13   1  0  0  0 14     0
+MatGetRowIJ           12 1.0 1.0848e-0414.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries         5 1.0 3.0734e-02 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp               6 1.0 7.3992e-02277.8 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+KSPSolve               6 1.0 8.8305e+00 1.0 3.61e+08 1.2 2.0e+05 3.5e+03 1.2e+02  1100 88 68 54   1100 88 68 59 23867
+KSPGMRESOrthog        54 1.0 6.0388e-01 3.5 2.37e+07 1.2 0.0e+00 0.0e+00 5.4e+01  0  7  0  0 25   0  7  0  0 28 22949
+PCSetUp                6 1.0 1.2749e+01 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 2.4e+01  2  0  0  0 11   2  0  0  0 12     0
+PCApply               60 1.0 8.1151e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecMDot               54 1.0 5.9663e-01 3.6 1.19e+07 1.2 0.0e+00 0.0e+00 5.4e+01  0  3  0  0 25   0  3  0  0 28 11614
+VecNorm               60 1.0 9.9700e-02 1.0 2.64e+06 1.2 0.0e+00 0.0e+00 6.0e+01  0  1  0  0 28   0  1  0  0 31 15445
+VecScale              60 1.0 8.0493e-04 2.3 1.32e+06 1.2 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 956511
+VecCopy               18 1.0 1.4721e-03 2.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet                73 1.0 3.5230e-03 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY                6 1.0 9.2612e-04 4.1 2.64e+05 1.2 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 166268
+VecMAXPY              60 1.0 8.6781e-03 1.5 1.42e+07 1.2 0.0e+00 0.0e+00 0.0e+00  0  4  0  0  0   0  4  0  0  0 958171
+VecScatterBegin       54 1.0 1.3652e-02 5.0 0.00e+00 0.0 2.0e+05 3.5e+03 1.0e+00  0  0 88 68  0   0  0 88 68  1     0
+VecScatterEnd         54 1.0 1.3460e-01159.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize          60 1.0 1.0038e-01 1.0 3.95e+06 1.2 0.0e+00 0.0e+00 6.0e+01  0  1  0  0 28   0  1  0  0 31 23010
+SFSetGraph             1 1.0 1.7310e-0514.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                1 1.0 1.1641e-0229.2 0.00e+00 0.0 7.2e+03 9.0e+02 1.0e+00  0  0  3  1  0   0  0  3  1  1     0
+SFPack                54 1.0 1.4474e-03 4.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack              54 1.0 9.0512e-0510.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    10             10     35871548     0.
+       Krylov Solver     1              1        18856     0.
+      Preconditioner     1              1         1496     0.
+              Viewer     2              1          848     0.
+              Vector    42             42      4439696     0.
+           Index Set     8              8       580744     0.
+   Star Forest Graph     3              3         3384     0.
+    Distributed Mesh     1              1         5048     0.
+     Discrete System     1              1          904     0.
+           Weak Form     1              1          824     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.54e-08
+Average time for MPI_Barrier(): 8.33356e-05
+Average time for zero size MPI_Send(): 1.35909e-06
+#PETSc Option Table entries:
+-ksp_max_it 200
+-ksp_monitor
+-ksp_pc_side right
+-ksp_type gmres
+-log_view
+-m 800
+-n 800
+-nw
+-pc_type hypre
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+
+scontrol show jobid 8553476
+JobId=8553476 JobName=NL_AMG_strong
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=825821 Nice=0 Account=def-asarkar QOS=normal
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:19:07 TimeLimit=01:00:00 TimeMin=N/A
+   SubmitTime=2022-12-08T11:23:08 EligibleTime=2022-12-08T11:23:08
+   AccrueTime=2022-12-08T11:23:08
+   StartTime=2022-12-08T17:44:32 EndTime=2022-12-08T18:03:39 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2022-12-08T17:44:32 Scheduler=Backfill
+   Partition=compute AllocNode:Sid=nia-login07:47466
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia[0163,0338-0341,0448,0466,0487,0559,0569,0656-0657,0685-0686,0700,0792,0797,0802,0843,0854]
+   BatchHost=nia0163
+   NumNodes=20 NumCPUs=1600 NumTasks=800 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1600,mem=3500000M,node=20,billing=800
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/stochastic/process_NL/AMG/runff_niagara.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/stochastic/process_NL/AMG
+   Comment=/opt/slurm/bin/sbatch --export=NONE runff_niagara.sh 
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/stochastic/process_NL/AMG/NL_AMG_strong-8553476.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/stochastic/process_NL/AMG/NL_AMG_strong-8553476.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=INVALID_DEPEND,BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+   
+
+sacct -j 8553476
+JobID           JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+8553476      NL_AMG_st+ def-asark+   00:19:07                        34:07.975 9-02:26:20      0:0 
+8553476.bat+      batch def-asark+   00:19:07  41988104K  17401804K  01:54.206   12:16:15      0:0 
+8553476.ext+     extern def-asark+   00:19:10    142384K      1136K  00:00.009  00:00.007      0:0 
+8553476.0         orted def-asark+   00:08:33  40200276K  16149000K  17:41.061 4-08:57:56      0:0 
+8553476.1         orted def-asark+   00:10:14  41025052K  18389496K  14:32.697 4-05:12:08      0:0 

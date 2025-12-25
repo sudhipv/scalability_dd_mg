@@ -1,0 +1,185 @@
+
+
+//Non linear Heat Equation
+
+load "PETSc"
+macro dimension()2// EOM            // 2D or 3D
+load "hpddm"
+include "macro_ddm.idp"
+
+load "iovtk"
+
+int[int] Order = [1]; // 1 - P1 lagrange elements 0 - P0
+
+bool debug = true;
+
+real t1 = mpiWtime();
+
+
+int level = 2;
+int s = 2;
+func Pk = P1;                       // finite element space
+mesh [int] Th(level);
+
+Th[level-1] = square(getARGV("-m",20), getARGV("-n",20));
+
+if(mpirank == 0) cout << "Number of Vertices for coarse mesh in process  "+ mpirank << "  " + Th[level-1].nv << endl;
+
+
+
+// ##########################   Multilevel Matrix Creation   ####################################
+
+
+Mat[int] MG(level);
+
+matrix[int] P(level - 1);
+
+buildMatRecursive(Th, s, level, P, MG, Pk, mpiCommWorld);
+
+macro Grad(u) [dx(u), dy(u)] //EOM
+
+
+// ##############################################################
+
+
+fespace Wh(Th[0], Pk);
+
+func f = 0;
+
+real cd = 1;
+
+real T = 0.1;
+
+real deltaT = 0.01;
+
+real nt = int(T/deltaT);
+
+if(mpirank ==0) cout << deltaT << " steps with " << nt << " Number of Time steps for total time of " << T << "s" << endl;
+
+// Initial Guess for Picard Iteration
+Wh Uk,Uprev;
+
+real beta = getARGV("-beta",1);
+
+real alpha = 1;
+
+Uprev[] = 0;
+
+
+// ##############################################################
+
+
+// // ##############################################################################################
+
+set(MG, P, sparams = "-pc_type mg -pc_mg_type multiplicative -ksp_type fgmres -ksp_pc_side right -ksp_rtol 1e-8 -ksp_converged_reason");
+set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type asm -mg_coarse_ksp_max_it 100 -mg_coarse_ksp_rtol 1e-2 -mg_coarse_ksp_converged_reason");
+//set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type hypre -mg_coarse_ksp_converged_reason");
+set(MG, level - 1, sparams = "-mg_levels_pc_type asm -mg_levels_sub_pc_type lu");
+
+// // ##############################################################################################
+
+real tolP = 1e-8;
+
+real errL2;
+
+real tp1,tp2,tt1,tt2;
+
+real den = 0;
+
+Wh sol, error;
+
+real [int] rhs(Wh.ndof);
+
+
+for(int n =0; n<nt ; n++)
+
+{
+    tt1 = mpiWtime();
+
+
+        // ##################### WEAK FORM FOR LEVELS ##################
+
+    for(int i = 0; i < level; ++i)
+
+    {
+
+        varf heat(u,v) = int2d(Th[i])( u * v + deltaT * ( cd * ( Grad(u)'*Grad(v) ) ) )
+                             + int2d(Th[i])( Uprev * v + deltaT * f*v )
+                             + on(4, u = 0) + on(2, u = 1);
+
+
+        fespace Vh(Th[i], Pk);
+        matrix Loc = heat(Vh, Vh, tgv = -1);
+        MG[i] = Loc;
+
+        if(i == 0)
+        {
+            rhs.resize(Vh.ndof);
+            rhs = heat(0, Vh,tgv=-1);
+        }
+
+    }
+
+    //ObjectView(MG[0],format="matlab", name = "MG1.m");
+
+    //exit(1);
+
+    sol[] = MG[0]^(-1) * rhs;
+
+
+    Uprev[] = sol[];
+
+    tt2 = mpiWtime() - tt1;
+
+    if(mpirank ==0) cout << "Finished time step " << n+1 <<" Time" << deltaT*(n+1) << endl;
+    if(mpirank ==0) cout << "Time for 1 timestep " << tt2 << endl;
+
+    if (n % 1 == 0) savevtk("./out/heat_2L.vtu", Th[0], sol , bin = 1, order = Order, append = true);
+
+}
+
+
+real t4 = mpiWtime() - t1;
+
+if(mpirank ==0) cout << "total time taken is" << t4 << endl;
+
+
+
+
+IFMACRO(notrun)
+
+
+macro def(u)u //EOM
+plotMPI(Th, solP, Pk, def, real, cmm = "Global solution");
+
+
+// Error calculation based on true solution
+
+Vh utrue = ( (2^(m+1) - 1)*x + 1 )^(1/(m+1)) - 1;
+
+
+error = (utrue - solP);
+
+errL2 = sqrt(Ap(error[],error[]))/sqrt(Ap(utrue[],utrue[]));
+
+
+if (mpirank ==0) cout << "relative error is" << errL2<< endl;
+
+
+
+ENDIFMACRO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

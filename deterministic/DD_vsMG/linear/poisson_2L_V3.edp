@@ -1,0 +1,120 @@
+
+// Poisson Problem on a square mesh - Explicit Variational Form
+
+bool debug = true;
+
+load "PETSc"
+macro dimension()2// EOM            // 2D or 3D
+include "macro_ddm.idp"
+
+load "iovtk"
+int[int] Order = [1]; // 1 - P1 lagrange elements 0 - P0
+
+real t1 = mpiWtime();
+
+int level = 2;
+int s = 10;
+func Pk = P1;                       // finite element space
+mesh [int] Th(level);
+
+int Dirichlet = 1;
+
+
+Th[level-1] = square(getARGV("-m",25), getARGV("-n",25));
+
+if(mpirank == 0) cout << "Number of Vertices for coarse mesh in process  "+ mpirank << "  " + Th[level-1].nv << endl;
+
+
+Mat[int] MG(level);
+
+matrix[int] P(level - 1);
+
+buildMatRecursive(Th, s, level, P, MG, Pk, mpiCommWorld);
+
+if(mpirank == 0) cout << "Number of Vertices for fine mesh in process  "+ mpirank << "  " + Th[0].nv << endl;
+
+
+exit(1);
+
+real[int] rhs;
+func f = 0;
+
+for(int i = 0; i < level; ++i) {
+
+    varf a(u,v) = int2d(Th[i])(dx(u) * dx(v) + dy(u)* dy(v))
+                 + int2d(Th[i])(f*v)
+                 + on(4, u = 0) + on(2, u = 1);
+
+
+    fespace Wh(Th[i], Pk);
+    matrix Loc = a(Wh, Wh, tgv = -1);
+    MG[i] = Loc;
+
+    if(i == 0) {
+        rhs.resize(Wh.ndof);
+        rhs = a(0, Wh,tgv=-1);
+    }
+}
+
+
+//ObjectView(MG[0], format="matlab", name = "MG0.m");
+//ObjectView(MG[1], format="matlab", name = "MG1.m");
+
+set(MG, P, sparams = "-pc_type mg -pc_mg_type multiplicative -ksp_type fgmres -ksp_pc_side right -ksp_rtol 1e-8 -ksp_converged_reason -ksp_view");
+
+// V2 suggested by Pierre,
+//set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type asm -mg_coarse_pc_asm_type basic -mg_coarse_ksp_max_it 100 -mg_coarse_ksp_rtol 1e-2 -mg_coarse_ksp_converged_reason");
+
+set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type hypre -mg_coarse_ksp_converged_reason");
+
+// bjacobi suggested by Pierre,
+//set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_sub_pc_type ilu -mg_coarse_pc_type bjacobi -mg_coarse_ksp_converged_reason -mg_coarse_ksp_rtol 1e-2");
+
+set(MG, level - 1, sparams = "-mg_levels_pc_type asm -mg_levels_sub_pc_type lu -mg_levels_sub_pc_factor_mat_solver_type mumps");
+
+real t3 = mpiWtime() - t1;
+if(mpirank ==0) {
+cout << "time taken before solve is" << t3 << endl;
+}
+
+fespace Wh(Th[0], Pk);
+Wh u;
+u[] = MG[0]^-1 * rhs;
+
+
+//load "SLEPc"
+//EPSSolve(MG[0], sparams = "-eps_view -eps_nev 25 -eps_largest_real -eps_view_values");
+
+real t2 = mpiWtime() - t1;
+
+if(mpirank ==0) {
+cout << "time taken for solve is" << t2 << endl;
+}
+
+
+// Find max error
+Wh utruth = x;
+real uerr;
+real [int] diff(Th[0].nv);
+//cout << sol[] << endl;
+diff = (utruth[] - u[]);
+//cout << diff;
+uerr = MG[0](diff,diff);
+real den = (MG[0](utruth[],utruth[]));
+
+uerr = sqrt(uerr)/sqrt(den);
+
+if(mpirank ==0) cout << "L2 Norm of uerr is" << uerr << endl;
+
+
+IFMACRO(notrun)
+//macro def(u)u//
+//plotMPI(Th[0], u, Pk, def, real, cmm = "Global solution");
+
+savevtk("./U.vtu", Th[0], u,bin = 1, order = Order, append = true);
+
+
+
+
+//if(mpirank ==0) cout << "L2 Norm of uerr is" << uerr << endl;
+ENDIFMACRO

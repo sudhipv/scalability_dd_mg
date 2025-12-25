@@ -1,0 +1,2270 @@
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+Number of Vertices for coarse mesh in process  0  8003241
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 16
+Finished time step 1 Time0.01
+Time for 1 timestep 52.155
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 2 Time0.02
+Time for 1 timestep 51.366
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 3 Time0.03
+Time for 1 timestep 51.2122
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 4 Time0.04
+Time for 1 timestep 51.1061
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 5 Time0.05
+Time for 1 timestep 52.8177
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 6 Time0.06
+Time for 1 timestep 53.3398
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 7 Time0.07
+Time for 1 timestep 53.4038
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 8 Time0.08
+Time for 1 timestep 53.4181
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 9 Time0.09
+Time for 1 timestep 53.2198
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 10 Time0.1
+Time for 1 timestep 52.9686
+total time taken is560.494
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1029.scinet.local with 80 processors, by sudhipv Thu Oct 21 16:09:19 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           5.612e+02     1.000   5.612e+02
+Objects:              2.450e+02     1.000   2.450e+02
+Flop:                 3.613e+11     1.144   3.396e+11  2.717e+13
+Flop/sec:             6.437e+08     1.144   6.051e+08  4.841e+10
+MPI Messages:         2.568e+05     3.500   1.834e+05  1.468e+07
+MPI Message Lengths:  4.976e+08     3.101   2.191e+03  3.216e+10
+MPI Reductions:       3.470e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 5.6122e+02 100.0%  2.7169e+13 100.0%  1.468e+07 100.0%  2.191e+03      100.0%  3.469e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         28 1.0 9.9438e+00 3.7 0.00e+00 0.0 1.6e+03 4.0e+00 2.4e+01  1  0  0  0  0   1  0  0  0  0     0
+BuildTwoSidedF        20 1.0 7.4543e+0015.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatMult            18315 1.0 5.4231e+01 1.1 2.76e+10 1.0 7.3e+06 2.1e+03 2.0e+00  9  8 50 48  0   9  8 50 48  0 40394
+MatMultAdd           175 1.0 2.8718e+00 1.1 1.41e+08 1.0 7.0e+04 6.3e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0  3900
+MatMultTranspose     175 1.0 3.4129e+00 1.8 0.00e+00 0.0 7.0e+04 2.1e+04 0.0e+00  0  0  0  5  0   0  0  0  5  0     0
+MatSolve           18150 1.0 1.3697e+02 1.1 8.95e+10 1.1 0.0e+00 0.0e+00 0.0e+00 23 26  0  0  0  23 26  0  0  0 51087
+MatLUFactorSym         1 1.0 8.0891e-01 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        20 1.0 1.2310e+02 1.4 1.34e+11 1.4 0.0e+00 0.0e+00 0.0e+00 19 34  0  0  0  19 34  0  0  0 74202
+MatILUFactorSym        1 1.0 7.1435e-03 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual          175 1.0 3.0311e+00 1.9 9.84e+08 1.0 7.0e+04 4.3e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 25861
+MatAssemblyBegin      42 1.0 7.4550e+0015.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatAssemblyEnd        42 1.0 9.6588e-01 9.2 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 2.1958e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      20 1.0 9.6562e-01 1.1 0.00e+00 0.0 1.1e+04 1.7e+04 2.0e+00  0  0  0  1  0   0  0  0  1  0     0
+MatGetOrdering         2 1.0 3.1005e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 6.6358e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 4.4654e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              31 1.0 1.4116e+02 1.0 1.45e+11 1.4 9.1e+04 5.4e+03 2.2e+02 25 37  1  2  1  25 37  1  2  1 70596
+KSPSolve              10 1.0 3.3193e+02 1.0 2.17e+11 1.0 1.5e+07 2.2e+03 3.4e+04 59 63 99 98 99  59 63 99 98 99 51829
+KSPGMRESOrthog     16945 1.0 1.0907e+02 1.1 1.01e+11 1.0 0.0e+00 0.0e+00 1.7e+04 19 29  0  0 49  19 29  0  0 49 73221
+PCSetUp               29 1.0 1.4149e+02 1.0 1.45e+11 1.4 9.7e+04 5.7e+03 2.3e+02 25 37  1  2  1  25 37  1  2  1 70444
+PCSetUpOnBlocks      535 1.0 1.3508e+01 1.3 1.34e+10 1.4 0.0e+00 0.0e+00 0.0e+00  2  3  0  0  0   2  3  0  0  0 67621
+PCApply              175 1.0 3.2703e+02 1.0 2.13e+11 1.0 1.5e+07 2.2e+03 3.4e+04 58 62 99 97 98  58 62 99 97 98 51658
+PCApplyOnBlocks    18150 1.0 2.5225e+02 1.2 2.10e+11 1.2 0.0e+00 0.0e+00 0.0e+00 41 56  0  0  0  41 56  0  0  0 60328
+VecMDot            16945 1.0 6.1969e+01 1.2 5.03e+10 1.0 0.0e+00 0.0e+00 1.7e+04 10 15  0  0 49  10 15  0  0 49 64435
+VecNorm            17635 1.0 3.6200e+01 7.6 3.74e+09 1.0 0.0e+00 0.0e+00 1.8e+04  3  1  0  0 51   3  1  0  0 51  8189
+VecScale           17985 1.0 6.6169e-01 1.1 1.87e+09 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 223998
+VecCopy             1215 1.0 1.0038e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             55695 1.0 1.4003e+01 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY             1360 1.0 6.3345e-01 1.3 3.92e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 49141
+VecAYPX             1050 1.0 1.4966e+00 1.3 5.62e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 29935
+VecAXPBYCZ           350 1.0 8.1273e-01 1.3 7.03e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 68907
+VecMAXPY           17635 1.0 5.2990e+01 1.1 5.39e+10 1.0 0.0e+00 0.0e+00 0.0e+00  9 16  0  0  0   9 16  0  0  0 80722
+VecScatterBegin    90740 1.0 3.1737e+01 1.2 0.00e+00 0.0 1.5e+07 2.1e+03 4.0e+00  5  0 99 93  0   5  0 99 93  0     0
+VecScatterEnd      90740 1.0 6.3719e+00 7.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize       17450 1.0 3.6547e+01 7.2 5.38e+09 1.0 0.0e+00 0.0e+00 1.7e+04  4  2  0  0 50   4  2  0  0 50 11681
+SFSetGraph             8 1.0 1.1101e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                8 1.0 3.3606e+0061.1 0.00e+00 0.0 3.2e+03 7.8e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin      18150 1.0 7.0382e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+SFReduceEnd        18150 1.0 2.3846e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             90740 1.0 3.6138e-01 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           90740 1.0 1.8591e-01 9.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    685032460     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+              Vector   171            171    423633768     0.
+           Index Set    22             22     12079224     0.
+   IS L to G Mapping     2              2      9212156     0.
+   Star Forest Graph    14             14        16272     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 4.27e-08
+Average time for MPI_Barrier(): 6.32804e-05
+Average time for zero size MPI_Send(): 3.52651e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 80 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 1 Time0.01
+Time for 1 timestep 23.5716
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 2 Time0.02
+Time for 1 timestep 23.2577
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 3 Time0.03
+Time for 1 timestep 23.3774
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 4 Time0.04
+Time for 1 timestep 23.107
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 5 Time0.05
+Time for 1 timestep 23.2164
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 6 Time0.06
+Time for 1 timestep 23.2963
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 7 Time0.07
+Time for 1 timestep 23.7087
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 8 Time0.08
+Time for 1 timestep 23.6153
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 9 Time0.09
+Time for 1 timestep 23.5393
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 10 Time0.1
+Time for 1 timestep 23.2606
+total time taken is264.401
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1029.scinet.local with 160 processors, by sudhipv Thu Oct 21 16:13:51 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           2.645e+02     1.000   2.645e+02
+Objects:              2.450e+02     1.000   2.450e+02
+Flop:                 1.635e+11     1.120   1.520e+11  2.432e+13
+Flop/sec:             6.181e+08     1.120   5.746e+08  9.193e+10
+MPI Messages:         3.005e+05     8.000   1.991e+05  3.185e+07
+MPI Message Lengths:  3.652e+08     3.107   1.499e+03  4.774e+10
+MPI Reductions:       3.553e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 2.6453e+02 100.0%  2.4319e+13 100.0%  3.185e+07 100.0%  1.499e+03      100.0%  3.551e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         28 1.0 4.4667e+00 3.4 0.00e+00 0.0 3.4e+03 4.0e+00 2.4e+01  1  0  0  0  0   1  0  0  0  0     0
+BuildTwoSidedF        20 1.0 3.6757e+00 5.0 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatMult            18751 1.0 2.6858e+01 1.1 1.42e+10 1.0 1.6e+07 1.4e+03 2.0e+00 10  9 50 48  0  10  9 50 48  0 83469
+MatMultAdd           179 1.0 1.4952e+00 1.3 7.20e+07 1.0 1.5e+05 4.3e+03 0.0e+00  1  0  0  1  0   1  0  0  1  0  7662
+MatMultTranspose     179 1.0 1.7043e+00 2.0 0.00e+00 0.0 1.5e+05 1.5e+04 0.0e+00  0  0  0  5  0   0  0  0  5  0     0
+MatSolve           18582 1.0 6.3973e+01 1.1 4.38e+10 1.1 0.0e+00 0.0e+00 0.0e+00 23 28  0  0  0  23 28  0  0  0 105192
+MatLUFactorSym         1 1.0 3.7669e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        20 1.0 3.9588e+01 1.3 4.84e+10 1.4 0.0e+00 0.0e+00 0.0e+00 13 26  0  0  0  13 26  0  0  0 158775
+MatILUFactorSym        1 1.0 3.7935e-03 2.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual          179 1.0 1.2517e+00 1.8 5.04e+08 1.0 1.5e+05 2.9e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 64058
+MatAssemblyBegin      42 1.0 3.6765e+00 5.0 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatAssemblyEnd        42 1.0 4.5926e-01 4.0 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 1.0287e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      20 1.0 5.1244e-01 1.1 0.00e+00 0.0 2.4e+04 1.1e+04 2.0e+00  0  0  0  1  0   0  0  0  1  0     0
+MatGetOrdering         2 1.0 1.3603e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 4.5531e-02 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 2.3580e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              31 1.0 4.7970e+01 1.0 5.34e+10 1.4 1.9e+05 3.7e+03 2.2e+02 18 29  1  1  1  18 29  1  1  1 147191
+KSPSolve              10 1.0 1.6065e+02 1.0 1.10e+11 1.0 3.2e+07 1.5e+03 3.5e+04 61 71 99 98 99  61 71 99 98 99 107428
+KSPGMRESOrthog     17349 1.0 5.5239e+01 1.1 5.17e+10 1.0 0.0e+00 0.0e+00 1.7e+04 20 34  0  0 49  20 34  0  0 49 148096
+PCSetUp               29 1.0 4.8135e+01 1.0 5.35e+10 1.4 2.1e+05 3.9e+03 2.3e+02 18 29  1  2  1  18 29  1  2  1 146723
+PCSetUpOnBlocks      547 1.0 4.4387e+00 1.3 4.84e+09 1.4 0.0e+00 0.0e+00 0.0e+00  1  3  0  0  0   1  3  0  0  0 141610
+PCApply              179 1.0 1.5791e+02 1.0 1.08e+11 1.0 3.1e+07 1.5e+03 3.5e+04 59 70 99 97 98  59 70 99 97 98 107253
+PCApplyOnBlocks    18582 1.0 1.0184e+02 1.2 8.73e+10 1.2 0.0e+00 0.0e+00 0.0e+00 36 51  0  0  0  36 51  0  0  0 121622
+VecMDot            17349 1.0 3.3647e+01 1.2 2.59e+10 1.0 0.0e+00 0.0e+00 1.7e+04 12 17  0  0 49  12 17  0  0 49 121567
+VecNorm            18055 1.0 1.2809e+01 4.1 1.92e+09 1.0 0.0e+00 0.0e+00 1.8e+04  3  1  0  0 51   3  1  0  0 51 23682
+VecScale           18413 1.0 2.6944e-01 1.2 9.59e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 562931
+VecCopy             1243 1.0 4.5917e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             57019 1.0 6.6452e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY             1392 1.0 2.5026e-01 1.4 2.01e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 127198
+VecAYPX             1074 1.0 7.1060e-01 1.4 2.88e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 64490
+VecAXPBYCZ           358 1.0 3.9344e-01 1.3 3.60e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 145596
+VecMAXPY           18055 1.0 2.3728e+01 1.0 2.77e+10 1.0 0.0e+00 0.0e+00 0.0e+00  9 18  0  0  0   9 18  0  0  0 184650
+VecScatterBegin    92900 1.0 1.3442e+01 1.2 0.00e+00 0.0 3.2e+07 1.4e+03 4.0e+00  5  0 99 93  0   5  0 99 93  0     0
+VecScatterEnd      92900 1.0 2.7795e+00 3.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecNormalize       17866 1.0 1.2901e+01 4.0 2.76e+09 1.0 0.0e+00 0.0e+00 1.8e+04  3  2  0  0 50   3  2  0  0 50 33864
+SFSetGraph             8 1.0 7.3531e-04 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                8 1.0 1.1594e+0019.0 0.00e+00 0.0 6.8e+03 5.4e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin      18582 1.0 2.8299e+00 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+SFReduceEnd        18582 1.0 1.7884e-02 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             92900 1.0 2.3337e-01 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           92900 1.0 1.3654e-01 9.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    318751996     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+              Vector   171            171    211472744     0.
+           Index Set    22             22      6061372     0.
+   IS L to G Mapping     2              2      3016168     0.
+   Star Forest Graph    14             14        16272     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.18e-08
+Average time for MPI_Barrier(): 6.80904e-05
+Average time for zero size MPI_Send(): 7.64624e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 160 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 1 Time0.01
+Time for 1 timestep 15.5831
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 2 Time0.02
+Time for 1 timestep 14.9496
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 3 Time0.03
+Time for 1 timestep 14.8424
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 19
+Finished time step 4 Time0.04
+Time for 1 timestep 15.6723
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 19
+Finished time step 5 Time0.05
+Time for 1 timestep 15.4772
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 19
+Finished time step 6 Time0.06
+Time for 1 timestep 15.3177
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 19
+Finished time step 7 Time0.07
+Time for 1 timestep 15.3455
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 19
+Finished time step 8 Time0.08
+Time for 1 timestep 15.3655
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 19
+Finished time step 9 Time0.09
+Time for 1 timestep 15.5157
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 19
+Finished time step 10 Time0.1
+Time for 1 timestep 15.3438
+total time taken is182.201
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1029.scinet.local with 240 processors, by sudhipv Thu Oct 21 16:17:06 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           1.823e+02     1.000   1.823e+02
+Objects:              2.450e+02     1.000   2.450e+02
+Flop:                 1.050e+11     1.132   9.864e+10  2.367e+13
+Flop/sec:             5.757e+08     1.132   5.411e+08  1.299e+11
+MPI Messages:         3.127e+05     4.000   2.127e+05  5.105e+07
+MPI Message Lengths:  3.265e+08     2.945   1.197e+03  6.111e+10
+MPI Reductions:       3.697e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 1.8229e+02 100.0%  2.3673e+13 100.0%  5.105e+07 100.0%  1.197e+03      100.0%  3.695e+04 100.0%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         28 1.0 3.2504e+00 8.0 0.00e+00 0.0 5.2e+03 4.0e+00 2.4e+01  1  0  0  0  0   1  0  0  0  0     0
+BuildTwoSidedF        20 1.0 2.7170e+0027.8 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatMult            19513 1.0 1.9206e+01 1.1 9.84e+09 1.0 2.5e+07 1.2e+03 2.0e+00 10 10 50 48  0  10 10 50 48  0 121380
+MatMultAdd           186 1.0 1.0005e+00 1.4 5.00e+07 1.0 2.4e+05 3.5e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 11899
+MatMultTranspose     186 1.0 1.0633e+00 1.9 0.00e+00 0.0 2.4e+05 1.2e+04 0.0e+00  0  0  0  5  0   0  0  0  5  0     0
+MatSolve           19337 1.0 4.3192e+01 1.1 2.92e+10 1.1 0.0e+00 0.0e+00 0.0e+00 22 28  0  0  0  22 28  0  0  0 156197
+MatLUFactorSym         1 1.0 2.3932e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        20 1.0 2.1345e+01 1.6 2.69e+10 1.5 0.0e+00 0.0e+00 0.0e+00 10 22  0  0  0  10 22  0  0  0 241597
+MatILUFactorSym        1 1.0 2.6011e-03 2.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual          186 1.0 1.0202e+00 2.4 3.50e+08 1.0 2.4e+05 2.4e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 81669
+MatAssemblyBegin      42 1.0 2.7176e+0027.7 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatAssemblyEnd        42 1.0 2.6581e-01 6.5 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 7.0621e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      20 1.0 3.5745e-01 1.2 0.00e+00 0.0 3.7e+04 9.1e+03 2.0e+00  0  0  0  1  0   0  0  0  1  0     0
+MatGetOrdering         2 1.0 1.0695e-01 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 2.5963e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 1.5287e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              31 1.0 2.7236e+01 1.0 3.01e+10 1.5 3.0e+05 3.0e+03 2.2e+02 15 25  1  1  1  15 25  1  1  1 216718
+KSPSolve              10 1.0 1.0942e+02 1.0 7.57e+10 1.0 5.1e+07 1.2e+03 3.7e+04 60 75 99 98 99  60 75 99 98 99 162411
+KSPGMRESOrthog     18055 1.0 3.8424e+01 1.1 3.60e+10 1.0 0.0e+00 0.0e+00 1.8e+04 20 36  0  0 49  20 36  0  0 49 221794
+PCSetUp               29 1.0 2.7349e+01 1.0 3.01e+10 1.5 3.2e+05 3.1e+03 2.3e+02 15 25  1  2  1  15 25  1  2  1 215889
+PCSetUpOnBlocks      568 1.0 2.4713e+00 1.5 2.69e+09 1.5 0.0e+00 0.0e+00 0.0e+00  1  2  0  0  0   1  2  0  0  0 208677
+PCApply              186 1.0 1.0752e+02 1.0 7.42e+10 1.0 5.0e+07 1.2e+03 3.6e+04 58 74 99 97 98  58 74 99 97 98 162089
+PCApplyOnBlocks    19337 1.0 6.3136e+01 1.2 5.34e+10 1.2 0.0e+00 0.0e+00 0.0e+00 32 48  0  0  0  32 48  0  0  0 180367
+VecMDot            18055 1.0 2.4094e+01 1.2 1.80e+10 1.0 0.0e+00 0.0e+00 1.8e+04 12 18  0  0 49  12 18  0  0 49 176850
+VecNorm            18789 1.0 1.0457e+01 2.9 1.33e+09 1.0 0.0e+00 0.0e+00 1.9e+04  4  1  0  0 51   4  1  0  0 51 30164
+VecScale           19161 1.0 2.0186e-01 1.4 6.66e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 781330
+VecCopy             1292 1.0 2.5820e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             59333 1.0 4.3687e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY             1448 1.0 1.8249e-01 1.7 1.39e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 181187
+VecAYPX             1116 1.0 4.5752e-01 1.4 2.00e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 104080
+VecAXPBYCZ           372 1.0 2.4808e-01 1.5 2.50e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 239935
+VecMAXPY           18789 1.0 1.6160e+01 1.1 1.93e+10 1.0 0.0e+00 0.0e+00 0.0e+00  9 19  0  0  0   9 19  0  0  0 282421
+VecScatterBegin    96675 1.0 8.2255e+00 1.2 0.00e+00 0.0 5.1e+07 1.1e+03 4.0e+00  4  0 99 93  0   4  0 99 93  0     0
+VecScatterEnd      96675 1.0 2.8280e+00 5.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecNormalize       18593 1.0 1.0537e+01 2.9 1.92e+09 1.0 0.0e+00 0.0e+00 1.9e+04  4  2  0  0 50   4  2  0  0 50 43116
+SFSetGraph             8 1.0 4.9536e-04 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                8 1.0 8.7802e-0140.8 0.00e+00 0.0 1.0e+04 4.3e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin      19337 1.0 1.6061e+00 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+SFReduceEnd        19337 1.0 1.3670e-02 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             96675 1.0 1.6978e-01 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           96675 1.0 1.0531e-01 9.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    200776636     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+              Vector   171            171    140864776     0.
+           Index Set    22             22      4053972     0.
+   IS L to G Mapping     2              2      2013472     0.
+   Star Forest Graph    14             14        16272     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 2.94e-08
+Average time for MPI_Barrier(): 6.5426e-05
+Average time for zero size MPI_Send(): 1.3238e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 240 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 1 Time0.01
+Time for 1 timestep 11.0316
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 2 Time0.02
+Time for 1 timestep 10.6734
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 3 Time0.03
+Time for 1 timestep 10.3294
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 4 Time0.04
+Time for 1 timestep 10.4868
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 5 Time0.05
+Time for 1 timestep 10.3044
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 6 Time0.06
+Time for 1 timestep 10.3035
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 7 Time0.07
+Time for 1 timestep 10.4631
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 8 Time0.08
+Time for 1 timestep 10.3421
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 9 Time0.09
+Time for 1 timestep 10.485
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 10 Time0.1
+Time for 1 timestep 10.4627
+total time taken is133.049
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1029.scinet.local with 320 processors, by sudhipv Thu Oct 21 16:19:27 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           1.332e+02     1.000   1.332e+02
+Objects:              2.450e+02     1.000   2.450e+02
+Flop:                 7.206e+10     1.096   6.875e+10  2.200e+13
+Flop/sec:             5.412e+08     1.096   5.163e+08  1.652e+11
+MPI Messages:         3.003e+05     4.000   2.065e+05  6.607e+07
+MPI Message Lengths:  2.597e+08     2.554   1.043e+03  6.894e+10
+MPI Reductions:       3.551e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 1.3316e+02 100.0%  2.1999e+13 100.0%  6.607e+07 100.0%  1.043e+03      100.0%  3.549e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         28 1.0 1.9772e+00 2.5 0.00e+00 0.0 7.0e+03 4.0e+00 2.4e+01  1  0  0  0  0   1  0  0  0  0     0
+BuildTwoSidedF        20 1.0 1.6405e+00 3.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatMult            18741 1.0 1.3968e+01 1.1 7.12e+09 1.0 3.3e+07 1.0e+03 2.0e+00 10 10 50 48  0  10 10 50 48  0 160424
+MatMultAdd           179 1.0 6.7870e-01 1.4 3.61e+07 1.0 3.2e+05 3.0e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 16880
+MatMultTranspose     179 1.0 7.6451e-01 2.1 0.00e+00 0.0 3.2e+05 1.0e+04 0.0e+00  0  0  0  5  0   0  0  0  5  0     0
+MatSolve           18572 1.0 3.0430e+01 1.1 2.05e+10 1.1 0.0e+00 0.0e+00 0.0e+00 21 29  0  0  0  21 29  0  0  0 208116
+MatLUFactorSym         1 1.0 1.7056e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        20 1.0 1.2575e+01 1.5 1.62e+10 1.4 0.0e+00 0.0e+00 0.0e+00  8 20  0  0  0   8 20  0  0  0 347496
+MatILUFactorSym        1 1.0 2.1982e-03 2.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual          179 1.0 6.3794e-01 2.2 2.53e+08 1.0 3.2e+05 2.1e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 125686
+MatAssemblyBegin      42 1.0 1.6411e+00 3.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatAssemblyEnd        42 1.0 2.1618e-01 5.2 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 8.4490e-03 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      20 1.0 2.5521e-01 1.1 0.00e+00 0.0 4.9e+04 8.0e+03 2.0e+00  0  0  0  1  0   0  0  0  1  0     0
+MatGetOrdering         2 1.0 8.9530e-02 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 2.4647e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 1.1831e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              31 1.0 1.6802e+01 1.0 1.85e+10 1.4 4.0e+05 2.6e+03 2.2e+02 13 23  1  2  1  13 23  1  2  1 303002
+KSPSolve              10 1.0 7.6039e+01 1.0 5.39e+10 1.0 6.6e+07 1.0e+03 3.5e+04 57 77 99 98 99  57 77 99 98 99 222367
+KSPGMRESOrthog     17339 1.0 2.6438e+01 1.1 2.60e+10 1.0 0.0e+00 0.0e+00 1.7e+04 19 37  0  0 49  19 37  0  0 49 309226
+PCSetUp               29 1.0 1.6884e+01 1.0 1.85e+10 1.4 4.3e+05 2.7e+03 2.3e+02 13 23  1  2  1  13 23  1  2  1 301627
+PCSetUpOnBlocks      547 1.0 1.4687e+00 1.4 1.62e+09 1.4 0.0e+00 0.0e+00 0.0e+00  1  2  0  0  0   1  2  0  0  0 297536
+PCApply              179 1.0 7.4833e+01 1.0 5.28e+10 1.0 6.5e+07 1.0e+03 3.5e+04 56 75 99 97 98  56 75 99 97 98 221657
+PCApplyOnBlocks    18572 1.0 4.2678e+01 1.2 3.48e+10 1.2 0.0e+00 0.0e+00 0.0e+00 29 47  0  0  0  29 47  0  0  0 240541
+VecMDot            17339 1.0 1.6827e+01 1.3 1.30e+10 1.0 0.0e+00 0.0e+00 1.7e+04 11 19  0  0 49  11 19  0  0 49 242916
+VecNorm            18045 1.0 6.8059e+00 2.8 9.64e+08 1.0 0.0e+00 0.0e+00 1.8e+04  3  1  0  0 51   3  1  0  0 51 44548
+VecScale           18403 1.0 1.5046e-01 1.5 4.82e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 1007552
+VecCopy             1243 1.0 1.6341e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             56989 1.0 2.9638e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY             1392 1.0 1.1483e-01 1.6 1.01e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 277225
+VecAYPX             1074 1.0 3.1394e-01 1.4 1.44e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 145972
+VecAXPBYCZ           358 1.0 1.7336e-01 1.4 1.81e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 330419
+VecMAXPY           18045 1.0 1.0620e+01 1.1 1.39e+10 1.0 0.0e+00 0.0e+00 0.0e+00  8 20  0  0  0   8 20  0  0  0 412289
+VecScatterBegin    92850 1.0 5.9310e+00 1.3 0.00e+00 0.0 6.5e+07 9.8e+02 4.0e+00  4  0 99 93  0   4  0 99 93  0     0
+VecScatterEnd      92850 1.0 1.7771e+00 3.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecNormalize       17856 1.0 6.8577e+00 2.7 1.39e+09 1.0 0.0e+00 0.0e+00 1.8e+04  3  2  0  0 50   3  2  0  0 50 63671
+SFSetGraph             8 1.0 3.1829e-04 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                8 1.0 5.2720e-0134.4 0.00e+00 0.0 1.4e+04 3.8e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin      18572 1.0 1.0802e+00 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+SFReduceEnd        18572 1.0 1.4050e-02 2.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             92850 1.0 1.5577e-01 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           92850 1.0 7.6454e-02 7.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    147515692     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+              Vector   171            171    105574280     0.
+           Index Set    22             22      3050892     0.
+   IS L to G Mapping     2              2      4247704     0.
+   Star Forest Graph    14             14        16272     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 2.99e-08
+Average time for MPI_Barrier(): 7.93958e-05
+Average time for zero size MPI_Send(): 4.94958e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with 40 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 16
+Finished time step 1 Time0.01
+Time for 1 timestep 8.64478
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 2 Time0.02
+Time for 1 timestep 7.96828
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 3 Time0.03
+Time for 1 timestep 8.20481
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 4 Time0.04
+Time for 1 timestep 8.00351
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 5 Time0.05
+Time for 1 timestep 8.25731
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 6 Time0.06
+Time for 1 timestep 8.20196
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 7 Time0.07
+Time for 1 timestep 8.38246
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 8 Time0.08
+Time for 1 timestep 7.99202
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 9 Time0.09
+Time for 1 timestep 8.1323
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 16
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 18
+Finished time step 10 Time0.1
+Time for 1 timestep 8.15548
+total time taken is109.672
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1029.scinet.local with 400 processors, by sudhipv Thu Oct 21 16:21:24 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           1.098e+02     1.000   1.098e+02
+Objects:              2.450e+02     1.000   2.450e+02
+Flop:                 5.667e+10     1.136   5.258e+10  2.103e+13
+Flop/sec:             5.162e+08     1.136   4.790e+08  1.916e+11
+MPI Messages:         2.934e+05     4.000   2.039e+05  8.155e+07
+MPI Message Lengths:  2.318e+08     2.869   9.230e+02  7.527e+10
+MPI Reductions:       3.468e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 1.0978e+02 100.0%  2.1033e+13 100.0%  8.155e+07 100.0%  9.230e+02      100.0%  3.467e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         28 1.0 2.0797e+00 3.9 0.00e+00 0.0 8.9e+03 4.0e+00 2.4e+01  2  0  0  0  0   2  0  0  0  0     0
+BuildTwoSidedF        20 1.0 1.8647e+00 3.9 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatMult            18305 1.0 1.0889e+01 1.1 5.58e+09 1.0 4.1e+07 8.9e+02 2.0e+00  9 10 50 48  0   9 10 50 48  0 201089
+MatMultAdd           175 1.0 5.0055e-01 1.3 2.83e+07 1.0 3.9e+05 2.7e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 22377
+MatMultTranspose     175 1.0 5.5853e-01 1.8 0.00e+00 0.0 3.9e+05 9.0e+03 0.0e+00  0  0  0  5  0   0  0  0  5  0     0
+MatSolve           18140 1.0 2.3108e+01 1.1 1.60e+10 1.1 0.0e+00 0.0e+00 0.0e+00 20 29  0  0  0  20 29  0  0  0 263513
+MatLUFactorSym         1 1.0 1.4668e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        20 1.0 8.9837e+00 1.6 1.28e+10 1.6 0.0e+00 0.0e+00 0.0e+00  7 19  0  0  0   7 19  0  0  0 435610
+MatILUFactorSym        1 1.0 2.0492e-03 3.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual          175 1.0 4.6394e-01 1.9 1.98e+08 1.0 3.9e+05 1.8e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 168963
+MatAssemblyBegin      42 1.0 1.8653e+00 3.9 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatAssemblyEnd        42 1.0 1.9626e-01 5.0 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 6.2668e-03 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      20 1.0 1.9896e-01 1.1 0.00e+00 0.0 6.2e+04 7.0e+03 2.0e+00  0  0  0  1  0   0  0  0  1  0     0
+MatGetOrdering         2 1.0 6.7406e-02 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 2.0009e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 1.0569e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              31 1.0 1.2614e+01 1.0 1.47e+10 1.5 5.1e+05 2.3e+03 2.2e+02 11 22  1  2  1  11 22  1  2  1 366131
+KSPSolve              10 1.0 5.9220e+01 1.0 4.20e+10 1.0 8.1e+07 9.1e+02 3.4e+04 54 78 99 98 99  54 78 99 98 99 277181
+KSPGMRESOrthog     16935 1.0 2.0370e+01 1.1 2.04e+10 1.0 0.0e+00 0.0e+00 1.7e+04 18 38  0  0 49  18 38  0  0 49 391767
+PCSetUp               29 1.0 1.2682e+01 1.0 1.47e+10 1.5 5.4e+05 2.4e+03 2.3e+02 12 22  1  2  1  12 22  1  2  1 364337
+PCSetUpOnBlocks      535 1.0 1.0660e+00 1.4 1.28e+09 1.6 0.0e+00 0.0e+00 0.0e+00  1  2  0  0  0   1  2  0  0  0 367102
+PCApply              175 1.0 5.7944e+01 1.0 4.12e+10 1.0 8.1e+07 9.1e+02 3.4e+04 52 77 99 97 98  52 77 99 97 98 277939
+PCApplyOnBlocks    18140 1.0 3.1434e+01 1.2 2.75e+10 1.3 0.0e+00 0.0e+00 0.0e+00 27 46  0  0  0  27 46  0  0  0 305755
+VecMDot            16935 1.0 1.3562e+01 1.2 1.02e+10 1.0 0.0e+00 0.0e+00 1.7e+04 11 19  0  0 49  11 19  0  0 49 294209
+VecNorm            17625 1.0 5.9676e+00 1.9 7.56e+08 1.0 0.0e+00 0.0e+00 1.8e+04  4  1  0  0 51   4  1  0  0 51 49647
+VecScale           17975 1.0 1.1603e-01 1.5 3.78e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 1276701
+VecCopy             1215 1.0 1.1462e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             55665 1.0 2.3378e+00 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY             1360 1.0 9.8016e-02 1.8 7.92e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 317583
+VecAYPX             1050 1.0 2.4095e-01 1.3 1.13e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 185941
+VecAXPBYCZ           350 1.0 1.2932e-01 1.3 1.42e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 433055
+VecMAXPY           17625 1.0 7.6638e+00 1.1 1.09e+10 1.0 0.0e+00 0.0e+00 0.0e+00  7 20  0  0  0   7 20  0  0  0 557760
+VecScatterBegin    90690 1.0 4.2050e+00 1.2 0.00e+00 0.0 8.1e+07 8.7e+02 4.0e+00  3  0 99 93  0   3  0 99 93  0     0
+VecScatterEnd      90690 1.0 1.6795e+00 3.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecNormalize       17440 1.0 5.9995e+00 1.9 1.09e+09 1.0 0.0e+00 0.0e+00 1.7e+04  4  2  0  0 50   4  2  0  0 50 71114
+SFSetGraph             8 1.0 2.4959e-04 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                8 1.0 3.4674e-0124.7 0.00e+00 0.0 1.8e+04 3.3e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin      18140 1.0 7.5842e-01 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+SFReduceEnd        18140 1.0 1.1403e-02 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             90690 1.0 1.2015e-01 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           90690 1.0 6.6331e-02 6.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    117120456     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+              Vector   171            171     84515200     0.
+           Index Set    22             22      2445752     0.
+   IS L to G Mapping     2              2      1210648     0.
+   Star Forest Graph    14             14        16272     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.13e-08
+Average time for MPI_Barrier(): 7.4786e-05
+Average time for zero size MPI_Send(): 1.37987e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 400 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+0.01 steps with 10 Number of Time steps for total time of 0.1s
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 16
+Finished time step 1 Time0.01
+Time for 1 timestep 6.46082
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 16
+Finished time step 2 Time0.02
+Time for 1 timestep 5.14008
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 3 Time0.03
+Time for 1 timestep 5.12396
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 4 Time0.04
+Time for 1 timestep 5.34625
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 5 Time0.05
+Time for 1 timestep 5.07176
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 6 Time0.06
+Time for 1 timestep 5.04801
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 7 Time0.07
+Time for 1 timestep 5.30811
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 8 Time0.08
+Time for 1 timestep 5.20327
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 9 Time0.09
+Time for 1 timestep 5.10983
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 15
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 17
+Finished time step 10 Time0.1
+Time for 1 timestep 4.98108
+total time taken is80.063
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1029.scinet.local with 600 processors, by sudhipv Thu Oct 21 16:22:50 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           8.015e+01     1.000   8.015e+01
+Objects:              2.450e+02     1.000   2.450e+02
+Flop:                 3.489e+10     1.134   3.228e+10  1.937e+13
+Flop/sec:             4.353e+08     1.134   4.028e+08  2.417e+11
+MPI Messages:         3.161e+05     9.000   1.983e+05  1.190e+08
+MPI Message Lengths:  1.841e+08     3.346   7.520e+02  8.949e+10
+MPI Reductions:       3.322e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 8.0149e+01 100.0%  1.9369e+13 100.0%  1.190e+08 100.0%  7.520e+02      100.0%  3.320e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         28 1.0 1.6188e+00 2.1 0.00e+00 0.0 1.4e+04 4.0e+00 2.4e+01  2  0  0  0  0   2  0  0  0  0     0
+BuildTwoSidedF        20 1.0 1.4803e+00 2.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatMult            17532 1.0 6.7545e+00 1.2 3.58e+09 1.0 5.9e+07 7.2e+02 2.0e+00  8 11 50 48  0   8 11 50 48  0 310758
+MatMultAdd           168 1.0 2.8526e-01 1.2 1.82e+07 1.0 5.7e+05 2.2e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 37694
+MatMultTranspose     168 1.0 4.1485e-01 2.1 0.00e+00 0.0 5.7e+05 7.4e+03 0.0e+00  0  0  0  5  0   0  0  0  5  0     0
+MatSolve           17374 1.0 1.4363e+01 1.1 9.98e+09 1.1 0.0e+00 0.0e+00 0.0e+00 17 29  0  0  0  17 29  0  0  0 393616
+MatLUFactorSym         1 1.0 1.1064e-01 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        20 1.0 4.5851e+00 1.7 6.96e+09 1.6 0.0e+00 0.0e+00 0.0e+00  4 16  0  0  0   4 16  0  0  0 688676
+MatILUFactorSym        1 1.0 1.1316e-03 2.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual          168 1.0 3.4650e-01 2.3 1.27e+08 1.0 5.7e+05 1.5e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 217180
+MatAssemblyBegin      42 1.0 1.4809e+00 2.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatAssemblyEnd        42 1.0 1.2341e-01 6.6 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 4.9119e-03 2.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      20 1.0 1.3502e-01 1.1 0.00e+00 0.0 9.5e+04 5.7e+03 2.0e+00  0  0  0  1  0   0  0  0  1  0     0
+MatGetOrdering         2 1.0 4.4562e-02 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 1.6994e-02 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 7.0570e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              31 1.0 8.0412e+00 1.0 8.15e+09 1.5 7.7e+05 1.8e+03 2.2e+02 10 20  1  2  1  10 20  1  2  1 476552
+KSPSolve              10 1.0 3.8068e+01 1.0 2.67e+10 1.1 1.2e+08 7.4e+02 3.3e+04 47 80 99 98 99  47 80 99 98 99 408155
+KSPGMRESOrthog     16218 1.0 1.3285e+01 1.1 1.30e+10 1.1 0.0e+00 0.0e+00 1.6e+04 16 39  0  0 49  16 39  0  0 49 574654
+PCSetUp               29 1.0 8.0883e+00 1.0 8.16e+09 1.5 8.2e+05 1.9e+03 2.3e+02 10 20  1  2  1  10 20  1  2  1 473999
+PCSetUpOnBlocks      514 1.0 5.6800e-01 1.5 6.96e+08 1.6 0.0e+00 0.0e+00 0.0e+00  1  2  0  0  0   1  2  0  0  0 555927
+PCApply              168 1.0 3.7133e+01 1.0 2.62e+10 1.1 1.2e+08 7.4e+02 3.3e+04 46 79 99 97 98  46 79 99 97 98 410627
+PCApplyOnBlocks    17374 1.0 1.8784e+01 1.2 1.62e+10 1.2 0.0e+00 0.0e+00 0.0e+00 21 44  0  0  0  21 44  0  0  0 452254
+VecMDot            16218 1.0 9.7871e+00 1.2 6.52e+09 1.1 0.0e+00 0.0e+00 1.6e+04 11 20  0  0 49  11 20  0  0 49 390015
+VecNorm            16880 1.0 5.0197e+00 1.7 4.85e+08 1.0 0.0e+00 0.0e+00 1.7e+04  5  1  0  0 51   5  1  0  0 51 56579
+VecScale           17216 1.0 7.8125e-02 1.5 2.42e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 1817679
+VecCopy             1166 1.0 6.0415e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             53318 1.0 1.3051e+00 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY             1304 1.0 7.9749e-02 2.4 5.08e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 374876
+VecAYPX             1008 1.0 1.3906e-01 1.4 7.26e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 309289
+VecAXPBYCZ           336 1.0 7.7012e-02 1.5 9.08e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 698110
+VecMAXPY           16880 1.0 4.0388e+00 1.1 6.98e+09 1.1 0.0e+00 0.0e+00 0.0e+00  5 21  0  0  0   5 21  0  0  0 1012595
+VecScatterBegin    86860 1.0 2.5816e+00 1.3 0.00e+00 0.0 1.2e+08 7.1e+02 4.0e+00  3  0 99 93  0   3  0 99 93  0     0
+VecScatterEnd      86860 1.0 1.4246e+00 3.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecNormalize       16702 1.0 5.0177e+00 1.6 6.98e+08 1.1 0.0e+00 0.0e+00 1.7e+04  5  2  0  0 50   5  2  0  0 50 81497
+SFSetGraph             8 1.0 1.5734e-04 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                8 1.0 2.7468e-01 3.8 0.00e+00 0.0 2.7e+04 2.7e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin      17374 1.0 4.4014e-01 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd        17374 1.0 1.0262e-02 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             86860 1.0 9.5223e-02 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           86860 1.0 5.3336e-02 5.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13     74720028     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+              Vector   171            171     56484168     0.
+           Index Set    22             22      1640636     0.
+   IS L to G Mapping     2              2      2321328     0.
+   Star Forest Graph    14             14        16272     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3e-08
+Average time for MPI_Barrier(): 0.000107087
+Average time for zero size MPI_Send(): 3.36905e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 400 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+
+scontrol show jobid 6265968
+JobId=6265968 JobName=heat_strong_ASM
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=2017048 Nice=0 Account=def-asarkar QOS=normal
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:23:19 TimeLimit=00:30:00 TimeMin=N/A
+   SubmitTime=2021-10-21T15:59:30 EligibleTime=2021-10-21T15:59:30
+   AccrueTime=2021-10-21T15:59:30
+   StartTime=2021-10-21T15:59:33 EndTime=2021-10-21T16:22:52 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-10-21T15:59:33
+   Partition=compute AllocNode:Sid=nia-login05:197179
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia[1029-1043]
+   BatchHost=nia1029
+   NumNodes=15 NumCPUs=1200 NumTasks=600 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1200,mem=2625000M,node=15,billing=600
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_heat/runff_niagara_heat.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_heat
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_heat/heat_strong_ASM-6265968.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_heat/heat_strong_ASM-6265968.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+
+sacct -j 6265968
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+6265968      heat_stro+ def-asark+   00:23:19                        51:52.152 3-01:17:32      0:0 
+6265968.bat+      batch def-asark+   00:23:19  96331740K  76423688K  08:02.611   14:43:27      0:0 
+6265968.ext+     extern def-asark+   00:23:19    138360K       884K  00:00.001  00:00.010      0:0 
+6265968.0         orted def-asark+   00:09:33  99023856K  77004148K  02:08.596   06:10:44      0:0 
+6265968.1         orted def-asark+   00:04:32  95030948K  76530296K  04:14.569   08:45:14      0:0 
+6265968.2         orted def-asark+   00:03:15  99926296K  81318992K  06:45.669   10:03:17      0:0 
+6265968.3         orted def-asark+   00:02:22  96016340K  77002016K  07:34.177   10:18:09      0:0 
+6265968.4         orted def-asark+   00:01:56  96426580K  77913864K  09:40.263   10:54:47      0:0 
+6265968.5         orted def-asark+   00:01:27  92720060K  74123428K  13:26.262   12:21:53      0:0 

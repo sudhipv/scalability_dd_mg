@@ -1,0 +1,1600 @@
+if(j ==0 && k == 0 )
+{
+ucnl0j0k[l][] = ucnl0j0k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 0 )
+{
+ucnl1j0k[l][] = ucnl1j0k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 0 )
+{
+ucnl2j0k[l][] = ucnl2j0k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 0 )
+{
+ucnl3j0k[l][] = ucnl3j0k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 0 )
+{
+ucnl4j0k[l][] = ucnl4j0k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 0 )
+{
+ucnl5j0k[l][] = ucnl5j0k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 0 )
+{
+ucnl6j0k[l][] = ucnl6j0k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 0 )
+{
+ucnl7j0k[l][] = ucnl7j0k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 0 )
+{
+ucnl8j0k[l][] = ucnl8j0k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 0 )
+{
+ucnl9j0k[l][] = ucnl9j0k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 0 )
+{
+ucnl10j0k[l][] = ucnl10j0k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 0 )
+{
+ucnl11j0k[l][] = ucnl11j0k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 0 )
+{
+ucnl12j0k[l][] = ucnl12j0k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 0 )
+{
+ucnl13j0k[l][] = ucnl13j0k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 0 )
+{
+ucnl14j0k[l][] = ucnl14j0k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 0 )
+{
+ucnl15j0k[l][] = ucnl15j0k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 0 )
+{
+ucnl16j0k[l][] = ucnl16j0k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 0 )
+{
+ucnl17j0k[l][] = ucnl17j0k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 0 )
+{
+ucnl18j0k[l][] = ucnl18j0k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 0 )
+{
+ucnl19j0k[l][] = ucnl19j0k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 1 )
+{
+ucnl0j1k[l][] = ucnl0j1k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 1 )
+{
+ucnl1j1k[l][] = ucnl1j1k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 1 )
+{
+ucnl2j1k[l][] = ucnl2j1k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 1 )
+{
+ucnl3j1k[l][] = ucnl3j1k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 1 )
+{
+ucnl4j1k[l][] = ucnl4j1k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 1 )
+{
+ucnl5j1k[l][] = ucnl5j1k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 1 )
+{
+ucnl6j1k[l][] = ucnl6j1k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 1 )
+{
+ucnl7j1k[l][] = ucnl7j1k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 1 )
+{
+ucnl8j1k[l][] = ucnl8j1k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 1 )
+{
+ucnl9j1k[l][] = ucnl9j1k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 1 )
+{
+ucnl10j1k[l][] = ucnl10j1k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 1 )
+{
+ucnl11j1k[l][] = ucnl11j1k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 1 )
+{
+ucnl12j1k[l][] = ucnl12j1k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 1 )
+{
+ucnl13j1k[l][] = ucnl13j1k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 1 )
+{
+ucnl14j1k[l][] = ucnl14j1k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 1 )
+{
+ucnl15j1k[l][] = ucnl15j1k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 1 )
+{
+ucnl16j1k[l][] = ucnl16j1k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 1 )
+{
+ucnl17j1k[l][] = ucnl17j1k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 1 )
+{
+ucnl18j1k[l][] = ucnl18j1k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 1 )
+{
+ucnl19j1k[l][] = ucnl19j1k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 2 )
+{
+ucnl0j2k[l][] = ucnl0j2k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 2 )
+{
+ucnl1j2k[l][] = ucnl1j2k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 2 )
+{
+ucnl2j2k[l][] = ucnl2j2k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 2 )
+{
+ucnl3j2k[l][] = ucnl3j2k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 2 )
+{
+ucnl4j2k[l][] = ucnl4j2k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 2 )
+{
+ucnl5j2k[l][] = ucnl5j2k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 2 )
+{
+ucnl6j2k[l][] = ucnl6j2k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 2 )
+{
+ucnl7j2k[l][] = ucnl7j2k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 2 )
+{
+ucnl8j2k[l][] = ucnl8j2k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 2 )
+{
+ucnl9j2k[l][] = ucnl9j2k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 2 )
+{
+ucnl10j2k[l][] = ucnl10j2k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 2 )
+{
+ucnl11j2k[l][] = ucnl11j2k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 2 )
+{
+ucnl12j2k[l][] = ucnl12j2k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 2 )
+{
+ucnl13j2k[l][] = ucnl13j2k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 2 )
+{
+ucnl14j2k[l][] = ucnl14j2k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 2 )
+{
+ucnl15j2k[l][] = ucnl15j2k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 2 )
+{
+ucnl16j2k[l][] = ucnl16j2k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 2 )
+{
+ucnl17j2k[l][] = ucnl17j2k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 2 )
+{
+ucnl18j2k[l][] = ucnl18j2k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 2 )
+{
+ucnl19j2k[l][] = ucnl19j2k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 3 )
+{
+ucnl0j3k[l][] = ucnl0j3k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 3 )
+{
+ucnl1j3k[l][] = ucnl1j3k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 3 )
+{
+ucnl2j3k[l][] = ucnl2j3k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 3 )
+{
+ucnl3j3k[l][] = ucnl3j3k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 3 )
+{
+ucnl4j3k[l][] = ucnl4j3k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 3 )
+{
+ucnl5j3k[l][] = ucnl5j3k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 3 )
+{
+ucnl6j3k[l][] = ucnl6j3k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 3 )
+{
+ucnl7j3k[l][] = ucnl7j3k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 3 )
+{
+ucnl8j3k[l][] = ucnl8j3k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 3 )
+{
+ucnl9j3k[l][] = ucnl9j3k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 3 )
+{
+ucnl10j3k[l][] = ucnl10j3k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 3 )
+{
+ucnl11j3k[l][] = ucnl11j3k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 3 )
+{
+ucnl12j3k[l][] = ucnl12j3k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 3 )
+{
+ucnl13j3k[l][] = ucnl13j3k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 3 )
+{
+ucnl14j3k[l][] = ucnl14j3k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 3 )
+{
+ucnl15j3k[l][] = ucnl15j3k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 3 )
+{
+ucnl16j3k[l][] = ucnl16j3k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 3 )
+{
+ucnl17j3k[l][] = ucnl17j3k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 3 )
+{
+ucnl18j3k[l][] = ucnl18j3k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 3 )
+{
+ucnl19j3k[l][] = ucnl19j3k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 4 )
+{
+ucnl0j4k[l][] = ucnl0j4k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 4 )
+{
+ucnl1j4k[l][] = ucnl1j4k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 4 )
+{
+ucnl2j4k[l][] = ucnl2j4k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 4 )
+{
+ucnl3j4k[l][] = ucnl3j4k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 4 )
+{
+ucnl4j4k[l][] = ucnl4j4k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 4 )
+{
+ucnl5j4k[l][] = ucnl5j4k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 4 )
+{
+ucnl6j4k[l][] = ucnl6j4k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 4 )
+{
+ucnl7j4k[l][] = ucnl7j4k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 4 )
+{
+ucnl8j4k[l][] = ucnl8j4k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 4 )
+{
+ucnl9j4k[l][] = ucnl9j4k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 4 )
+{
+ucnl10j4k[l][] = ucnl10j4k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 4 )
+{
+ucnl11j4k[l][] = ucnl11j4k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 4 )
+{
+ucnl12j4k[l][] = ucnl12j4k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 4 )
+{
+ucnl13j4k[l][] = ucnl13j4k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 4 )
+{
+ucnl14j4k[l][] = ucnl14j4k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 4 )
+{
+ucnl15j4k[l][] = ucnl15j4k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 4 )
+{
+ucnl16j4k[l][] = ucnl16j4k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 4 )
+{
+ucnl17j4k[l][] = ucnl17j4k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 4 )
+{
+ucnl18j4k[l][] = ucnl18j4k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 4 )
+{
+ucnl19j4k[l][] = ucnl19j4k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 5 )
+{
+ucnl0j5k[l][] = ucnl0j5k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 5 )
+{
+ucnl1j5k[l][] = ucnl1j5k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 5 )
+{
+ucnl2j5k[l][] = ucnl2j5k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 5 )
+{
+ucnl3j5k[l][] = ucnl3j5k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 5 )
+{
+ucnl4j5k[l][] = ucnl4j5k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 5 )
+{
+ucnl5j5k[l][] = ucnl5j5k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 5 )
+{
+ucnl6j5k[l][] = ucnl6j5k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 5 )
+{
+ucnl7j5k[l][] = ucnl7j5k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 5 )
+{
+ucnl8j5k[l][] = ucnl8j5k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 5 )
+{
+ucnl9j5k[l][] = ucnl9j5k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 5 )
+{
+ucnl10j5k[l][] = ucnl10j5k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 5 )
+{
+ucnl11j5k[l][] = ucnl11j5k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 5 )
+{
+ucnl12j5k[l][] = ucnl12j5k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 5 )
+{
+ucnl13j5k[l][] = ucnl13j5k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 5 )
+{
+ucnl14j5k[l][] = ucnl14j5k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 5 )
+{
+ucnl15j5k[l][] = ucnl15j5k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 5 )
+{
+ucnl16j5k[l][] = ucnl16j5k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 5 )
+{
+ucnl17j5k[l][] = ucnl17j5k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 5 )
+{
+ucnl18j5k[l][] = ucnl18j5k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 5 )
+{
+ucnl19j5k[l][] = ucnl19j5k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 6 )
+{
+ucnl0j6k[l][] = ucnl0j6k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 6 )
+{
+ucnl1j6k[l][] = ucnl1j6k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 6 )
+{
+ucnl2j6k[l][] = ucnl2j6k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 6 )
+{
+ucnl3j6k[l][] = ucnl3j6k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 6 )
+{
+ucnl4j6k[l][] = ucnl4j6k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 6 )
+{
+ucnl5j6k[l][] = ucnl5j6k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 6 )
+{
+ucnl6j6k[l][] = ucnl6j6k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 6 )
+{
+ucnl7j6k[l][] = ucnl7j6k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 6 )
+{
+ucnl8j6k[l][] = ucnl8j6k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 6 )
+{
+ucnl9j6k[l][] = ucnl9j6k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 6 )
+{
+ucnl10j6k[l][] = ucnl10j6k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 6 )
+{
+ucnl11j6k[l][] = ucnl11j6k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 6 )
+{
+ucnl12j6k[l][] = ucnl12j6k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 6 )
+{
+ucnl13j6k[l][] = ucnl13j6k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 6 )
+{
+ucnl14j6k[l][] = ucnl14j6k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 6 )
+{
+ucnl15j6k[l][] = ucnl15j6k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 6 )
+{
+ucnl16j6k[l][] = ucnl16j6k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 6 )
+{
+ucnl17j6k[l][] = ucnl17j6k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 6 )
+{
+ucnl18j6k[l][] = ucnl18j6k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 6 )
+{
+ucnl19j6k[l][] = ucnl19j6k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 7 )
+{
+ucnl0j7k[l][] = ucnl0j7k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 7 )
+{
+ucnl1j7k[l][] = ucnl1j7k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 7 )
+{
+ucnl2j7k[l][] = ucnl2j7k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 7 )
+{
+ucnl3j7k[l][] = ucnl3j7k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 7 )
+{
+ucnl4j7k[l][] = ucnl4j7k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 7 )
+{
+ucnl5j7k[l][] = ucnl5j7k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 7 )
+{
+ucnl6j7k[l][] = ucnl6j7k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 7 )
+{
+ucnl7j7k[l][] = ucnl7j7k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 7 )
+{
+ucnl8j7k[l][] = ucnl8j7k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 7 )
+{
+ucnl9j7k[l][] = ucnl9j7k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 7 )
+{
+ucnl10j7k[l][] = ucnl10j7k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 7 )
+{
+ucnl11j7k[l][] = ucnl11j7k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 7 )
+{
+ucnl12j7k[l][] = ucnl12j7k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 7 )
+{
+ucnl13j7k[l][] = ucnl13j7k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 7 )
+{
+ucnl14j7k[l][] = ucnl14j7k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 7 )
+{
+ucnl15j7k[l][] = ucnl15j7k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 7 )
+{
+ucnl16j7k[l][] = ucnl16j7k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 7 )
+{
+ucnl17j7k[l][] = ucnl17j7k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 7 )
+{
+ucnl18j7k[l][] = ucnl18j7k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 7 )
+{
+ucnl19j7k[l][] = ucnl19j7k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 8 )
+{
+ucnl0j8k[l][] = ucnl0j8k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 8 )
+{
+ucnl1j8k[l][] = ucnl1j8k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 8 )
+{
+ucnl2j8k[l][] = ucnl2j8k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 8 )
+{
+ucnl3j8k[l][] = ucnl3j8k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 8 )
+{
+ucnl4j8k[l][] = ucnl4j8k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 8 )
+{
+ucnl5j8k[l][] = ucnl5j8k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 8 )
+{
+ucnl6j8k[l][] = ucnl6j8k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 8 )
+{
+ucnl7j8k[l][] = ucnl7j8k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 8 )
+{
+ucnl8j8k[l][] = ucnl8j8k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 8 )
+{
+ucnl9j8k[l][] = ucnl9j8k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 8 )
+{
+ucnl10j8k[l][] = ucnl10j8k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 8 )
+{
+ucnl11j8k[l][] = ucnl11j8k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 8 )
+{
+ucnl12j8k[l][] = ucnl12j8k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 8 )
+{
+ucnl13j8k[l][] = ucnl13j8k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 8 )
+{
+ucnl14j8k[l][] = ucnl14j8k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 8 )
+{
+ucnl15j8k[l][] = ucnl15j8k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 8 )
+{
+ucnl16j8k[l][] = ucnl16j8k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 8 )
+{
+ucnl17j8k[l][] = ucnl17j8k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 8 )
+{
+ucnl18j8k[l][] = ucnl18j8k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 8 )
+{
+ucnl19j8k[l][] = ucnl19j8k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 9 )
+{
+ucnl0j9k[l][] = ucnl0j9k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 9 )
+{
+ucnl1j9k[l][] = ucnl1j9k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 9 )
+{
+ucnl2j9k[l][] = ucnl2j9k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 9 )
+{
+ucnl3j9k[l][] = ucnl3j9k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 9 )
+{
+ucnl4j9k[l][] = ucnl4j9k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 9 )
+{
+ucnl5j9k[l][] = ucnl5j9k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 9 )
+{
+ucnl6j9k[l][] = ucnl6j9k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 9 )
+{
+ucnl7j9k[l][] = ucnl7j9k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 9 )
+{
+ucnl8j9k[l][] = ucnl8j9k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 9 )
+{
+ucnl9j9k[l][] = ucnl9j9k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 9 )
+{
+ucnl10j9k[l][] = ucnl10j9k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 9 )
+{
+ucnl11j9k[l][] = ucnl11j9k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 9 )
+{
+ucnl12j9k[l][] = ucnl12j9k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 9 )
+{
+ucnl13j9k[l][] = ucnl13j9k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 9 )
+{
+ucnl14j9k[l][] = ucnl14j9k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 9 )
+{
+ucnl15j9k[l][] = ucnl15j9k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 9 )
+{
+ucnl16j9k[l][] = ucnl16j9k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 9 )
+{
+ucnl17j9k[l][] = ucnl17j9k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 9 )
+{
+ucnl18j9k[l][] = ucnl18j9k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 9 )
+{
+ucnl19j9k[l][] = ucnl19j9k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 10 )
+{
+ucnl0j10k[l][] = ucnl0j10k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 10 )
+{
+ucnl1j10k[l][] = ucnl1j10k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 10 )
+{
+ucnl2j10k[l][] = ucnl2j10k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 10 )
+{
+ucnl3j10k[l][] = ucnl3j10k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 10 )
+{
+ucnl4j10k[l][] = ucnl4j10k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 10 )
+{
+ucnl5j10k[l][] = ucnl5j10k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 10 )
+{
+ucnl6j10k[l][] = ucnl6j10k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 10 )
+{
+ucnl7j10k[l][] = ucnl7j10k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 10 )
+{
+ucnl8j10k[l][] = ucnl8j10k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 10 )
+{
+ucnl9j10k[l][] = ucnl9j10k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 10 )
+{
+ucnl10j10k[l][] = ucnl10j10k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 10 )
+{
+ucnl11j10k[l][] = ucnl11j10k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 10 )
+{
+ucnl12j10k[l][] = ucnl12j10k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 10 )
+{
+ucnl13j10k[l][] = ucnl13j10k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 10 )
+{
+ucnl14j10k[l][] = ucnl14j10k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 10 )
+{
+ucnl15j10k[l][] = ucnl15j10k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 10 )
+{
+ucnl16j10k[l][] = ucnl16j10k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 10 )
+{
+ucnl17j10k[l][] = ucnl17j10k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 10 )
+{
+ucnl18j10k[l][] = ucnl18j10k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 10 )
+{
+ucnl19j10k[l][] = ucnl19j10k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 11 )
+{
+ucnl0j11k[l][] = ucnl0j11k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 11 )
+{
+ucnl1j11k[l][] = ucnl1j11k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 11 )
+{
+ucnl2j11k[l][] = ucnl2j11k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 11 )
+{
+ucnl3j11k[l][] = ucnl3j11k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 11 )
+{
+ucnl4j11k[l][] = ucnl4j11k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 11 )
+{
+ucnl5j11k[l][] = ucnl5j11k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 11 )
+{
+ucnl6j11k[l][] = ucnl6j11k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 11 )
+{
+ucnl7j11k[l][] = ucnl7j11k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 11 )
+{
+ucnl8j11k[l][] = ucnl8j11k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 11 )
+{
+ucnl9j11k[l][] = ucnl9j11k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 11 )
+{
+ucnl10j11k[l][] = ucnl10j11k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 11 )
+{
+ucnl11j11k[l][] = ucnl11j11k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 11 )
+{
+ucnl12j11k[l][] = ucnl12j11k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 11 )
+{
+ucnl13j11k[l][] = ucnl13j11k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 11 )
+{
+ucnl14j11k[l][] = ucnl14j11k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 11 )
+{
+ucnl15j11k[l][] = ucnl15j11k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 11 )
+{
+ucnl16j11k[l][] = ucnl16j11k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 11 )
+{
+ucnl17j11k[l][] = ucnl17j11k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 11 )
+{
+ucnl18j11k[l][] = ucnl18j11k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 11 )
+{
+ucnl19j11k[l][] = ucnl19j11k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 12 )
+{
+ucnl0j12k[l][] = ucnl0j12k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 12 )
+{
+ucnl1j12k[l][] = ucnl1j12k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 12 )
+{
+ucnl2j12k[l][] = ucnl2j12k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 12 )
+{
+ucnl3j12k[l][] = ucnl3j12k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 12 )
+{
+ucnl4j12k[l][] = ucnl4j12k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 12 )
+{
+ucnl5j12k[l][] = ucnl5j12k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 12 )
+{
+ucnl6j12k[l][] = ucnl6j12k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 12 )
+{
+ucnl7j12k[l][] = ucnl7j12k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 12 )
+{
+ucnl8j12k[l][] = ucnl8j12k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 12 )
+{
+ucnl9j12k[l][] = ucnl9j12k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 12 )
+{
+ucnl10j12k[l][] = ucnl10j12k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 12 )
+{
+ucnl11j12k[l][] = ucnl11j12k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 12 )
+{
+ucnl12j12k[l][] = ucnl12j12k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 12 )
+{
+ucnl13j12k[l][] = ucnl13j12k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 12 )
+{
+ucnl14j12k[l][] = ucnl14j12k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 12 )
+{
+ucnl15j12k[l][] = ucnl15j12k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 12 )
+{
+ucnl16j12k[l][] = ucnl16j12k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 12 )
+{
+ucnl17j12k[l][] = ucnl17j12k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 12 )
+{
+ucnl18j12k[l][] = ucnl18j12k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 12 )
+{
+ucnl19j12k[l][] = ucnl19j12k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 13 )
+{
+ucnl0j13k[l][] = ucnl0j13k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 13 )
+{
+ucnl1j13k[l][] = ucnl1j13k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 13 )
+{
+ucnl2j13k[l][] = ucnl2j13k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 13 )
+{
+ucnl3j13k[l][] = ucnl3j13k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 13 )
+{
+ucnl4j13k[l][] = ucnl4j13k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 13 )
+{
+ucnl5j13k[l][] = ucnl5j13k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 13 )
+{
+ucnl6j13k[l][] = ucnl6j13k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 13 )
+{
+ucnl7j13k[l][] = ucnl7j13k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 13 )
+{
+ucnl8j13k[l][] = ucnl8j13k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 13 )
+{
+ucnl9j13k[l][] = ucnl9j13k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 13 )
+{
+ucnl10j13k[l][] = ucnl10j13k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 13 )
+{
+ucnl11j13k[l][] = ucnl11j13k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 13 )
+{
+ucnl12j13k[l][] = ucnl12j13k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 13 )
+{
+ucnl13j13k[l][] = ucnl13j13k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 13 )
+{
+ucnl14j13k[l][] = ucnl14j13k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 13 )
+{
+ucnl15j13k[l][] = ucnl15j13k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 13 )
+{
+ucnl16j13k[l][] = ucnl16j13k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 13 )
+{
+ucnl17j13k[l][] = ucnl17j13k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 13 )
+{
+ucnl18j13k[l][] = ucnl18j13k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 13 )
+{
+ucnl19j13k[l][] = ucnl19j13k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 14 )
+{
+ucnl0j14k[l][] = ucnl0j14k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 14 )
+{
+ucnl1j14k[l][] = ucnl1j14k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 14 )
+{
+ucnl2j14k[l][] = ucnl2j14k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 14 )
+{
+ucnl3j14k[l][] = ucnl3j14k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 14 )
+{
+ucnl4j14k[l][] = ucnl4j14k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 14 )
+{
+ucnl5j14k[l][] = ucnl5j14k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 14 )
+{
+ucnl6j14k[l][] = ucnl6j14k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 14 )
+{
+ucnl7j14k[l][] = ucnl7j14k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 14 )
+{
+ucnl8j14k[l][] = ucnl8j14k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 14 )
+{
+ucnl9j14k[l][] = ucnl9j14k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 14 )
+{
+ucnl10j14k[l][] = ucnl10j14k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 14 )
+{
+ucnl11j14k[l][] = ucnl11j14k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 14 )
+{
+ucnl12j14k[l][] = ucnl12j14k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 14 )
+{
+ucnl13j14k[l][] = ucnl13j14k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 14 )
+{
+ucnl14j14k[l][] = ucnl14j14k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 14 )
+{
+ucnl15j14k[l][] = ucnl15j14k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 14 )
+{
+ucnl16j14k[l][] = ucnl16j14k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 14 )
+{
+ucnl17j14k[l][] = ucnl17j14k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 14 )
+{
+ucnl18j14k[l][] = ucnl18j14k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 14 )
+{
+ucnl19j14k[l][] = ucnl19j14k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 15 )
+{
+ucnl0j15k[l][] = ucnl0j15k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 15 )
+{
+ucnl1j15k[l][] = ucnl1j15k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 15 )
+{
+ucnl2j15k[l][] = ucnl2j15k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 15 )
+{
+ucnl3j15k[l][] = ucnl3j15k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 15 )
+{
+ucnl4j15k[l][] = ucnl4j15k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 15 )
+{
+ucnl5j15k[l][] = ucnl5j15k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 15 )
+{
+ucnl6j15k[l][] = ucnl6j15k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 15 )
+{
+ucnl7j15k[l][] = ucnl7j15k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 15 )
+{
+ucnl8j15k[l][] = ucnl8j15k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 15 )
+{
+ucnl9j15k[l][] = ucnl9j15k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 15 )
+{
+ucnl10j15k[l][] = ucnl10j15k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 15 )
+{
+ucnl11j15k[l][] = ucnl11j15k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 15 )
+{
+ucnl12j15k[l][] = ucnl12j15k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 15 )
+{
+ucnl13j15k[l][] = ucnl13j15k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 15 )
+{
+ucnl14j15k[l][] = ucnl14j15k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 15 )
+{
+ucnl15j15k[l][] = ucnl15j15k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 15 )
+{
+ucnl16j15k[l][] = ucnl16j15k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 15 )
+{
+ucnl17j15k[l][] = ucnl17j15k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 15 )
+{
+ucnl18j15k[l][] = ucnl18j15k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 15 )
+{
+ucnl19j15k[l][] = ucnl19j15k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 16 )
+{
+ucnl0j16k[l][] = ucnl0j16k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 16 )
+{
+ucnl1j16k[l][] = ucnl1j16k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 16 )
+{
+ucnl2j16k[l][] = ucnl2j16k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 16 )
+{
+ucnl3j16k[l][] = ucnl3j16k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 16 )
+{
+ucnl4j16k[l][] = ucnl4j16k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 16 )
+{
+ucnl5j16k[l][] = ucnl5j16k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 16 )
+{
+ucnl6j16k[l][] = ucnl6j16k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 16 )
+{
+ucnl7j16k[l][] = ucnl7j16k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 16 )
+{
+ucnl8j16k[l][] = ucnl8j16k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 16 )
+{
+ucnl9j16k[l][] = ucnl9j16k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 16 )
+{
+ucnl10j16k[l][] = ucnl10j16k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 16 )
+{
+ucnl11j16k[l][] = ucnl11j16k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 16 )
+{
+ucnl12j16k[l][] = ucnl12j16k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 16 )
+{
+ucnl13j16k[l][] = ucnl13j16k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 16 )
+{
+ucnl14j16k[l][] = ucnl14j16k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 16 )
+{
+ucnl15j16k[l][] = ucnl15j16k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 16 )
+{
+ucnl16j16k[l][] = ucnl16j16k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 16 )
+{
+ucnl17j16k[l][] = ucnl17j16k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 16 )
+{
+ucnl18j16k[l][] = ucnl18j16k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 16 )
+{
+ucnl19j16k[l][] = ucnl19j16k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 17 )
+{
+ucnl0j17k[l][] = ucnl0j17k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 17 )
+{
+ucnl1j17k[l][] = ucnl1j17k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 17 )
+{
+ucnl2j17k[l][] = ucnl2j17k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 17 )
+{
+ucnl3j17k[l][] = ucnl3j17k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 17 )
+{
+ucnl4j17k[l][] = ucnl4j17k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 17 )
+{
+ucnl5j17k[l][] = ucnl5j17k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 17 )
+{
+ucnl6j17k[l][] = ucnl6j17k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 17 )
+{
+ucnl7j17k[l][] = ucnl7j17k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 17 )
+{
+ucnl8j17k[l][] = ucnl8j17k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 17 )
+{
+ucnl9j17k[l][] = ucnl9j17k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 17 )
+{
+ucnl10j17k[l][] = ucnl10j17k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 17 )
+{
+ucnl11j17k[l][] = ucnl11j17k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 17 )
+{
+ucnl12j17k[l][] = ucnl12j17k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 17 )
+{
+ucnl13j17k[l][] = ucnl13j17k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 17 )
+{
+ucnl14j17k[l][] = ucnl14j17k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 17 )
+{
+ucnl15j17k[l][] = ucnl15j17k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 17 )
+{
+ucnl16j17k[l][] = ucnl16j17k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 17 )
+{
+ucnl17j17k[l][] = ucnl17j17k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 17 )
+{
+ucnl18j17k[l][] = ucnl18j17k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 17 )
+{
+ucnl19j17k[l][] = ucnl19j17k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 18 )
+{
+ucnl0j18k[l][] = ucnl0j18k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 18 )
+{
+ucnl1j18k[l][] = ucnl1j18k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 18 )
+{
+ucnl2j18k[l][] = ucnl2j18k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 18 )
+{
+ucnl3j18k[l][] = ucnl3j18k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 18 )
+{
+ucnl4j18k[l][] = ucnl4j18k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 18 )
+{
+ucnl5j18k[l][] = ucnl5j18k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 18 )
+{
+ucnl6j18k[l][] = ucnl6j18k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 18 )
+{
+ucnl7j18k[l][] = ucnl7j18k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 18 )
+{
+ucnl8j18k[l][] = ucnl8j18k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 18 )
+{
+ucnl9j18k[l][] = ucnl9j18k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 18 )
+{
+ucnl10j18k[l][] = ucnl10j18k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 18 )
+{
+ucnl11j18k[l][] = ucnl11j18k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 18 )
+{
+ucnl12j18k[l][] = ucnl12j18k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 18 )
+{
+ucnl13j18k[l][] = ucnl13j18k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 18 )
+{
+ucnl14j18k[l][] = ucnl14j18k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 18 )
+{
+ucnl15j18k[l][] = ucnl15j18k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 18 )
+{
+ucnl16j18k[l][] = ucnl16j18k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 18 )
+{
+ucnl17j18k[l][] = ucnl17j18k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 18 )
+{
+ucnl18j18k[l][] = ucnl18j18k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 18 )
+{
+ucnl19j18k[l][] = ucnl19j18k[l][] + Li * talpha;
+}
+else if(j ==0 && k == 19 )
+{
+ucnl0j19k[l][] = ucnl0j19k[l][] + Li * talpha;
+}
+else if(j ==1 && k == 19 )
+{
+ucnl1j19k[l][] = ucnl1j19k[l][] + Li * talpha;
+}
+else if(j ==2 && k == 19 )
+{
+ucnl2j19k[l][] = ucnl2j19k[l][] + Li * talpha;
+}
+else if(j ==3 && k == 19 )
+{
+ucnl3j19k[l][] = ucnl3j19k[l][] + Li * talpha;
+}
+else if(j ==4 && k == 19 )
+{
+ucnl4j19k[l][] = ucnl4j19k[l][] + Li * talpha;
+}
+else if(j ==5 && k == 19 )
+{
+ucnl5j19k[l][] = ucnl5j19k[l][] + Li * talpha;
+}
+else if(j ==6 && k == 19 )
+{
+ucnl6j19k[l][] = ucnl6j19k[l][] + Li * talpha;
+}
+else if(j ==7 && k == 19 )
+{
+ucnl7j19k[l][] = ucnl7j19k[l][] + Li * talpha;
+}
+else if(j ==8 && k == 19 )
+{
+ucnl8j19k[l][] = ucnl8j19k[l][] + Li * talpha;
+}
+else if(j ==9 && k == 19 )
+{
+ucnl9j19k[l][] = ucnl9j19k[l][] + Li * talpha;
+}
+else if(j ==10 && k == 19 )
+{
+ucnl10j19k[l][] = ucnl10j19k[l][] + Li * talpha;
+}
+else if(j ==11 && k == 19 )
+{
+ucnl11j19k[l][] = ucnl11j19k[l][] + Li * talpha;
+}
+else if(j ==12 && k == 19 )
+{
+ucnl12j19k[l][] = ucnl12j19k[l][] + Li * talpha;
+}
+else if(j ==13 && k == 19 )
+{
+ucnl13j19k[l][] = ucnl13j19k[l][] + Li * talpha;
+}
+else if(j ==14 && k == 19 )
+{
+ucnl14j19k[l][] = ucnl14j19k[l][] + Li * talpha;
+}
+else if(j ==15 && k == 19 )
+{
+ucnl15j19k[l][] = ucnl15j19k[l][] + Li * talpha;
+}
+else if(j ==16 && k == 19 )
+{
+ucnl16j19k[l][] = ucnl16j19k[l][] + Li * talpha;
+}
+else if(j ==17 && k == 19 )
+{
+ucnl17j19k[l][] = ucnl17j19k[l][] + Li * talpha;
+}
+else if(j ==18 && k == 19 )
+{
+ucnl18j19k[l][] = ucnl18j19k[l][] + Li * talpha;
+}
+else if(j ==19 && k == 19 )
+{
+ucnl19j19k[l][] = ucnl19j19k[l][] + Li * talpha;
+}

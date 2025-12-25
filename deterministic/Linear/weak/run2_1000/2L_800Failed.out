@@ -1,0 +1,684 @@
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+Number of Vertices for coarse mesh in process  0  20025625
+[44]PETSC ERROR: ------------------------------------------------------------------------
+[44]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[44]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[44]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[44]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[44]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[44]PETSC ERROR: to get more information on the crash.
+[44]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[44]PETSC ERROR: Signal received
+[44]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[44]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[44]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1228.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[44]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[44]PETSC ERROR: #1 User provided function() at  unknown file:0
+[44]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[47]PETSC ERROR: ------------------------------------------------------------------------
+[47]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[47]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[47]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[47]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[47]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[47]PETSC ERROR: to get more information on the crash.
+[47]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[47]PETSC ERROR: Signal received
+[47]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[47]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[47]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1228.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[47]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[47]PETSC ERROR: #1 User provided function() at  unknown file:0
+[47]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 44 in communicator MPI_COMM_WORLD
+with errorcode 50176059.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[351]PETSC ERROR: ------------------------------------------------------------------------
+[351]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[351]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[351]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[351]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[351]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[351]PETSC ERROR: to get more information on the crash.
+[351]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[351]PETSC ERROR: Signal received
+[351]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[351]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[351]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1365.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[351]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[351]PETSC ERROR: #1 User provided function() at  unknown file:0
+[351]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[635]PETSC ERROR: ------------------------------------------------------------------------
+[635]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[635]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[635]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[635]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[635]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[635]PETSC ERROR: to get more information on the crash.
+[635]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[635]PETSC ERROR: Signal received
+[635]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[635]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[635]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1473.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[635]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[635]PETSC ERROR: #1 User provided function() at  unknown file:0
+[635]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[386]PETSC ERROR: ------------------------------------------------------------------------
+[386]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[386]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[386]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[386]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[386]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[386]PETSC ERROR: to get more information on the crash.
+[386]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[386]PETSC ERROR: Signal received
+[386]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[386]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[386]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1366.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[386]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[386]PETSC ERROR: #1 User provided function() at  unknown file:0
+[283]PETSC ERROR: ------------------------------------------------------------------------
+[283]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[283]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[283]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[283]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[283]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[283]PETSC ERROR: to get more information on the crash.
+[283]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[283]PETSC ERROR: Signal received
+[283]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[283]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[283]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1364.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[283]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[283]PETSC ERROR: #1 User provided function() at  unknown file:0
+[283]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[98]PETSC ERROR: ------------------------------------------------------------------------
+[98]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[98]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[98]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[98]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[98]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[98]PETSC ERROR: to get more information on the crash.
+[98]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[98]PETSC ERROR: Signal received
+[98]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[98]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[98]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[98]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[98]PETSC ERROR: #1 User provided function() at  unknown file:0
+[98]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[473]PETSC ERROR: ------------------------------------------------------------------------
+[473]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[473]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[473]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[473]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[473]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[473]PETSC ERROR: to get more information on the crash.
+[473]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[473]PETSC ERROR: Signal received
+[274]PETSC ERROR: ------------------------------------------------------------------------
+[274]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[274]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[274]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[274]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[274]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[274]PETSC ERROR: to get more information on the crash.
+[274]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[274]PETSC ERROR: Signal received
+[274]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[274]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[274]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1363.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[274]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[274]PETSC ERROR: #1 User provided function() at  unknown file:0
+[274]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[430]PETSC ERROR: ------------------------------------------------------------------------
+[186]PETSC ERROR: ------------------------------------------------------------------------
+[186]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[186]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[186]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[186]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[186]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[186]PETSC ERROR: to get more information on the crash.
+[186]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[186]PETSC ERROR: Signal received
+[186]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[186]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[186]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1361.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[186]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[186]PETSC ERROR: #1 User provided function() at  unknown file:0
+[186]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[729]PETSC ERROR: ------------------------------------------------------------------------
+[729]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[729]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[729]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[729]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[729]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[729]PETSC ERROR: to get more information on the crash.
+[729]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[729]PETSC ERROR: Signal received
+[729]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[729]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[729]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1476.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[729]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[729]PETSC ERROR: #1 User provided function() at  unknown file:0
+[729]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[386]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[294]PETSC ERROR: ------------------------------------------------------------------------
+[294]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[294]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[294]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[294]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[294]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[294]PETSC ERROR: to get more information on the crash.
+[294]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[294]PETSC ERROR: Signal received
+[294]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[294]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[294]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1364.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[294]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[294]PETSC ERROR: #1 User provided function() at  unknown file:0
+[294]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[473]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[473]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[473]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1368.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[473]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[473]PETSC ERROR: #1 User provided function() at  unknown file:0
+[473]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[430]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[430]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[430]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[430]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[430]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[430]PETSC ERROR: to get more information on the crash.
+[430]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[430]PETSC ERROR: Signal received
+[430]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[430]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[430]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1367.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[430]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[430]PETSC ERROR: #1 User provided function() at  unknown file:0
+[430]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[195]PETSC ERROR: ------------------------------------------------------------------------
+[195]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[195]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[195]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[195]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[195]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[195]PETSC ERROR: to get more information on the crash.
+[195]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[195]PETSC ERROR: Signal received
+[195]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[195]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[195]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1361.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[195]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[195]PETSC ERROR: #1 User provided function() at  unknown file:0
+[195]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[736]PETSC ERROR: ------------------------------------------------------------------------
+[736]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[736]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[736]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[736]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[736]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[736]PETSC ERROR: to get more information on the crash.
+[736]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[736]PETSC ERROR: Signal received
+[736]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[736]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[736]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1476.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[736]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[736]PETSC ERROR: #1 User provided function() at  unknown file:0
+[736]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[311]PETSC ERROR: ------------------------------------------------------------------------
+[311]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[311]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[311]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[311]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[311]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[311]PETSC ERROR: to get more information on the crash.
+[311]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[311]PETSC ERROR: Signal received
+[311]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[311]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[311]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1364.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[311]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[311]PETSC ERROR: #1 User provided function() at  unknown file:0
+[311]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[188]PETSC ERROR: ------------------------------------------------------------------------
+[188]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[188]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[188]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[188]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[188]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[188]PETSC ERROR: to get more information on the crash.
+[188]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[188]PETSC ERROR: Signal received
+[188]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[188]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[188]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1361.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[188]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[188]PETSC ERROR: #1 User provided function() at  unknown file:0
+[188]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[297]PETSC ERROR: ------------------------------------------------------------------------
+[297]PETSC ERROR: Caught signal number 7 BUS: Bus Error, possibly illegal memory access
+[297]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[297]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[297]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[297]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[297]PETSC ERROR: to get more information on the crash.
+[297]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[297]PETSC ERROR: Signal received
+[297]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[297]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[297]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1364.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[297]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[297]PETSC ERROR: #1 User provided function() at  unknown file:0
+[297]PETSC ERROR: Run with -malloc_debug to check if memory corruption is causing the crash.
+[309]PETSC ERROR: ------------------------------------------------------------------------
+[309]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[309]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[309]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[309]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[309]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[309]PETSC ERROR: to get more information on the crash.
+[309]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[309]PETSC ERROR: Signal received
+[309]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[309]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[309]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1364.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[309]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[309]PETSC ERROR: #1 User provided function() at  unknown file:0
+[508]PETSC ERROR: ------------------------------------------------------------------------
+[508]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[508]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[508]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[508]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[508]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[508]PETSC ERROR: to get more information on the crash.
+[508]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[508]PETSC ERROR: Signal received
+[508]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[508]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[508]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1470.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[508]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[508]PETSC ERROR: #1 User provided function() at  unknown file:0
+[105]PETSC ERROR: ------------------------------------------------------------------------
+[105]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[105]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[105]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[105]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[105]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[105]PETSC ERROR: to get more information on the crash.
+[105]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[105]PETSC ERROR: Signal received
+[105]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[105]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[105]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[105]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[105]PETSC ERROR: #1 User provided function() at  unknown file:0
+[106]PETSC ERROR: ------------------------------------------------------------------------
+[106]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[106]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[106]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[106]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[106]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[106]PETSC ERROR: to get more information on the crash.
+[106]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[106]PETSC ERROR: Signal received
+[106]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[106]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[106]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[106]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[106]PETSC ERROR: #1 User provided function() at  unknown file:0
+[108]PETSC ERROR: ------------------------------------------------------------------------
+[108]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[108]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[108]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[108]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[108]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[108]PETSC ERROR: to get more information on the crash.
+[108]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[108]PETSC ERROR: Signal received
+[108]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[108]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[108]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[108]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[108]PETSC ERROR: #1 User provided function() at  unknown file:0
+[109]PETSC ERROR: ------------------------------------------------------------------------
+[109]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[109]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[109]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[109]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[109]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[109]PETSC ERROR: to get more information on the crash.
+[109]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[109]PETSC ERROR: Signal received
+[109]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[109]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[109]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[109]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[109]PETSC ERROR: #1 User provided function() at  unknown file:0
+[110]PETSC ERROR: ------------------------------------------------------------------------
+[110]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[110]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[110]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[110]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[110]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[110]PETSC ERROR: to get more information on the crash.
+[110]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[110]PETSC ERROR: Signal received
+[110]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[110]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[110]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[110]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[110]PETSC ERROR: #1 User provided function() at  unknown file:0
+[112]PETSC ERROR: ------------------------------------------------------------------------
+[112]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[112]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[112]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[112]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[112]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[112]PETSC ERROR: to get more information on the crash.
+[112]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[112]PETSC ERROR: Signal received
+[112]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[112]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[112]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[112]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[112]PETSC ERROR: #1 User provided function() at  unknown file:0
+[114]PETSC ERROR: ------------------------------------------------------------------------
+[114]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[114]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[114]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[114]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[114]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[114]PETSC ERROR: to get more information on the crash.
+[114]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[114]PETSC ERROR: Signal received
+[114]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[114]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[114]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[114]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[114]PETSC ERROR: #1 User provided function() at  unknown file:0
+[82]PETSC ERROR: ------------------------------------------------------------------------
+[82]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[82]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[82]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[82]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[82]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[82]PETSC ERROR: to get more information on the crash.
+[82]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[82]PETSC ERROR: Signal received
+[82]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[82]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[82]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[82]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[82]PETSC ERROR: #1 User provided function() at  unknown file:0
+[83]PETSC ERROR: ------------------------------------------------------------------------
+[83]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[83]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[83]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[83]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[83]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[83]PETSC ERROR: to get more information on the crash.
+[83]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[83]PETSC ERROR: Signal received
+[83]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[83]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[83]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[83]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[83]PETSC ERROR: #1 User provided function() at  unknown file:0
+[86]PETSC ERROR: ------------------------------------------------------------------------
+[86]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[86]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[86]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[86]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[86]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[86]PETSC ERROR: to get more information on the crash.
+[86]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[86]PETSC ERROR: Signal received
+[86]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[86]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[86]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[86]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[86]PETSC ERROR: #1 User provided function() at  unknown file:0
+[87]PETSC ERROR: ------------------------------------------------------------------------
+[87]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[87]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[87]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[87]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[87]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[87]PETSC ERROR: to get more information on the crash.
+[87]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[87]PETSC ERROR: Signal received
+[87]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[87]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[87]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[87]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[87]PETSC ERROR: #1 User provided function() at  unknown file:0
+[88]PETSC ERROR: ------------------------------------------------------------------------
+[88]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[88]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[88]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[88]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[88]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[88]PETSC ERROR: to get more information on the crash.
+[88]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[88]PETSC ERROR: Signal received
+[88]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[88]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[88]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[88]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[88]PETSC ERROR: #1 User provided function() at  unknown file:0
+[90]PETSC ERROR: ------------------------------------------------------------------------
+[90]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[90]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[90]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[90]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[90]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[90]PETSC ERROR: to get more information on the crash.
+[90]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[90]PETSC ERROR: Signal received
+[90]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[90]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[90]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[90]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[90]PETSC ERROR: #1 User provided function() at  unknown file:0
+[94]PETSC ERROR: ------------------------------------------------------------------------
+[94]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[94]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[94]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[94]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[94]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[94]PETSC ERROR: to get more information on the crash.
+[94]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[94]PETSC ERROR: Signal received
+[94]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[94]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[94]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[94]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[94]PETSC ERROR: #1 User provided function() at  unknown file:0
+[117]PETSC ERROR: ------------------------------------------------------------------------
+[117]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[117]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[117]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[117]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[117]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[117]PETSC ERROR: to get more information on the crash.
+[117]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[117]PETSC ERROR: Signal received
+[117]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[117]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[117]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[117]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[117]PETSC ERROR: #1 User provided function() at  unknown file:0
+[96]PETSC ERROR: ------------------------------------------------------------------------
+[96]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[96]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[96]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[96]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[96]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[96]PETSC ERROR: to get more information on the crash.
+[96]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[96]PETSC ERROR: Signal received
+[96]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[96]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[96]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[96]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[96]PETSC ERROR: #1 User provided function() at  unknown file:0
+[97]PETSC ERROR: ------------------------------------------------------------------------
+[97]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[97]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[97]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[97]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[97]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[97]PETSC ERROR: to get more information on the crash.
+[97]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[97]PETSC ERROR: Signal received
+[97]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[97]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[97]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[97]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[97]PETSC ERROR: #1 User provided function() at  unknown file:0
+[119]PETSC ERROR: ------------------------------------------------------------------------
+[119]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[119]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[119]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[119]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[119]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[119]PETSC ERROR: to get more information on the crash.
+[119]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[119]PETSC ERROR: Signal received
+[119]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[119]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[119]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[119]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[119]PETSC ERROR: #1 User provided function() at  unknown file:0
+[100]PETSC ERROR: ------------------------------------------------------------------------
+[100]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[100]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[100]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[100]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[100]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[100]PETSC ERROR: to get more information on the crash.
+[100]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[100]PETSC ERROR: Signal received
+[100]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[100]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[100]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[100]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[100]PETSC ERROR: #1 User provided function() at  unknown file:0
+[118]PETSC ERROR: ------------------------------------------------------------------------
+[118]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[118]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[118]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[118]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[118]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[118]PETSC ERROR: to get more information on the crash.
+[118]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[118]PETSC ERROR: Signal received
+[118]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[118]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[118]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[118]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[118]PETSC ERROR: #1 User provided function() at  unknown file:0
+[103]PETSC ERROR: ------------------------------------------------------------------------
+[103]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[103]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[103]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[103]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[103]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[103]PETSC ERROR: to get more information on the crash.
+[103]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[103]PETSC ERROR: Signal received
+[103]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[103]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[103]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[103]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[103]PETSC ERROR: #1 User provided function() at  unknown file:0
+[104]PETSC ERROR: ------------------------------------------------------------------------
+[104]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[104]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[104]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[104]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[104]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[104]PETSC ERROR: to get more information on the crash.
+[104]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[104]PETSC ERROR: Signal received
+[104]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[104]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[104]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1359.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[104]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[104]PETSC ERROR: #1 User provided function() at  unknown file:0
+[721]PETSC ERROR: ------------------------------------------------------------------------
+[721]PETSC ERROR: Caught signal number 15 Terminate: Some process (or the batch system) has told this process to end
+[721]PETSC ERROR: Try option -start_in_debugger or -on_error_attach_debugger
+[721]PETSC ERROR: or see https://www.mcs.anl.gov/petsc/documentation/faq.html#valgrind
+[721]PETSC ERROR: or try http://valgrind.org on GNU/linux and Apple Mac OS X to find memory corruption errors
+[721]PETSC ERROR: configure using --with-debugging=yes, recompile, link, and run 
+[721]PETSC ERROR: to get more information on the crash.
+[721]PETSC ERROR: --------------------- Error Message --------------------------------------------------------------
+[721]PETSC ERROR: Signal received
+[721]PETSC ERROR: See https://www.mcs.anl.gov/petsc/documentation/faq.html for trouble shooting.
+[721]PETSC ERROR: Petsc Release Version 3.15.0, Mar 30, 2021 
+[721]PETSC ERROR: /home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia1476.scinet.local by sudhipv Sat Oct  2 02:48:03 2021
+[721]PETSC ERROR: Configure options --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+[721]PETSC ERROR: #1 User provided function() at  unknown file:0
+[nia1227.scinet.local:30197] 42 more processes have sent help message help-mpi-api.txt / mpi-abort
+[nia1227.scinet.local:30197] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+mpirun noticed that process rank 75 with PID 28381 on node nia1228 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+8 total processes killed (some possibly by mpirun during cleanup)
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 10 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+slurmstepd: error: Detected 5 oom-kill event(s) in step 6179877.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.
+
+scontrol show jobid 6179877
+JobId=6179877 JobName=Poisson_Weak
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=2417716 Nice=0 Account=def-asarkar QOS=normal
+   JobState=OUT_OF_MEMORY Reason=OutOfMemory Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:125
+   RunTime=00:02:51 TimeLimit=00:15:00 TimeMin=N/A
+   SubmitTime=2021-10-02T02:46:10 EligibleTime=2021-10-02T02:46:10
+   AccrueTime=2021-10-02T02:46:10
+   StartTime=2021-10-02T02:47:36 EndTime=2021-10-02T02:50:27 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-10-02T02:47:36
+   Partition=compute AllocNode:Sid=nia-login06:143680
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia[1227-1228,1359-1368,1470-1477]
+   BatchHost=nia1227
+   NumNodes=20 NumCPUs=1600 NumTasks=800 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1600,mem=3500000M,node=20,billing=800
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak/runff_niagara_weak.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak/Poisson_Weak-6179877.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/weak/Poisson_Weak-6179877.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+
+sacct -j 6179877
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+6179877      Poisson_W+ def-asark+   00:02:51                         03:23:39   11:15:51    0:125 
+6179877.bat+      batch def-asark+   00:02:51 184382872K 164024552K  02:46.987  38:52.473    0:125 
+6179877.ext+     extern def-asark+   00:02:52    138360K      1068K  00:00.003  00:00.012      0:0 
+6179877.0         orted def-asark+   00:02:42 205755824K 179487840K   03:20:52   10:36:58    0:125 

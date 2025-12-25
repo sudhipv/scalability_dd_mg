@@ -1,0 +1,12 @@
+
+
+real [int,int] Cd(2,2);
+
+Cd = 0;
+
+
+Cd (0,1) = 23.0;
+Cd (1,1) = 24.0;
+
+
+cout << Cd << endl;

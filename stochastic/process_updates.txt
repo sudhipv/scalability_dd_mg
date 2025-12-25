@@ -1,0 +1,26 @@
+
+
+###############################################
+
+1. Matrix is indefinite when the standard deviation of input gaussian increases.
+
+
+Tested by checking eigen values.
+- for small sigmaG = almost deterministic - matches a deterministic poisson problem.
+-
+- working now - Cijk was wrong.. mindex was corrected. Converging in just 8 iterations with 0.3 sd.
+
+
+- Have to compare with random variable case.
+
+- Compared with rv case - process code modified to have RV input pcs. Weak formulation same as process case. Perfect match between bot cases. tested with 100x 100 mesh and 3 order output expansion.
+
+
+
+###############################################
+
+- Linear poisson has worked.
+
+- moving to nonlinear poisson case now.
+
+

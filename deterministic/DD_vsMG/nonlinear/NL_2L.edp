@@ -1,0 +1,240 @@
+
+
+//Nl Poisson DDM code
+
+load "PETSc"
+macro dimension()2// EOM            // 2D or 3D
+include "macro_ddm.idp"
+
+bool debug = true;
+
+real t1 = mpiWtime();
+
+int level = 2;
+int s = 2;
+func Pk = P1;                       // finite element space
+mesh [int] Th(level);
+
+Th[level-1] = square(getARGV("-m",40), getARGV("-n",40));
+
+if(mpirank == 0) cout << "Number of Vertices for coarse mesh in process  "+ mpirank << "  " + Th[level-1].nv << endl;
+
+
+
+// ##########################   Multilevel Matrix Creation   ####################################
+
+
+Mat[int] MG(level);
+
+matrix[int] P(level - 1);
+
+buildMatRecursive(Th, s, level, P, MG, Pk, mpiCommWorld);
+
+macro Grad(u) [dx(u), dy(u)] //EOM
+
+
+// ##############################################################
+
+
+/*
+
+// ##########################   INITIAL GUESS SOLVE.   ####################################
+real[int] rhs;
+func f = 0;
+
+for(int i = 0; i < level; ++i) {
+
+    varf a(u,v) = int2d(Th[i])( Grad(u)'*Grad(v) )
+                 + int2d(Th[i])(f*v)
+                 + on(4, u = 0) + on(2, u = 1);
+
+
+    fespace Wh(Th[i], Pk);
+    matrix Loc = a(Wh, Wh, tgv = -1);
+    MG[i] = Loc;
+
+    if(i == 0) {
+        rhs.resize(Wh.ndof);
+        rhs = a(0, Wh,tgv=-1);
+    }
+}
+
+
+set(MG, P, sparams = "-pc_type mg -pc_mg_type multiplicative -ksp_type fgmres -ksp_pc_side right -ksp_rtol 1e-8 -ksp_converged_reason");
+set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type asm -mg_coarse_ksp_max_it 100 -mg_coarse_ksp_rtol 1e-2 -mg_coarse_ksp_converged_reason");
+//set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type hypre -mg_coarse_ksp_converged_reason");
+set(MG, level - 1, sparams = "-mg_levels_pc_type asm -mg_levels_sub_pc_type lu");
+
+
+fespace Wh(Th[0], Pk);
+Wh sol;
+sol[] = MG[0]^-1 * rhs;
+
+real t2 = mpiWtime() - t1;
+
+if(mpirank ==0) cout << "##################### time taken for solve is ############################" << t2 << endl;
+
+*/
+
+
+// ##############################################################################################
+
+// Initial Guess for Picard Iteration
+
+fespace Wh(Th[0], Pk);
+func f = 0;
+
+Wh U0,Uk;
+
+real beta = getARGV("-beta",1);
+
+real alpha = 1;
+
+U0[] = 0;
+
+Uk[] = 0;
+
+func real q (real u){
+    return (1. + alpha*u)^beta;
+    //return 1;
+
+}
+
+
+real tolP = 1e-8;
+
+real errL2;
+
+ofstream ff("error_iter_picard_ddm.dat");
+
+
+real den = 0;
+
+Wh solP, error;
+
+real [int] rhsP(Wh.ndof);
+
+
+// // ##############################################################################################
+
+set(MG, P, sparams = "-pc_type mg -pc_mg_type multiplicative -ksp_type fgmres -ksp_pc_side right -ksp_rtol 1e-8 -ksp_converged_reason");
+//set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type asm -mg_coarse_ksp_max_it 100 -mg_coarse_ksp_rtol 1e-2 -mg_coarse_ksp_converged_reason");
+set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type hypre -mg_coarse_ksp_converged_reason");
+set(MG, level - 1, sparams = "-mg_levels_pc_type asm -mg_levels_sub_pc_type lu");
+// // ##############################################################################################
+real tp1,tp2;
+
+for (int k =0; k < 50 ; k++)
+
+{
+
+    tp1 = mpiWtime();
+
+// ##################### WEAK FORM FOR LEVELS ##################
+
+    for(int i = 0; i < level; ++i)
+
+    {
+
+        varf NLPicard(up,vp) = int2d(Th[i])( q(Uk)* Grad(up)'* Grad(vp)  )
+                             + int2d(Th[i])(f*vp) + on(4, up = 0) + on(2, up = 1);
+
+        fespace Vh(Th[i], Pk);
+        matrix Loc = NLPicard(Vh, Vh, tgv = -1);
+        MG[i] = Loc;
+
+        if(i == 0)
+        {
+            rhsP.resize(Vh.ndof);
+            rhsP = NLPicard(0, Vh,tgv=-1);
+        }
+
+    }
+
+    set(MG[0],setup =1);
+
+
+    solP[] = MG[0]^(-1) * rhsP;
+
+    //ObjectView(MG[0],format="matlab", name = "MGNL.m");
+
+// Local Error calculation based on previous iterate
+
+    error = solP - Uk;
+
+    errL2 = sqrt(MG[0](error[],error[]));
+
+    den = sqrt(MG[0](solP[],solP[]));
+
+    errL2 = errL2/den;
+
+
+// ############################################################################
+
+    // Update
+    Uk [] = solP[];
+
+
+    tp2 = mpiWtime() - tp1;
+
+    if(mpirank ==0)
+    {
+        cout << "iteration " << k +"     "<< errL2 << endl;
+        cout << "time for 1 Picard Iteration " << tp2 << endl;
+    }
+    // ####################################
+    if(errL2 < tolP)
+    {
+        break;
+    }
+
+    if(k == 49)
+    {
+    if(mpirank ==0) cout << "exiting without convergence in" << k+1 <<"itearations with error of" << errL2 << endl;
+    break;
+    }
+
+
+}
+
+
+real t4 = mpiWtime() - t1;
+
+if(mpirank ==0) cout << "total time taken is" << t4 << endl;
+
+
+macro def(u)u //EOM
+plotMPI(Th[0], solP, Pk, def, real, cmm = "Global solution");
+
+
+// Error calculation based on true solution
+
+Wh utrue = ( (2^(beta+1) - 1)*x + 1 )^(1/(beta+1)) - 1;
+
+
+error = (utrue - solP);
+
+errL2 = sqrt(MG[0](error[],error[]))/sqrt(MG[0](utrue[],utrue[]));
+
+if (mpirank ==0) cout << "relative error is" << errL2<< endl;
+
+
+//IFMACRO(notrun)
+
+//ENDIFMACRO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

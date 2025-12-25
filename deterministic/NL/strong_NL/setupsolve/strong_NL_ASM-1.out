@@ -1,0 +1,1720 @@
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+Number of Vertices for coarse mesh in process  0  8003241
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 47
+##################### time taken for solve is ############################150.671
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 62
+iteration 0     0.10027
+time for 1 Picard Iteration 201.852
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 64
+iteration 1     0.00480028
+time for 1 Picard Iteration 205.263
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 64
+iteration 2     0.000833375
+time for 1 Picard Iteration 205.319
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 64
+iteration 3     6.47119e-05
+time for 1 Picard Iteration 204.886
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 64
+iteration 4     8.82025e-06
+time for 1 Picard Iteration 204.362
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 64
+iteration 5     8.82906e-07
+time for 1 Picard Iteration 205.076
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 64
+iteration 6     9.37923e-08
+time for 1 Picard Iteration 204.638
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 64
+iteration 7     1.17852e-08
+time for 1 Picard Iteration 204.406
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 64
+iteration 8     9.83391e-10
+time for 1 Picard Iteration 204.628
+total time taken is1991.26
+relative error is1.64855e-05
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0070.scinet.local with 80 processors, by sudhipv Sun Oct 17 18:12:18 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           1.992e+03     1.000   1.992e+03
+Objects:              2.700e+02     1.000   2.700e+02
+Flop:                 9.373e+11     1.067   9.118e+11  7.295e+13
+Flop/sec:             4.705e+08     1.067   4.577e+08  3.662e+10
+MPI Messages:         9.376e+05     3.500   6.697e+05  5.357e+07
+MPI Message Lengths:  1.793e+09     3.102   2.164e+03  1.159e+11
+MPI Reductions:       1.266e+05     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 1.9922e+03 100.0%  7.2946e+13 100.0%  5.357e+07 100.0%  2.164e+03      100.0%  1.266e+05 100.0%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         28 1.0 3.1921e+0188.1 0.00e+00 0.0 1.6e+03 4.0e+00 2.4e+01  1  0  0  0  0   1  0  0  0  0     0
+BuildTwoSidedF        20 1.0 3.0154e+0113230.9 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatMult            66948 1.0 1.9357e+02 1.1 9.96e+10 1.0 2.7e+07 2.1e+03 2.0e+00  9 11 50 49  0   9 11 50 49  0 40830
+MatMultAdd           621 1.0 1.0142e+01 1.2 4.99e+08 1.0 2.5e+05 6.3e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0  3919
+MatMultTranspose     621 1.0 1.1692e+01 1.8 0.00e+00 0.0 2.5e+05 2.1e+04 0.0e+00  0  0  0  5  0   0  0  0  5  0     0
+MatSolve           66318 1.0 4.5440e+02 1.1 2.97e+11 1.1 0.0e+00 0.0e+00 0.0e+00 22 32  0  0  0  22 32  0  0  0 51204
+MatLUFactorSym         1 1.0 7.9920e-01 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        20 1.0 1.2001e+02 1.4 1.33e+11 1.4 0.0e+00 0.0e+00 0.0e+00  5 12  0  0  0   5 12  0  0  0 75273
+MatILUFactorSym        1 1.0 9.9091e-03 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual          621 1.0 8.7783e+00 1.7 3.49e+09 1.0 2.5e+05 4.3e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 31688
+MatAssemblyBegin      42 1.0 3.0158e+015563.9 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatAssemblyEnd        42 1.0 8.3553e-0111.2 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 2.8748e-02 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      20 1.0 1.0436e+00 1.1 0.00e+00 0.0 1.1e+04 1.7e+04 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetOrdering         2 1.0 3.0772e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 8.2894e-02 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 6.2137e-02 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecMDot            61991 1.0 2.4567e+02 1.3 1.87e+11 1.0 0.0e+00 0.0e+00 6.2e+04 11 20  0  0 49  11 20  0  0 49 60329
+VecNorm            64484 1.0 7.4278e+01 3.6 1.35e+10 1.0 0.0e+00 0.0e+00 6.4e+04  2  1  0  0 51   2  1  0  0 51 14387
+VecScale           65726 1.0 6.2384e+00 3.2 6.73e+09 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 85650
+VecCopy             4337 1.0 3.3885e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet            203340 1.0 5.2479e+01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY             4947 1.0 2.3632e+00 1.4 1.40e+09 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 46911
+VecAYPX             3726 1.0 5.3073e+00 1.3 2.00e+09 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 29956
+VecAXPBYCZ          1242 1.0 2.7999e+00 1.2 2.49e+09 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 70976
+VecWAXPY              19 1.0 4.8917e-02 2.0 7.63e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 12430
+VecMAXPY           64484 1.0 2.2493e+02 1.2 2.00e+11 1.0 0.0e+00 0.0e+00 0.0e+00 10 22  0  0  0  10 22  0  0  0 70456
+VecScatterBegin   331599 1.0 1.2293e+02 1.3 0.00e+00 0.0 5.3e+07 2.0e+03 4.0e+00  5  0 99 94  0   5  0 99 94  0     0
+VecScatterEnd     331599 1.0 2.1134e+01 5.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecNormalize       63834 1.0 7.4885e+01 2.9 1.94e+10 1.0 0.0e+00 0.0e+00 6.4e+04  3  2  0  0 50   3  2  0  0 50 20572
+SFSetGraph             8 1.0 1.2236e-03 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                8 1.0 3.4380e+0055.0 0.00e+00 0.0 3.2e+03 7.8e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin      66318 1.0 3.0974e+01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+SFReduceEnd        66318 1.0 1.3294e-01 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack            331599 1.0 1.2771e+00 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack          331599 1.0 7.1384e-01 9.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              32 1.0 1.3790e+02 1.0 1.44e+11 1.4 9.1e+04 5.4e+03 2.2e+02  7 14  0  0  0   7 14  0  0  0 71541
+KSPSolve              10 1.0 1.2600e+03 1.0 7.95e+11 1.0 5.3e+07 2.2e+03 1.3e+05 63 86100 99100  63 86100 99100 50063
+KSPGMRESOrthog     61991 1.0 4.2422e+02 1.1 3.74e+11 1.0 0.0e+00 0.0e+00 6.2e+04 21 41  0  0 49  21 41  0  0 49 69875
+PCSetUp               28 1.0 1.3825e+02 1.0 1.44e+11 1.4 9.7e+04 5.7e+03 2.3e+02  7 14  0  0  0   7 14  0  0  0 71371
+PCSetUpOnBlocks     1873 1.0 1.2999e+01 1.4 1.33e+10 1.4 0.0e+00 0.0e+00 0.0e+00  1  1  0  0  0   1  1  0  0  0 69504
+PCApply              621 1.0 1.2341e+03 1.0 7.75e+11 1.0 5.3e+07 2.1e+03 1.2e+05 62 84 99 99 99  62 84 99 99 99 49875
+PCApplyOnBlocks    66318 1.0 5.7975e+02 1.1 4.16e+11 1.1 0.0e+00 0.0e+00 0.0e+00 28 43  0  0  0  28 43  0  0  0 54157
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    14             14    685035548     0.
+              Vector   190            190    484251064     0.
+           Index Set    26             26     16152744     0.
+   IS L to G Mapping     2              2      9212156     0.
+   Star Forest Graph    14             14        16272     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     7              7         7392     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 2.92e-08
+Average time for MPI_Barrier(): 5.31894e-05
+Average time for zero size MPI_Send(): 4.92836e-06
+#PETSc Option Table entries:
+-beta 1
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 80 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 47
+##################### time taken for solve is ############################80.9085
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 56
+iteration 0     0.100275
+time for 1 Picard Iteration 86.332
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 56
+iteration 1     0.00480134
+time for 1 Picard Iteration 86.3348
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 56
+iteration 2     0.000833356
+time for 1 Picard Iteration 86.2745
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 56
+iteration 3     6.47165e-05
+time for 1 Picard Iteration 86.3713
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 56
+iteration 4     8.81918e-06
+time for 1 Picard Iteration 86.2616
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 56
+iteration 5     8.82897e-07
+time for 1 Picard Iteration 86.9735
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 56
+iteration 6     9.37744e-08
+time for 1 Picard Iteration 86.6204
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 56
+iteration 7     1.17853e-08
+time for 1 Picard Iteration 86.476
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 56
+iteration 8     9.82697e-10
+time for 1 Picard Iteration 86.2984
+total time taken is859.264
+relative error is1.65032e-05
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0070.scinet.local with 160 processors, by sudhipv Sun Oct 17 18:26:43 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           8.598e+02     1.000   8.598e+02
+Objects:              2.700e+02     1.000   2.700e+02
+Flop:                 4.021e+11     1.066   3.860e+11  6.175e+13
+Flop/sec:             4.677e+08     1.066   4.489e+08  7.182e+10
+MPI Messages:         9.493e+05     8.000   6.289e+05  1.006e+08
+MPI Message Lengths:  1.140e+09     3.107   1.481e+03  1.491e+11
+MPI Reductions:       1.122e+05     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 8.5980e+02 100.0%  6.1753e+13 100.0%  1.006e+08 100.0%  1.481e+03      100.0%  1.122e+05 100.0%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided         28 1.0 2.7531e+0128.2 0.00e+00 0.0 3.4e+03 4.0e+00 2.4e+01  2  0  0  0  0   2  0  0  0  0     0
+BuildTwoSidedF        20 1.0 2.6949e+0156.6 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatMult            59309 1.0 8.4446e+01 1.1 4.43e+10 1.0 5.0e+07 1.4e+03 2.0e+00  9 11 50 49  0   9 11 50 49  0 82945
+MatMultAdd           551 1.0 4.6179e+00 1.3 2.22e+08 1.0 4.7e+05 4.3e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0  7637
+MatMultTranspose     551 1.0 4.9913e+00 1.9 0.00e+00 0.0 4.7e+05 1.5e+04 0.0e+00  0  0  0  5  0   0  0  0  5  0     0
+MatSolve           58758 1.0 1.8912e+02 1.1 1.27e+11 1.1 0.0e+00 0.0e+00 0.0e+00 21 32  0  0  0  21 32  0  0  0 103413
+MatLUFactorSym         1 1.0 3.6568e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum        20 1.0 3.8581e+01 1.4 4.78e+10 1.4 0.0e+00 0.0e+00 0.0e+00  4 10  0  0  0   4 10  0  0  0 160525
+MatILUFactorSym        1 1.0 3.6555e-03 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual          551 1.0 4.0777e+00 2.0 1.55e+09 1.0 4.7e+05 2.9e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 60526
+MatAssemblyBegin      42 1.0 2.6950e+0156.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+01  1  0  0  0  0   1  0  0  0  0     0
+MatAssemblyEnd        42 1.0 4.3866e-01 7.2 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 1.0919e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats      20 1.0 5.1421e-01 1.1 0.00e+00 0.0 2.4e+04 1.1e+04 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetOrdering         2 1.0 1.4335e-01 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 3.5775e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatZeroEntries        18 1.0 4.4368e-02 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecMDot            54921 1.0 1.0671e+02 1.3 8.30e+10 1.0 0.0e+00 0.0e+00 5.5e+04 11 21  0  0 49  11 21  0  0 49 122996
+VecNorm            57125 1.0 2.4415e+01 2.6 5.99e+09 1.0 0.0e+00 0.0e+00 5.7e+04  2  2  0  0 51   2  2  0  0 51 38789
+VecScale           58227 1.0 9.4865e-01 1.5 3.00e+09 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 499161
+VecCopy             3847 1.0 1.3454e+00 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet            180161 1.0 2.0540e+01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY             4378 1.0 7.9503e-01 1.5 6.18e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 123219
+VecAYPX             3306 1.0 2.1940e+00 1.4 8.87e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 64294
+VecAXPBYCZ          1102 1.0 1.2076e+00 1.4 1.11e+09 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 146018
+VecWAXPY              10 1.0 1.0061e-02 1.7 2.01e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 31809
+VecMAXPY           57125 1.0 7.7175e+01 1.1 8.88e+10 1.0 0.0e+00 0.0e+00 0.0e+00  9 23  0  0  0   9 23  0  0  0 181872
+VecScatterBegin   293790 1.0 4.2097e+01 1.3 0.00e+00 0.0 1.0e+08 1.4e+03 4.0e+00  4  0 99 94  0   4  0 99 94  0     0
+VecScatterEnd     293790 1.0 9.7510e+00 4.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+VecNormalize       56554 1.0 2.4427e+01 2.5 8.64e+09 1.0 0.0e+00 0.0e+00 5.7e+04  2  2  0  0 50   2  2  0  0 50 55912
+SFSetGraph             8 1.0 6.9056e-04 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                8 1.0 1.2300e+0044.5 0.00e+00 0.0 6.8e+03 5.4e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin      58758 1.0 1.0713e+01 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+SFReduceEnd        58758 1.0 6.5692e-02 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack            293790 1.0 7.3204e-01 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack          293790 1.0 4.0839e-01 9.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+KSPSetUp              32 1.0 4.6754e+01 1.0 5.29e+10 1.4 1.9e+05 3.7e+03 2.2e+02  5 11  0  0  0   5 11  0  0  0 149054
+KSPSolve              10 1.0 5.0599e+02 1.0 3.49e+11 1.0 1.0e+08 1.5e+03 1.1e+05 59 89100 99100  59 89100 99100 108270
+KSPGMRESOrthog     54921 1.0 1.7570e+02 1.1 1.66e+11 1.0 0.0e+00 0.0e+00 5.5e+04 20 43  0  0 49  20 43  0  0 49 149410
+PCSetUp               28 1.0 4.6928e+01 1.0 5.29e+10 1.4 2.1e+05 3.9e+03 2.3e+02  5 11  0  1  0   5 11  0  1  0 148527
+PCSetUpOnBlocks     1663 1.0 4.3809e+00 1.4 4.78e+09 1.4 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 141398
+PCApply              551 1.0 4.9584e+02 1.0 3.41e+11 1.0 1.0e+08 1.5e+03 1.1e+05 57 87 99 98 99  57 87 99 98 99 107777
+PCApplyOnBlocks    58758 1.0 2.3046e+02 1.1 1.70e+11 1.1 0.0e+00 0.0e+00 0.0e+00 25 41  0  0  0  25 41  0  0  0 109049
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    14             14    318755084     0.
+              Vector   190            190    241727280     0.
+           Index Set    26             26      8116820     0.
+   IS L to G Mapping     2              2      3016168     0.
+   Star Forest Graph    14             14        16272     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     7              7         7392     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.09e-08
+Average time for MPI_Barrier(): 5.79492e-05
+Average time for zero size MPI_Send(): 2.72146e-06
+#PETSc Option Table entries:
+-beta 1
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 160 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 41
+##################### time taken for solve is ############################57.1797
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 17
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 58
+iteration 0     0.100278
+time for 1 Picard Iteration 57.3573
+slurmstepd: error: *** JOB 6253788 ON nia0070 CANCELLED AT 2021-10-17T18:28:49 DUE TO TIME LIMIT ***
+--------------------------------------------------------------------------
+ORTE has lost communication with a remote daemon.
+
+  HNP daemon   : [[40749,0],0] on node nia0070
+  Remote daemon: [[40749,0],11] on node nia1217
+
+This is usually due to either a failure of the TCP network
+connection to the node, or possibly an internal failure of
+the daemon itself. We cannot recover from this failure, and
+therefore will terminate the job.
+--------------------------------------------------------------------------
+
+scontrol show jobid 6253788
+JobId=6253788 JobName=strong_NL_ASM
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=2175446 Nice=0 Account=def-asarkar QOS=normal
+   JobState=TIMEOUT Reason=TimeLimit Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:15
+   RunTime=00:50:06 TimeLimit=00:50:00 TimeMin=N/A
+   SubmitTime=2021-10-17T17:38:37 EligibleTime=2021-10-17T17:38:37
+   AccrueTime=2021-10-17T17:38:37
+   StartTime=2021-10-17T17:38:42 EndTime=2021-10-17T18:28:48 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-10-17T17:38:42
+   Partition=compute AllocNode:Sid=nia-login03:1076
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia[0070-0071,1162-1166,1213-1220]
+   BatchHost=nia0070
+   NumNodes=15 NumCPUs=1200 NumTasks=600 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1200,mem=2625000M,node=15,billing=600
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_NL/runff_niagara_strong.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_NL
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_NL/strong_NL_ASM-6253788.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong_NL/strong_NL_ASM-6253788.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+
+sacct -j 6253788
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+6253788      strong_NL+ def-asark+   00:50:06                         03:42:17 3-13:03:46      0:0 
+6253788.bat+      batch def-asark+   00:50:09  96137372K  76679224K   01:23:32 1-06:14:40     0:15 
+6253788.ext+     extern def-asark+   00:50:07    138360K      1068K  00:00.002  00:00.009      0:0 
+6253788.0         orted def-asark+   00:33:24  93943204K  75880804K  50:59.520   21:14:45      0:0 
+6253788.1         orted def-asark+   00:14:22  83996764K  65807556K   01:13:58 1-03:23:31      0:0 
+6253788.2         orted def-asark+   00:02:10  87313000K  69177880K  13:46.487   06:10:49      1:0 

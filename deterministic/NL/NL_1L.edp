@@ -1,0 +1,183 @@
+
+
+//Nl Poisson DDM code
+
+load "PETSc"
+load "hpddm"
+include "macro_ddm.idp"
+
+bool debug = true;
+
+real t1 = mpiWtime();
+
+mesh Th = square(getARGV("-m",80), getARGV("-n",80));
+
+buildDmesh(Th);
+
+func Pk = P1;
+
+fespace Vh(Th,Pk);
+
+
+macro Grad(u) [dx(u), dy(u)] //EOM
+
+Vh u, v;
+
+func f = 0.0;
+
+varf a(u,v) = int2d(Th)(Grad(u)'*Grad(v)) + on(4, u = 0) + on(2, u = 1);
+
+Mat A;
+
+createMat(Th, A, Pk); // Parllel FE numbering // macroddm routine
+A = a(Vh, Vh);
+set(A, sparams="-ksp_type gmres -pc_type asm -ksp_rtol 1e-8 -ksp_converged_reason");
+
+Vh rhs,sol;
+
+rhs[] = a(0,Vh);
+
+real t2 = mpiWtime();
+
+sol[] = A^-1 * rhs[];
+
+real t3 = mpiWtime() - t2;
+
+if(mpirank ==0) {
+cout << "time taken for initial guess solve is" << t3 << endl;
+}
+
+
+// Initial Guess for Picard Iteration
+Vh U0,Uk;
+
+//sol[] = 0;
+
+real m = 1;
+
+real alpha = 1;
+
+U0[] = sol[];
+
+Uk[] = sol[];
+
+func real q (real u){
+    return (1. + alpha*u)^m;
+    //return 1;
+
+}
+
+
+Vh rhsP,solP, error;
+
+
+real tolP = 1e-8;
+
+real errL2;
+
+
+varf NLPicard(up,vp) = int2d(Th)( q(Uk)* ( Grad(up)'*Grad(vp) ) )+ int2d(Th)(f*vp) + on(4, up = 0) + on(2, up = 1);
+
+
+Mat Ap;
+
+createMat(Th,Ap,Pk);
+
+
+real den = 0;
+
+set(Ap, sparams="-ksp_type gmres -pc_type asm -ksp_rtol 1e-8 -ksp_converged_reason"); //
+
+real tp1,tp2;
+
+for (int k =0; k < 50 ; k++)
+
+{
+
+    tp1 = mpiWtime();
+
+    Ap = NLPicard(Vh,Vh, tgv=-1);
+
+    rhsP[] = NLPicard(0,Vh, tgv=-1);
+
+    solP[] = Ap^(-1) * rhsP[];
+
+
+// Local Error calculation based on previous iterate
+
+    error = solP - Uk;
+
+    errL2 = sqrt(Ap(error[],error[]));
+
+    den = sqrt(Ap(solP[],solP[]));
+
+    errL2 = errL2/den;
+
+// ############################################################################
+
+    Uk [] = solP[];
+
+    tp2 = mpiWtime() - tp1;
+
+    if(mpirank ==0)
+    {
+        cout << "iteration " << k +"     "<< errL2 << endl;
+        cout << "time for 1 Picard Iteration " << tp2 << endl;
+    }
+
+    // ####################################
+    if(errL2 < tolP)
+    {
+        break;
+    }
+
+
+    if(k == 49)
+    {
+    cout << "exiting without convergence in" << k+1 <<"iterations with error of" << errL2 << endl;
+    break;
+    }
+
+
+}
+
+
+real t4 = mpiWtime() - t1;
+
+if(mpirank ==0) cout << "total time taken is" << t4 << endl;
+
+
+macro def(u)u //EOM
+plotMPI(Th, solP, Pk, def, real, cmm = "Global solution");
+
+
+// Error calculation based on true solution
+
+Vh utrue = ( (2^(m+1) - 1)*x + 1 )^(1/(m+1)) - 1;
+
+
+error = (utrue - solP);
+
+errL2 = sqrt(Ap(error[],error[]))/sqrt(Ap(utrue[],utrue[]));
+
+
+if (mpirank ==0) cout << "relative error is" << errL2<< endl;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

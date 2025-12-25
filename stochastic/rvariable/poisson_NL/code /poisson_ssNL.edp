@@ -1,0 +1,252 @@
+
+// ##### CODE FOR INTRUSIVE SSFEM FOR Non linear POISSON PROBLEM - Two Level DOMAIN DECOMPOSITION
+
+// @ copyright Sudhi P V
+// Carleton University
+// Vector Approach
+
+// Only works up to 10th order output expansion, RV case
+// Run " FreeFem++ generate.edp -ordo $n" to generate required .edp files for running this code
+
+
+include "getARGV.idp"
+load "PETSc"
+macro dimension()2//
+include "macro_ddm.idp"       // additional DDM functions
+
+load "gmsh"
+
+real t1 = mpiWtime();
+
+// For solution output in vtk format
+load "iovtk"
+int[int] Order = [1]; // 1 - P1 lagrange elements 0 - P0
+
+int level = 2;
+int s = 2;
+
+Mat[int] MG(level);
+matrix[int] P(level - 1);
+mesh [int] Th(level);
+
+//mesh Th = square(getARGV("-m", 30),getARGV("-n", 30));
+
+real m = getARGV("-m", 50);
+real n = getARGV("-n", 50);
+Th[level-1] = square(m,n);
+
+//Th[level-1] = gmshload("./square_01.msh"); // 606 vertices
+
+if(mpirank == 0) cout << "Number of Vertices for coarse grid" << Th[level-1].nv << endl;
+
+if(mpirank == 0) cout << "Number of Vertices for fine mesh in  " << (m*2+1)^2  << endl;
+
+include "ssinit.edp"
+
+buildMatRecursive(Th, s, level, P, MG, Pk, mpiCommWorld);
+
+
+int[int] labs = labels(Th[0]);
+
+if(mpirank == 0) cout<<labs<< endl;
+
+if(mpirank ==0)
+{
+    cout<<"order of input  "<<ordi<< endl;
+    cout<<"order of output  "<<ordo<< endl;
+    cout<<"Mean of Gaussian  "<< mug<< endl;
+    cout<<"Sd of Gaussian  "<< sigmag<< endl;
+    cout << "Size of linear System  " << (m*2+1)^2 * (ordo+1) << endl;
+
+}
+
+
+//real muG = getARGV("-muG", 0);
+//real sigmaG = getARGV("-sigmaG", 0.3);
+
+
+// #####################################################################################################
+// ##################### WEAK FORMS #####################################################################
+
+fespace Wh(Th[0], Pk);
+
+fespace Vh(Th[0], P1);
+
+Wh <real> def(bnl);
+
+Wh <real> def(Uprev);
+
+real cpu = clock();
+
+macro Grad(u) [dx(u),dy(u)]         // EOM
+
+func f = 1;
+
+include "ssweakcomp.edp"
+
+real [int] rhs(Wh.ndof);
+
+set(MG, P, sparams = "-pc_type mg -pc_mg_type multiplicative -ksp_monitor -ksp_type fgmres -ksp_max_it 200");
+//set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type asm -mg_coarse_ksp_max_it 100 -mg_coarse_ksp_monitor -mg_coarse_ksp_converged_reason");
+set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type hypre -mg_coarse_ksp_monitor -mg_coarse_ksp_converged_reason", bs=ordo+1);
+//-mg_coarse_pc_hypre_boomeramg_max_iter 5
+set(MG, level - 1, sparams = "-mg_levels_pc_type asm -mg_levels_sub_pc_type lu -mg_levels_sub_pc_factor_mat_solver_type mumps");
+
+
+Wh <real> def(UNL);
+
+real [int] diff(Wh.ndof);
+
+real errL2;
+real den = 0;
+
+Vh [real] sol(ordo+1);
+
+real tp1, tp2;
+
+real tolP = 1e-8;
+
+
+for(int k =0; k < 50; k++)
+{
+
+    tp1 = mpiWtime();
+
+
+    for(int l=0;l<level;l++)
+
+        {
+
+            fespace Whc(Th[l], Pk);
+
+            /* // Manual case
+            // keep 'UNL' variable same as solution vector variable
+            varf stoNLPoisson(def(UNL),def(VNL)) = int2d(Th[l])( coeffmultNL(UNL,VNL) )
+                                                    + int2d(Th[l])( UtransV(bnl,VNL))
+                                                    + on(7,8,9,10, UNL = 0,UNL1 = 0,UNL2 = 0,UNL3 = 0);
+                                                    //+ on(10, Unl = 0)
+                                                    //+ on(8, Unl = 1);
+            */
+            // for structured square weakform1. // for unstructured square weakform2.
+            include "ssweakform1.edp"
+
+            MG[l] = stoNLPoisson(Whc,Whc,tgv=-1);
+            if(l==0) rhs = stoNLPoisson(0,Whc,tgv=-1);
+
+
+        }
+
+    //ObjectView(J, format = "matlab", name = "J_"+k+".m");
+    set(MG[0],setup = 1);
+    UNL[] = MG[0]^(-1) * rhs;
+
+// Local Error calculation based on previous iterate
+
+    diff = UNL[] - Uprev[];
+
+    errL2 = sqrt(MG[0](diff,diff));
+
+    den = sqrt(MG[0](Uprev[],Uprev[]));
+
+    errL2 = errL2/den;
+
+// ############################################################################
+
+    //[Uprev, Uprev1, Uprev2] = [UNL,UNL1, UNL2];
+
+    Uprev[] = UNL[];
+
+
+    //plot(Uprev, wait = 1, cmm="Mean");
+    //plot(Uprev1, wait = 1, cmm="PC 1");
+    //plot(Uprev2, wait = 1, cmm="PC 2");
+    //[Uprev,Uprev1,Uprev2] = [UNL,UNL1,UNL2];
+
+    //sol[0] = Uprev;
+
+    //plot(sol[0],wait = 1, cmm="checking");
+
+    tp2 = mpiWtime() - tp1;
+
+    if(mpirank ==0)
+    {
+        cout << "iteration " << k +"     "<< errL2 << endl;
+        cout << "time for 1 Picard Iteration " << tp2 << endl;
+    }
+
+    // ####################################
+    if(errL2 < tolP)
+    {
+        if(mpirank ==0) cout<< "Finished Picard Loop"<< endl;
+        break;
+    }
+
+
+    if(k == 49)
+    {
+    if(mpirank ==0) cout << "exiting without convergence in" << k+1 <<"iterations with error of" << errL2 << endl;
+    break;
+    }
+
+
+}
+
+
+real t2 = mpiWtime();
+
+if(mpirank == 0) cout << "total time for solution " << t2-t1 << endl;
+//cout<< UNL[] << endl ;
+
+
+// Solution Output
+
+//Vh [real] sol(outPC);
+
+IFMACRO(notrun)
+
+include "ssolution.edp"
+
+/*
+
+
+plot(sol[0], wait = 1, cmm="Mean");
+plot(sol[1], wait = 1, cmm="PC 1");
+plot(sol[2], wait = 1, cmm="PC 2");
+*
+/*
+plot(sol[3], wait = 1, cmm="PC 3");
+*/
+
+
+// Calculation of standard deviation
+Vh Ustd = 0;
+
+for(int n=1; n<ordo+1; n++)
+{
+    Ustd = Ustd + sol[n]^2;
+}
+
+Ustd = sqrt(Ustd);
+
+//plot(Ustd, wait=1,cmm="SD");
+
+
+
+for(int k =0; k < ordo+1 ; k++)
+{
+savevtk("./output/U_"+k+".vtu", Th[0], sol[k],bin = 1, order = Order, append = true);
+}
+
+savevtk("./output/U_std"+".vtu", Th[0], Ustd,bin = 1, order = Order, append = true);
+
+
+ENDIFMACRO
+
+
+
+
+
+
+
+
+

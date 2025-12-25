@@ -1,0 +1,204 @@
+
+
+//Non linear Heat Equation
+
+load "PETSc"
+load "hpddm"
+include "macro_ddm.idp"
+
+load "iovtk"
+
+int[int] Order = [1]; // 1 - P1 lagrange elements 0 - P0
+
+bool debug = true;
+
+real t1 = mpiWtime();
+
+mesh Th = square(getARGV("-m",20), getARGV("-n",20));
+
+buildDmesh(Th);
+
+func Pk = P1;
+
+fespace Vh(Th,Pk);
+
+
+macro Grad(u) [dx(u), dy(u)] //EOM
+
+Vh u, v;
+
+func f = 0.0;
+
+real cd = 1;
+
+real T = 0.1;
+
+real deltaT = 0.001;
+
+real nt = int(T/deltaT);
+
+cout << deltaT << " steps with " << nt << " Number of Time steps for total time of " << T << "s" << endl;
+
+// Initial Guess for Picard Iteration
+Vh Uk,Uprev;
+
+real m = 2;
+
+real alpha = 1;
+
+Uprev[] = 0;
+
+Uk[] = 0;
+
+func real q (real u){
+    return (1. + alpha*u)^m;
+    //return 1;
+
+}
+
+
+Vh rhsP,solP, error;
+
+
+real tolP = 1e-8;
+
+real errL2;
+
+varf NLheat(up,vp) = int2d(Th)( up * vp + deltaT * ( cd * q(Uk)* ( Grad(up)'*Grad(vp) ) ) )
+                    + int2d(Th)( Uprev * vp + deltaT * f*vp )
+                    //+ on(1,2,3,4, up = 0);
+                    + on(4, up = 0) + on(2, up = 1);
+
+//varf NLPicard(up,vp) = int2d(Th)( q(Uk)* ( Grad(up)'*Grad(vp) ) )+ int2d(Th)(f*vp) + on(4, up = 0) + on(2, up = 1);
+
+
+Mat Ap;
+
+createMat(Th,Ap,Pk);
+
+
+real den = 0;
+
+set(Ap, sparams="-ksp_type gmres -pc_type asm -ksp_rtol 1e-8 -ksp_converged_reason"); //
+
+real tp1,tp2,tt1,tt2;
+
+
+for(int n =0; n<nt ; n++)
+
+{
+    tt1 = mpiWtime();
+
+
+    for (int k =0; k < 50 ; k++)
+
+    {
+
+        tp1 = mpiWtime();
+
+        Ap = NLheat(Vh,Vh, tgv=-1);
+
+        rhsP[] = NLheat(0,Vh, tgv=-1);
+
+        solP[] = Ap^(-1) * rhsP[];
+
+
+    // Local Error calculation based on previous iterate
+
+        error = solP - Uk;
+
+        errL2 = sqrt(Ap(error[],error[]));
+
+        den = sqrt(Ap(solP[],solP[]));
+
+        errL2 = errL2/den;
+
+    // ############################################################################
+
+        Uk [] = solP[];
+
+        tp2 = mpiWtime() - tp1;
+
+        if(mpirank ==0)
+        {
+            cout << "iteration " << k +"     "<< errL2 << endl;
+            //cout << "time for 1 Picard Iteration " << tp2 << endl;
+        }
+
+        // ####################################
+        if(errL2 < tolP)
+        {
+            break;
+        }
+
+
+        if(k == 49)
+        {
+        cout << "exiting without convergence in" << k+1 <<"iterations with error of" << errL2 << endl;
+        break;
+        }
+
+
+    }
+
+    Uprev[] = Uk[];
+
+    tt2 = mpiWtime() - tt1;
+
+    cout << "Finished time step " << n+1 <<" Time" << deltaT*(n+1) << endl;
+    cout << "Time for 1 timestep " << tt2 << endl;
+
+    if (n % 5 == 0) savevtk("./out/heatNL2.vtu", Th, Uk , bin = 1, order = Order, append = true);
+
+}
+
+
+
+IFMACRO(notrun)
+
+
+
+
+
+
+
+
+real t4 = mpiWtime() - t1;
+
+if(mpirank ==0) cout << "total time taken is" << t4 << endl;
+
+
+macro def(u)u //EOM
+plotMPI(Th, solP, Pk, def, real, cmm = "Global solution");
+
+
+// Error calculation based on true solution
+
+Vh utrue = ( (2^(m+1) - 1)*x + 1 )^(1/(m+1)) - 1;
+
+
+error = (utrue - solP);
+
+errL2 = sqrt(Ap(error[],error[]))/sqrt(Ap(utrue[],utrue[]));
+
+
+if (mpirank ==0) cout << "relative error is" << errL2<< endl;
+
+
+
+ENDIFMACRO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+
+
+
+time2L_V2 =  [1991.26,859.264,584.031,468.266,339.094,221.413];
+iter2L_V2 = [64,56,59,67,55,51];
+% err_V2 = [6.64554e-07,4.5192e-06,3.42828e-06,4.81393e-06,8.93062e-06];
+
+
+
+time_HYPRE =  [758.311,389.798,266.634,205.847,174.523,126.579];
+iter_HYPRE = [11,11,12,12,12,12];
+% err_HYPRE = [1.21703e-08,1.36472e-08,1.08959e-08,1.23557e-08,1.32458e-08];
+
+
+pcs = [80,160,240,320,400,600];
+
+
+figure1 = figure;
+axes1 = axes('Parent',figure1);
+plot(pcs,time2L_V2,'MarkerSize',15,'Marker','pentagram','LineWidth',2)
+hold on
+plot(pcs,time_HYPRE,'MarkerSize',15,'Marker','v','LineWidth',2)
+set(axes1,'FontSize',16,'XTick',[80 160 240 320 400 600]);
+xlabel({'Number of Processes'});
+ylabel({'Time (s)'});
+xticks([80,160,240,320,400,600]);
+legend('Two Level RAS - V2', 'Two Level RAS - V3');
+
+
+
+
+

@@ -1,0 +1,40 @@
+macro UtransV(u,v)(u*v + u#1*v#1 + u#2*v#2 + u#3*v#3 + u#4*v#4 + u#5*v#5)//EOM
+[Uprev,Uprev1,Uprev2,Uprev3,Uprev4,Uprev5] =[1,0,0,0,0,0];
+macro coeffmultNL(u,v)(
+(1.04603 + 1.04603* Uprev  + 0.313808* Uprev#1 + 0.0665688* Uprev#2 ) *  Grad(u)' *  Grad(v)  + 
+(0.313808 + 0.313808* Uprev  + 1.14017* Uprev#1 + 0.443792* Uprev#2 + 0.115301* Uprev#3 ) *  Grad(u#1)' *  Grad(v)  + 
+(0.0665688 + 0.0665688* Uprev  + 0.443792* Uprev#1 + 1.23431* Uprev#2 + 0.543532* Uprev#3 + 0.16306* Uprev#4 ) *  Grad(u#2)' *  Grad(v)  + 
+(0 + 0.115301* Uprev#1 + 0.543532* Uprev#2 + 1.32846* Uprev#3 + 0.627617* Uprev#4 + 0.210509* Uprev#5 ) *  Grad(u#3)' *  Grad(v)  + 
+(0 + 0.16306* Uprev#2 + 0.627617* Uprev#3 + 1.4226* Uprev#4 + 0.701697* Uprev#5 ) *  Grad(u#4)' *  Grad(v)  + 
+(0 + 0.210509* Uprev#3 + 0.701697* Uprev#4 + 1.51674* Uprev#5 ) *  Grad(u#5)' *  Grad(v)  + 
+(0.313808 + 0.313808* Uprev  + 1.14017* Uprev#1 + 0.443792* Uprev#2 + 0.115301* Uprev#3 ) *  Grad(u)' *  Grad(v#1)  + 
+(1.14017 + 1.14017* Uprev  + 0.941425* Uprev#1 + 1.81215* Uprev#2 + 0.76867* Uprev#3 + 0.230601* Uprev#4 ) *  Grad(u#1)' *  Grad(v#1)  + 
+(0.443792 + 0.443792* Uprev  + 1.81215* Uprev#1 + 1.56904* Uprev#2 + 2.46401* Uprev#3 + 1.08706* Uprev#4 + 0.364612* Uprev#5 ) *  Grad(u#2)' *  Grad(v#1)  + 
+(0.115301 + 0.115301* Uprev  + 0.76867* Uprev#1 + 2.46401* Uprev#2 + 2.19666* Uprev#3 + 3.12762* Uprev#4 + 1.40339* Uprev#5 ) *  Grad(u#3)' *  Grad(v#1)  + 
+(0 + 0.230601* Uprev#1 + 1.08706* Uprev#2 + 3.12762* Uprev#3 + 2.82428* Uprev#4 + 3.81255* Uprev#5 ) *  Grad(u#4)' *  Grad(v#1)  + 
+(0 + 0.364612* Uprev#2 + 1.40339* Uprev#3 + 3.81255* Uprev#4 + 3.45189* Uprev#5 ) *  Grad(u#5)' *  Grad(v#1)  + 
+(0.0665688 + 0.0665688* Uprev  + 0.443792* Uprev#1 + 1.23431* Uprev#2 + 0.543532* Uprev#3 + 0.16306* Uprev#4 ) *  Grad(u)' *  Grad(v#2)  + 
+(0.443792 + 0.443792* Uprev  + 1.81215* Uprev#1 + 1.56904* Uprev#2 + 2.46401* Uprev#3 + 1.08706* Uprev#4 + 0.364612* Uprev#5 ) *  Grad(u#1)' *  Grad(v#2)  + 
+(1.23431 + 1.23431* Uprev  + 1.56904* Uprev#1 + 3.95715* Uprev#2 + 3.07468* Uprev#3 + 3.94584* Uprev#4 + 1.7188* Uprev#5 ) *  Grad(u#2)' *  Grad(v#2)  + 
+(0.543532 + 0.543532* Uprev  + 2.46401* Uprev#1 + 3.07468* Uprev#2 + 6.50155* Uprev#3 + 4.88171* Uprev#4 + 5.68947* Uprev#5 ) *  Grad(u#3)' *  Grad(v#2)  + 
+(0.16306 + 0.16306* Uprev  + 1.08706* Uprev#1 + 3.94584* Uprev#2 + 4.88171* Uprev#3 + 9.44537* Uprev#4 + 6.94644* Uprev#5 ) *  Grad(u#4)' *  Grad(v#2)  + 
+(0 + 0.364612* Uprev#1 + 1.7188* Uprev#2 + 5.68947* Uprev#3 + 6.94644* Uprev#4 + 12.7886* Uprev#5 ) *  Grad(u#5)' *  Grad(v#2)  + 
+(0 + 0.115301* Uprev#1 + 0.543532* Uprev#2 + 1.32846* Uprev#3 + 0.627617* Uprev#4 + 0.210509* Uprev#5 ) *  Grad(u)' *  Grad(v#3)  + 
+(0.115301 + 0.115301* Uprev  + 0.76867* Uprev#1 + 2.46401* Uprev#2 + 2.19666* Uprev#3 + 3.12762* Uprev#4 + 1.40339* Uprev#5 ) *  Grad(u#1)' *  Grad(v#3)  + 
+(0.543532 + 0.543532* Uprev  + 2.46401* Uprev#1 + 3.07468* Uprev#2 + 6.50155* Uprev#3 + 4.88171* Uprev#4 + 5.68947* Uprev#5 ) *  Grad(u#2)' *  Grad(v#3)  + 
+(1.32846 + 1.32846* Uprev  + 2.19666* Uprev#1 + 6.50155* Uprev#2 + 6.91803* Uprev#3 + 12.2987* Uprev#4 + 8.594* Uprev#5 ) *  Grad(u#3)' *  Grad(v#3)  + 
+(0.627617 + 0.627617* Uprev  + 3.12762* Uprev#1 + 4.88171* Uprev#2 + 12.2987* Uprev#3 + 12.2987* Uprev#4 + 19.9667* Uprev#5 ) *  Grad(u#4)' *  Grad(v#3)  + 
+(0.210509 + 0.210509* Uprev  + 1.40339* Uprev#1 + 5.68947* Uprev#2 + 8.594* Uprev#3 + 19.9667* Uprev#4 + 19.2168* Uprev#5 ) *  Grad(u#5)' *  Grad(v#3)  + 
+(0 + 0.16306* Uprev#2 + 0.627617* Uprev#3 + 1.4226* Uprev#4 + 0.701697* Uprev#5 ) *  Grad(u)' *  Grad(v#4)  + 
+(0 + 0.230601* Uprev#1 + 1.08706* Uprev#2 + 3.12762* Uprev#3 + 2.82428* Uprev#4 + 3.81255* Uprev#5 ) *  Grad(u#1)' *  Grad(v#4)  + 
+(0.16306 + 0.16306* Uprev  + 1.08706* Uprev#1 + 3.94584* Uprev#2 + 4.88171* Uprev#3 + 9.44537* Uprev#4 + 6.94644* Uprev#5 ) *  Grad(u#2)' *  Grad(v#4)  + 
+(0.627617 + 0.627617* Uprev  + 3.12762* Uprev#1 + 4.88171* Uprev#2 + 12.2987* Uprev#3 + 12.2987* Uprev#4 + 19.9667* Uprev#5 ) *  Grad(u#3)' *  Grad(v#4)  + 
+(1.4226 + 1.4226* Uprev  + 2.82428* Uprev#1 + 9.44537* Uprev#2 + 12.2987* Uprev#3 + 26.4423* Uprev#4 + 24.0632* Uprev#5 ) *  Grad(u#4)' *  Grad(v#4)  + 
+(0.701697 + 0.701697* Uprev  + 3.81255* Uprev#1 + 6.94644* Uprev#2 + 19.9667* Uprev#3 + 24.0632* Uprev#4 + 47.5295* Uprev#5 ) *  Grad(u#5)' *  Grad(v#4)  + 
+(0 + 0.210509* Uprev#3 + 0.701697* Uprev#4 + 1.51674* Uprev#5 ) *  Grad(u)' *  Grad(v#5)  + 
+(0 + 0.364612* Uprev#2 + 1.40339* Uprev#3 + 3.81255* Uprev#4 + 3.45189* Uprev#5 ) *  Grad(u#1)' *  Grad(v#5)  + 
+(0 + 0.364612* Uprev#1 + 1.7188* Uprev#2 + 5.68947* Uprev#3 + 6.94644* Uprev#4 + 12.7886* Uprev#5 ) *  Grad(u#2)' *  Grad(v#5)  + 
+(0.210509 + 0.210509* Uprev  + 1.40339* Uprev#1 + 5.68947* Uprev#2 + 8.594* Uprev#3 + 19.9667* Uprev#4 + 19.2168* Uprev#5 ) *  Grad(u#3)' *  Grad(v#5)  + 
+(0.701697 + 0.701697* Uprev  + 3.81255* Uprev#1 + 6.94644* Uprev#2 + 19.9667* Uprev#3 + 24.0632* Uprev#4 + 47.5295* Uprev#5 ) *  Grad(u#4)' *  Grad(v#5)  + 
+(1.51674 + 1.51674* Uprev  + 3.45189* Uprev#1 + 12.7886* Uprev#2 + 19.2168* Uprev#3 + 47.5295* Uprev#4 + 51.564* Uprev#5 ) *  Grad(u#5)' *  Grad(v#5)  ) //EOM
+[bnl,bnl1,bnl2,bnl3,bnl4,bnl5] =[f,0,0,0,0,0];

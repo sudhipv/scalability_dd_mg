@@ -1,0 +1,1242 @@
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+Number of Vertices for coarse mesh in process  0  8003241
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 24
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 77
+time taken for solve is204.077
+L2 Norm of uerr is2.38361e-05
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0493.scinet.local with 80 processors, by sudhipv Thu Oct 21 14:23:07 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           2.045e+02     1.000   2.045e+02
+Objects:              2.220e+02     1.000   2.220e+02
+Flop:                 1.130e+11     1.060   1.103e+11  8.825e+12
+Flop/sec:             5.525e+08     1.060   5.394e+08  4.315e+10
+MPI Messages:         1.722e+05     3.500   1.230e+05  9.841e+06
+MPI Message Lengths:  3.187e+08     3.102   2.093e+03  2.060e+10
+MPI Reductions:       1.581e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 2.0449e+02 100.0%  8.8248e+12 100.0%  9.841e+06 100.0%  2.093e+03      100.0%  1.579e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          9 1.0 3.3592e+00837.8 0.00e+00 0.0 1.6e+03 4.0e+00 6.0e+00  1  0  0  0  0   1  0  0  0  0     0
+BuildTwoSidedF         2 1.0 2.1390e-03 2.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatMult             8326 1.0 2.3783e+01 1.1 1.24e+10 1.0 3.3e+06 2.1e+03 2.0e+00 11 11 34 34  0  11 11 34 34  0 41277
+MatMultAdd            77 1.0 1.2579e+00 1.2 6.19e+07 1.0 3.1e+04 6.3e+03 0.0e+00  1  0  0  1  0   1  0  0  1  0  3918
+MatMultTranspose      77 1.0 1.4986e+00 1.8 0.00e+00 0.0 3.1e+04 2.1e+04 0.0e+00  1  0  0  3  0   1  0  0  3  0     0
+MatSolve            8248 1.0 5.6253e+01 1.1 3.67e+10 1.1 0.0e+00 0.0e+00 0.0e+00 27 33  0  0  0  27 33  0  0  0 51038
+MatLUFactorSym         1 1.0 8.7255e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum         2 1.0 1.1783e+01 1.4 1.33e+10 1.4 0.0e+00 0.0e+00 0.0e+00  5 10  0  0  0   5 10  0  0  0 76669
+MatILUFactorSym        1 1.0 9.9384e-03 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual           77 1.0 1.3542e+00 2.3 4.33e+08 1.0 3.1e+04 4.3e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 25469
+MatAssemblyBegin       6 1.0 4.1226e-03 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatAssemblyEnd         6 1.0 8.8886e-01 8.8 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 2.2150e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       2 1.0 2.0564e-01 1.2 0.00e+00 0.0 4.0e+03 7.2e+03 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetOrdering         2 1.0 3.1692e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 6.5257e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecMDot             7711 1.0 2.6042e+01 1.1 2.32e+10 1.0 0.0e+00 0.0e+00 7.7e+03 12 21  0  0 49  12 21  0  0 49 70715
+VecNorm             8020 1.0 3.1343e+00 1.5 1.67e+09 1.0 0.0e+00 0.0e+00 8.0e+03  1  2  0  0 51   1  2  0  0 51 42350
+VecScale            8174 1.0 2.5943e-01 1.1 8.36e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 255827
+VecCopy              538 1.0 4.3822e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             25296 1.0 5.9680e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  3  0  0  0  0   3  0  0  0  0     0
+VecAXPY              614 1.0 3.1887e-01 1.3 1.73e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 43014
+VecAYPX              462 1.0 6.7175e-01 1.3 2.47e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 29346
+VecAXPBYCZ           154 1.0 3.6303e-01 1.3 3.09e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 67877
+VecWAXPY               2 1.0 6.2322e-03 2.7 8.03e+05 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 10270
+VecMAXPY            8020 1.0 2.4060e+01 1.0 2.48e+10 1.0 0.0e+00 0.0e+00 0.0e+00 12 22  0  0  0  12 22  0  0  0 81842
+VecScatterBegin    41241 1.0 1.4992e+01 1.3 0.00e+00 0.0 9.8e+06 2.0e+03 4.0e+00  7  0 99 96  0   7  0 99 96  0     0
+VecScatterEnd      41241 1.0 3.0884e+00 3.1 1.19e+07 3.1 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0   250
+VecNormalize        7940 1.0 3.2167e+00 1.4 2.41e+09 1.0 0.0e+00 0.0e+00 7.9e+03  1  2  0  0 50   1  2  0  0 50 59511
+SFSetGraph             7 1.0 1.2123e-03 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                7 1.0 3.4039e+0064.1 0.00e+00 0.0 3.2e+03 7.8e+02 4.0e+00  1  0  0  0  0   1  0  0  0  0     0
+SFReduceBegin        319 1.0 5.1031e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          319 1.0 7.3688e-04 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             41241 1.0 2.2875e-01 3.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           41241 1.0 1.6330e-01 3.6 1.19e+07 3.1 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0  4725
+KSPSetUp               4 1.0 1.5469e+01 1.0 1.44e+10 1.4 1.2e+04 4.8e+03 3.8e+01  8 11  0  0  0   8 11  0  0  0 63775
+KSPSolve               1 1.0 1.4896e+02 1.0 9.87e+10 1.0 9.8e+06 2.1e+03 1.6e+04 73 89100100 99  73 89100100100 52620
+KSPGMRESOrthog      7711 1.0 4.8131e+01 1.0 4.64e+10 1.0 0.0e+00 0.0e+00 7.7e+03 23 42  0  0 49  23 42  0  0 49 76523
+PCSetUp                2 1.0 1.5581e+01 1.0 1.44e+10 1.4 1.4e+04 4.8e+03 4.5e+01  8 11  0  0  0   8 11  0  0  0 63326
+PCSetUpOnBlocks      232 1.0 1.2858e+01 1.4 1.33e+10 1.4 0.0e+00 0.0e+00 0.0e+00  6 10  0  0  0   6 10  0  0  0 70258
+PCApply               77 1.0 1.4600e+02 1.0 9.64e+10 1.0 9.8e+06 2.1e+03 1.6e+04 71 87100 99 98  71 87100 99 99 52423
+PCApplyOnBlocks     8248 1.0 5.8230e+01 1.1 3.67e+10 1.1 0.0e+00 0.0e+00 0.0e+00 28 33  0  0  0  28 33  0  0  0 49305
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    685032460     0.
+              Vector   146            146    343874168     0.
+           Index Set    25             25     15743724     0.
+   IS L to G Mapping     2              2      9212156     0.
+   Star Forest Graph    13             13        15048     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 7.21e-08
+Average time for MPI_Barrier(): 5.24784e-05
+Average time for zero size MPI_Send(): 3.65768e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_asm_type basic
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 160 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 24
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 80
+time taken for solve is112.668
+L2 Norm of uerr is1.42428e-05
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0493.scinet.local with 160 processors, by sudhipv Thu Oct 21 14:25:07 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           1.129e+02     1.000   1.129e+02
+Objects:              2.220e+02     1.000   2.220e+02
+Flop:                 5.621e+10     1.057   5.428e+10  8.685e+12
+Flop/sec:             4.980e+08     1.057   4.809e+08  7.694e+10
+MPI Messages:         2.046e+05     8.000   1.355e+05  2.168e+07
+MPI Message Lengths:  2.373e+08     3.107   1.432e+03  3.105e+10
+MPI Reductions:       1.642e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 1.1289e+02 100.0%  8.6852e+12 100.0%  2.168e+07 100.0%  1.432e+03      100.0%  1.641e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          9 1.0 1.1071e+0019.4 0.00e+00 0.0 3.4e+03 4.0e+00 6.0e+00  1  0  0  0  0   1  0  0  0  0     0
+BuildTwoSidedF         2 1.0 4.7720e-03 5.2 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatMult             8653 1.0 1.2193e+01 1.1 6.45e+09 1.0 7.3e+06 1.4e+03 2.0e+00 11 12 34 34  0  11 12 34 34  0 83661
+MatMultAdd            80 1.0 6.6572e-01 1.3 3.22e+07 1.0 6.8e+04 4.3e+03 0.0e+00  1  0  0  1  0   1  0  0  1  0  7691
+MatMultTranspose      80 1.0 8.2078e-01 2.2 0.00e+00 0.0 6.8e+04 1.5e+04 0.0e+00  0  0  0  3  0   0  0  0  3  0     0
+MatSolve            8572 1.0 2.7022e+01 1.1 1.83e+10 1.1 0.0e+00 0.0e+00 0.0e+00 23 32  0  0  0  23 32  0  0  0 104180
+MatLUFactorSym         1 1.0 3.6222e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum         2 1.0 3.8238e+00 1.4 4.78e+09 1.4 0.0e+00 0.0e+00 0.0e+00  3  7  0  0  0   3  7  0  0  0 161964
+MatILUFactorSym        1 1.0 4.3282e-03 2.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual           80 1.0 5.5351e-01 1.8 2.25e+08 1.0 6.8e+04 2.9e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 64741
+MatAssemblyBegin       6 1.0 4.8595e-03 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatAssemblyEnd         6 1.0 5.5859e-0121.4 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 1.5096e-02 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       2 1.0 1.3050e-01 1.5 0.00e+00 0.0 8.5e+03 4.9e+03 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetOrdering         2 1.0 1.8505e-01 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 4.5158e-02 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecMDot             8014 1.0 1.5026e+01 1.2 1.21e+10 1.0 0.0e+00 0.0e+00 8.0e+03 12 22  0  0 49  12 22  0  0 49 127436
+VecNorm             8335 1.0 2.3745e+00 1.4 8.72e+08 1.0 0.0e+00 0.0e+00 8.3e+03  2  2  0  0 51   2  2  0  0 51 58087
+VecScale            8495 1.0 1.2178e-01 1.3 4.36e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 566299
+VecCopy              559 1.0 1.9712e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             26289 1.0 2.9526e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  3  0  0  0  0   3  0  0  0  0     0
+VecAXPY              638 1.0 1.3855e-01 1.9 8.99e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 102806
+VecAYPX              480 1.0 3.2093e-01 1.3 1.29e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 63817
+VecAXPBYCZ           160 1.0 1.7747e-01 1.2 1.61e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 144257
+VecWAXPY               2 1.0 3.3632e-03 3.7 4.02e+05 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 19031
+VecMAXPY            8335 1.0 1.1144e+01 1.1 1.30e+10 1.0 0.0e+00 0.0e+00 0.0e+00 10 24  0  0  0  10 24  0  0  0 183731
+VecScatterBegin    42861 1.0 6.4615e+00 1.3 0.00e+00 0.0 2.2e+07 1.4e+03 4.0e+00  5  0 99 96  0   5  0 99 96  0     0
+VecScatterEnd      42861 1.0 2.2877e+00 7.5 8.88e+06 3.1 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0   509
+VecNormalize        8252 1.0 2.3742e+00 1.4 1.26e+09 1.0 0.0e+00 0.0e+00 8.3e+03  2  2  0  0 50   2  2  0  0 50 83784
+SFSetGraph             7 1.0 6.6593e-04 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                7 1.0 1.1263e+0014.5 0.00e+00 0.0 6.8e+03 5.4e+02 4.0e+00  1  0  0  0  0   1  0  0  0  0     0
+SFReduceBegin        331 1.0 2.4446e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          331 1.0 7.6446e-04 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             42861 1.0 1.5510e-01 2.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           42861 1.0 9.5428e-02 4.1 8.88e+06 3.1 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 12192
+KSPSetUp               4 1.0 6.4118e+00 1.0 5.29e+09 1.4 2.5e+04 3.3e+03 3.8e+01  6  8  0  0  0   6  8  0  0  0 108688
+KSPSolve               1 1.0 7.3853e+01 1.0 5.09e+10 1.0 2.2e+07 1.4e+03 1.6e+04 65 92100100 99  65 92100100100 108166
+KSPGMRESOrthog      8014 1.0 2.5207e+01 1.1 2.42e+10 1.0 0.0e+00 0.0e+00 8.0e+03 21 44  0  0 49  21 44  0  0 49 151928
+PCSetUp                2 1.0 6.4526e+00 1.0 5.29e+09 1.4 3.0e+04 3.3e+03 4.5e+01  6  8  0  0  0   6  8  0  0  0 108020
+PCSetUpOnBlocks      241 1.0 4.3138e+00 1.3 4.78e+09 1.4 0.0e+00 0.0e+00 0.0e+00  3  7  0  0  0   3  7  0  0  0 143567
+PCApply               80 1.0 7.2248e+01 1.0 4.97e+10 1.0 2.2e+07 1.4e+03 1.6e+04 64 90100 99 98  64 90100 99 99 107891
+PCApplyOnBlocks     8572 1.0 2.8017e+01 1.1 1.83e+10 1.1 0.0e+00 0.0e+00 0.0e+00 24 32  0  0  0  24 32  0  0  0 100479
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    318751996     0.
+              Vector   146            146    171664144     0.
+           Index Set    25             25      7909980     0.
+   IS L to G Mapping     2              2      3016168     0.
+   Star Forest Graph    13             13        15048     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.18e-08
+Average time for MPI_Barrier(): 0.000112326
+Average time for zero size MPI_Send(): 2.80165e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_asm_type basic
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 240 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 23
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 70
+time taken for solve is76.5948
+L2 Norm of uerr is8.00793e-06
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0493.scinet.local with 240 processors, by sudhipv Thu Oct 21 14:26:49 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           7.676e+01     1.000   7.676e+01
+Objects:              2.220e+02     1.000   2.220e+02
+Flop:                 3.225e+10     1.072   3.120e+10  7.489e+12
+Flop/sec:             4.201e+08     1.072   4.065e+08  9.757e+10
+MPI Messages:         1.788e+05     4.000   1.216e+05  2.918e+07
+MPI Message Lengths:  1.785e+08     2.935   1.145e+03  3.341e+10
+MPI Reductions:       1.436e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 7.6757e+01 100.0%  7.4890e+12 100.0%  2.918e+07 100.0%  1.145e+03      100.0%  1.434e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          9 1.0 7.3720e-01141.2 0.00e+00 0.0 5.2e+03 4.0e+00 6.0e+00  0  0  0  0  0   0  0  0  0  0     0
+BuildTwoSidedF         2 1.0 5.9170e-03 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatMult             7562 1.0 7.2337e+00 1.1 3.77e+09 1.0 9.9e+06 1.1e+03 2.0e+00  9 12 34 34  0   9 12 34 34  0 123320
+MatMultAdd            70 1.0 3.8255e-01 1.4 1.88e+07 1.0 9.1e+04 3.5e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 11712
+MatMultTranspose      70 1.0 4.2169e-01 2.1 0.00e+00 0.0 9.1e+04 1.2e+04 0.0e+00  0  0  0  3  0   0  0  0  3  0     0
+MatSolve            7491 1.0 1.5281e+01 1.1 1.04e+10 1.1 0.0e+00 0.0e+00 0.0e+00 19 32  0  0  0  19 32  0  0  0 156668
+MatLUFactorSym         1 1.0 2.3498e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum         2 1.0 2.0537e+00 1.5 2.65e+09 1.5 0.0e+00 0.0e+00 0.0e+00  2  7  0  0  0   2  7  0  0  0 246923
+MatILUFactorSym        1 1.0 2.2993e-03 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual           70 1.0 3.3187e-01 2.0 1.32e+08 1.0 9.1e+04 2.4e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 94482
+MatAssemblyBegin       6 1.0 6.2864e-03 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatAssemblyEnd         6 1.0 3.5696e-01 3.3 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 1.0217e-02 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       2 1.0 8.8252e-02 1.4 0.00e+00 0.0 1.3e+04 3.9e+03 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetOrdering         2 1.0 9.0515e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 3.0833e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecMDot             7003 1.0 9.5433e+00 1.2 7.07e+09 1.0 0.0e+00 0.0e+00 7.0e+03 11 22  0  0 49  11 22  0  0 49 175244
+VecNorm             7284 1.0 1.7412e+00 1.3 5.10e+08 1.0 0.0e+00 0.0e+00 7.3e+03  2  2  0  0 51   2  2  0  0 51 69274
+VecScale            7424 1.0 6.8261e-02 1.2 2.55e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 883546
+VecCopy              489 1.0 9.7706e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             22976 1.0 1.6656e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY              558 1.0 1.4476e-01 3.7 5.26e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 86235
+VecAYPX              420 1.0 1.6919e-01 1.3 7.52e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 105921
+VecAXPBYCZ           140 1.0 9.2935e-02 1.2 9.40e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 241042
+VecWAXPY               2 1.0 1.9156e-03 3.4 2.69e+05 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 33412
+VecMAXPY            7284 1.0 6.2222e+00 1.1 7.56e+09 1.0 0.0e+00 0.0e+00 0.0e+00  8 24  0  0  0   8 24  0  0  0 287415
+VecScatterBegin    37456 1.0 3.4381e+00 1.3 0.00e+00 0.0 2.9e+07 1.1e+03 4.0e+00  4  0 99 96  0   4  0 99 96  0     0
+VecScatterEnd      37456 1.0 1.4613e+00 3.8 6.68e+06 2.9 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0   856
+VecNormalize        7211 1.0 1.7502e+00 1.3 7.35e+08 1.0 0.0e+00 0.0e+00 7.2e+03  2  2  0  0 50   2  2  0  0 50 99372
+SFSetGraph             7 1.0 4.0194e-04 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                7 1.0 7.4690e-0141.9 0.00e+00 0.0 1.0e+04 4.3e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin        291 1.0 1.2487e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          291 1.0 4.4725e-04 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             37456 1.0 9.3452e-02 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           37456 1.0 5.7432e-02 3.6 6.68e+06 2.9 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 21777
+KSPSetUp               4 1.0 3.6474e+00 1.0 2.98e+09 1.5 3.9e+04 2.6e+03 3.8e+01  5  8  0  0  0   5  8  0  0  0 159487
+KSPSolve               1 1.0 4.2791e+01 1.0 2.94e+10 1.0 2.9e+07 1.1e+03 1.4e+04 56 92100100 99  56 92100100 99 161419
+KSPGMRESOrthog      7003 1.0 1.5192e+01 1.1 1.41e+10 1.0 0.0e+00 0.0e+00 7.0e+03 19 45  0  0 49  19 45  0  0 49 220171
+PCSetUp                2 1.0 3.6728e+00 1.0 2.98e+09 1.5 4.6e+04 2.6e+03 4.5e+01  5  8  0  0  0   5  8  0  0  0 158418
+PCSetUpOnBlocks      211 1.0 2.3541e+00 1.4 2.65e+09 1.5 0.0e+00 0.0e+00 0.0e+00  3  7  0  0  0   3  7  0  0  0 215415
+PCApply               70 1.0 4.1765e+01 1.0 2.87e+10 1.0 2.9e+07 1.1e+03 1.4e+04 54 90 99 99 98  54 90 99 99 98 161367
+PCApplyOnBlocks     7491 1.0 1.5839e+01 1.1 1.04e+10 1.1 0.0e+00 0.0e+00 0.0e+00 19 32  0  0  0  19 32  0  0  0 151153
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    200776636     0.
+              Vector   146            146    114352576     0.
+           Index Set    25             25      5294908     0.
+   IS L to G Mapping     2              2      2013472     0.
+   Star Forest Graph    13             13        15048     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.23e-08
+Average time for MPI_Barrier(): 6.23134e-05
+Average time for zero size MPI_Send(): 1.21713e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_asm_type basic
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 400 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 22
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 73
+time taken for solve is65.9405
+L2 Norm of uerr is1.31741e-05
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0493.scinet.local with 320 processors, by sudhipv Thu Oct 21 14:28:09 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           6.609e+01     1.000   6.609e+01
+Objects:              2.220e+02     1.000   2.220e+02
+Flop:                 2.451e+10     1.052   2.388e+10  7.642e+12
+Flop/sec:             3.709e+08     1.052   3.614e+08  1.156e+11
+MPI Messages:         1.865e+05     4.000   1.282e+05  4.102e+07
+MPI Message Lengths:  1.540e+08     2.548   9.965e+02  4.088e+10
+MPI Reductions:       1.498e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 6.6089e+01 100.0%  7.6424e+12 100.0%  4.102e+07 100.0%  9.965e+02      100.0%  1.496e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          9 1.0 4.9761e-0133.6 0.00e+00 0.0 7.0e+03 4.0e+00 6.0e+00  0  0  0  0  0   0  0  0  0  0     0
+BuildTwoSidedF         2 1.0 3.9704e-03 3.8 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatMult             7888 1.0 5.7201e+00 1.1 2.96e+09 1.0 1.4e+07 1.0e+03 2.0e+00  8 12 34 34  0   8 12 34 34  0 162644
+MatMultAdd            73 1.0 3.0501e-01 1.6 1.47e+07 1.0 1.3e+05 3.0e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 15318
+MatMultTranspose      73 1.0 3.0686e-01 2.0 0.00e+00 0.0 1.3e+05 1.0e+04 0.0e+00  0  0  0  3  0   0  0  0  3  0     0
+MatSolve            7814 1.0 1.1579e+01 1.1 7.86e+09 1.1 0.0e+00 0.0e+00 0.0e+00 16 32  0  0  0  16 32  0  0  0 209775
+MatLUFactorSym         1 1.0 1.7096e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum         2 1.0 1.2543e+00 1.6 1.59e+09 1.4 0.0e+00 0.0e+00 0.0e+00  2  6  0  0  0   2  6  0  0  0 341816
+MatILUFactorSym        1 1.0 1.8455e-03 2.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual           73 1.0 2.9209e-01 2.4 1.03e+08 1.0 1.3e+05 2.1e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 111950
+MatAssemblyBegin       6 1.0 4.1675e-03 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatAssemblyEnd         6 1.0 1.5267e-01 4.5 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 7.9801e-03 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       2 1.0 5.3068e-02 1.2 0.00e+00 0.0 1.8e+04 3.4e+03 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetOrdering         2 1.0 8.8275e-02 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 2.1901e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecMDot             7305 1.0 7.0918e+00 1.2 5.54e+09 1.0 0.0e+00 0.0e+00 7.3e+03 10 23  0  0 49  10 23  0  0 49 245912
+VecNorm             7598 1.0 4.2732e+00 1.1 4.00e+08 1.0 0.0e+00 0.0e+00 7.6e+03  6  2  0  0 51   6  2  0  0 51 29438
+VecScale            7744 1.0 5.3980e-02 1.3 2.00e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 1165184
+VecCopy              510 1.0 6.7681e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             23966 1.0 1.2214e+00 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY              582 1.0 5.9102e-02 2.2 4.12e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 220153
+VecAYPX              438 1.0 1.2898e-01 1.4 5.89e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 144894
+VecAXPBYCZ           146 1.0 7.1379e-02 1.4 7.36e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 327283
+VecWAXPY               2 1.0 1.4680e-03 3.5 2.02e+05 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 43598
+VecMAXPY            7598 1.0 4.4720e+00 1.1 5.93e+09 1.0 0.0e+00 0.0e+00 0.0e+00  7 24  0  0  0   7 24  0  0  0 417019
+VecScatterBegin    39071 1.0 2.4974e+00 1.3 0.00e+00 0.0 4.1e+07 9.6e+02 4.0e+00  3  0 99 96  0   3  0 99 96  0     0
+VecScatterEnd      39071 1.0 1.5673e+00 5.4 5.77e+06 2.5 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0   976
+VecNormalize        7522 1.0 4.2750e+00 1.1 5.77e+08 1.0 0.0e+00 0.0e+00 7.5e+03  6  2  0  0 50   6  2  0  0 50 42432
+SFSetGraph             7 1.0 3.2497e-04 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                7 1.0 5.0489e-0119.9 0.00e+00 0.0 1.4e+04 3.8e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin        303 1.0 8.9466e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          303 1.0 3.8555e-04 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             39071 1.0 8.2577e-02 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           39071 1.0 5.0613e-02 3.8 5.77e+06 2.5 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 30211
+KSPSetUp               4 1.0 4.9761e+00 1.0 1.82e+09 1.4 5.3e+04 2.3e+03 3.8e+01  8  7  0  0  0   8  7  0  0  0 100660
+KSPSolve               1 1.0 3.2154e+01 1.0 2.27e+10 1.0 4.1e+07 9.9e+02 1.5e+04 49 93100100 99  49 93100100 99 222104
+KSPGMRESOrthog      7305 1.0 1.1074e+01 1.1 1.11e+10 1.0 0.0e+00 0.0e+00 7.3e+03 16 46  0  0 49  16 46  0  0 49 314982
+PCSetUp                2 1.0 4.9972e+00 1.0 1.82e+09 1.4 6.2e+04 2.3e+03 4.5e+01  8  7  0  0  0   8  7  0  0  0 100259
+PCSetUpOnBlocks      220 1.0 1.4761e+00 1.5 1.59e+09 1.4 0.0e+00 0.0e+00 0.0e+00  2  6  0  0  0   2  6  0  0  0 290444
+PCApply               73 1.0 3.1370e+01 1.0 2.22e+10 1.0 4.1e+07 9.9e+02 1.5e+04 47 91100 99 98  47 91100 99 99 222103
+PCApplyOnBlocks     7814 1.0 1.1959e+01 1.1 7.86e+09 1.1 0.0e+00 0.0e+00 0.0e+00 17 32  0  0  0  17 32  0  0  0 203116
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    147515692     0.
+              Vector   146            146     85706880     0.
+           Index Set    25             25      3989008     0.
+   IS L to G Mapping     2              2      4247704     0.
+   Star Forest Graph    13             13        15048     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.05e-08
+Average time for MPI_Barrier(): 7.74796e-05
+Average time for zero size MPI_Send(): 4.91362e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_asm_type basic
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 400 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+Number of Vertices for coarse mesh in process  0  8003241
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 22
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+    Linear mg_coarse_ solve did not converge due to DIVERGED_ITS iterations 100
+Linear solve converged due to CONVERGED_RTOL iterations 69
+time taken for solve is53.9541
+L2 Norm of uerr is4.66008e-06
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0493.scinet.local with 400 processors, by sudhipv Thu Oct 21 14:29:16 2021
+Using Petsc Release Version 3.15.0, Mar 30, 2021 
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           5.408e+01     1.000   5.408e+01
+Objects:              2.220e+02     1.000   2.220e+02
+Flop:                 1.860e+10     1.073   1.791e+10  7.164e+12
+Flop/sec:             3.439e+08     1.073   3.311e+08  1.325e+11
+MPI Messages:         1.762e+05     4.000   1.224e+05  4.897e+07
+MPI Message Lengths:  1.328e+08     2.858   8.817e+02  4.318e+10
+MPI Reductions:       1.416e+04     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 5.4084e+01 100.0%  7.1639e+12 100.0%  4.897e+07 100.0%  8.817e+02      100.0%  1.414e+04  99.9%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          9 1.0 3.2762e-0129.4 0.00e+00 0.0 8.9e+03 4.0e+00 6.0e+00  0  0  0  0  0   0  0  0  0  0     0
+BuildTwoSidedF         2 1.0 3.7551e-03 3.1 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatMult             7452 1.0 4.3137e+00 1.1 2.24e+09 1.0 1.7e+07 8.8e+02 2.0e+00  8 12 34 34  0   8 12 34 34  0 203807
+MatMultAdd            69 1.0 1.9401e-01 1.3 1.12e+07 1.0 1.5e+05 2.7e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 22763
+MatMultTranspose      69 1.0 2.4946e-01 2.2 0.00e+00 0.0 1.5e+05 9.0e+03 0.0e+00  0  0  0  3  0   0  0  0  3  0     0
+MatSolve            7382 1.0 8.6071e+00 1.1 5.92e+09 1.1 0.0e+00 0.0e+00 0.0e+00 15 32  0  0  0  15 32  0  0  0 262427
+MatLUFactorSym         1 1.0 1.6264e-01 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatLUFactorNum         2 1.0 8.7320e-01 1.5 1.26e+09 1.6 0.0e+00 0.0e+00 0.0e+00  1  5  0  0  0   1  5  0  0  0 438954
+MatILUFactorSym        1 1.0 1.6660e-03 2.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatResidual           69 1.0 1.8680e-01 2.1 7.81e+07 1.0 1.5e+05 1.8e+03 0.0e+00  0  0  0  1  0   0  0  0  1  0 165457
+MatAssemblyBegin       6 1.0 4.1459e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatAssemblyEnd         6 1.0 2.6224e-01 5.0 0.00e+00 0.0 0.0e+00 0.0e+00 8.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetRowIJ            2 1.0 6.2556e-03 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       2 1.0 5.5935e-02 1.5 0.00e+00 0.0 2.2e+04 3.0e+03 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatGetOrdering         2 1.0 6.6818e-02 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       2 1.0 2.0968e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecMDot             6901 1.0 5.5922e+00 1.2 4.21e+09 1.0 0.0e+00 0.0e+00 6.9e+03  9 23  0  0 49   9 23  0  0 49 294729
+VecNorm             7178 1.0 1.3628e+00 1.3 3.03e+08 1.0 0.0e+00 0.0e+00 7.2e+03  2  2  0  0 51   2  2  0  0 51 87233
+VecScale            7316 1.0 4.4357e-02 1.4 1.52e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  1  0  0  0   0  1  0  0  0 1340012
+VecCopy              482 1.0 4.4166e-02 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet             22642 1.0 9.0529e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+VecAXPY              550 1.0 3.2644e-02 1.5 3.13e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 377013
+VecAYPX              414 1.0 9.4537e-02 1.4 4.46e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 186857
+VecAXPBYCZ           138 1.0 5.1878e-02 1.4 5.58e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 425639
+VecWAXPY               2 1.0 1.0663e-03 3.4 1.62e+05 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 60026
+VecMAXPY            7178 1.0 3.1247e+00 1.1 4.50e+09 1.0 0.0e+00 0.0e+00 0.0e+00  6 25  0  0  0   6 25  0  0  0 564049
+VecScatterBegin    36911 1.0 1.8015e+00 1.3 0.00e+00 0.0 4.9e+07 8.5e+02 4.0e+00  3  0 99 96  0   3  0 99 96  0     0
+VecScatterEnd      36911 1.0 1.0043e+00 3.8 4.96e+06 2.8 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0  1609
+VecNormalize        7106 1.0 1.3505e+00 1.3 4.38e+08 1.0 0.0e+00 0.0e+00 7.1e+03  2  2  0  0 50   2  2  0  0 50 126916
+SFSetGraph             7 1.0 2.7789e-04 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                7 1.0 3.3401e-0117.7 0.00e+00 0.0 1.8e+04 3.3e+02 4.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceBegin        287 1.0 6.0384e-02 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd          287 1.0 3.3440e-04 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack             36911 1.0 6.5323e-02 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack           36911 1.0 3.8483e-02 3.5 4.96e+06 2.8 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 41980
+KSPSetUp               4 1.0 1.5783e+00 1.0 1.45e+09 1.5 6.7e+04 2.0e+03 3.8e+01  3  6  0  0  0   3  6  0  0  0 287562
+KSPSolve               1 1.0 2.4171e+01 1.0 1.72e+10 1.0 4.9e+07 8.8e+02 1.4e+04 45 94100100 99  45 94100100 99 277611
+KSPGMRESOrthog      6901 1.0 8.3713e+00 1.1 8.41e+09 1.0 0.0e+00 0.0e+00 6.9e+03 15 46  0  0 49  15 46  0  0 49 393770
+PCSetUp                2 1.0 1.5921e+00 1.0 1.45e+09 1.5 7.8e+04 2.0e+03 4.5e+01  3  6  0  0  0   3  6  0  0  0 285153
+PCSetUpOnBlocks      208 1.0 1.0524e+00 1.4 1.26e+09 1.6 0.0e+00 0.0e+00 0.0e+00  2  5  0  0  0   2  5  0  0  0 364208
+PCApply               69 1.0 2.3537e+01 1.0 1.68e+10 1.0 4.9e+07 8.8e+02 1.4e+04 43 91 99 99 98  43 91 99 99 98 278033
+PCApplyOnBlocks     7382 1.0 8.9163e+00 1.1 5.92e+09 1.1 0.0e+00 0.0e+00 0.0e+00 16 32  0  0  0  16 32  0  0  0 253326
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    13             13    117120456     0.
+              Vector   146            146     68614000     0.
+           Index Set    25             25      3197056     0.
+   IS L to G Mapping     2              2      1210648     0.
+   Star Forest Graph    13             13        15048     0.
+       Krylov Solver     6              6        73864     0.
+      Preconditioner     6              6         6552     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+              Viewer     2              1          848     0.
+========================================================================================================================
+Average time to get PetscTime(): 5.2e-08
+Average time for MPI_Barrier(): 7.49658e-05
+Average time for zero size MPI_Send(): 1.42302e-06
+#PETSc Option Table entries:
+-ksp_converged_reason
+-ksp_pc_side right
+-ksp_rtol 1e-8
+-ksp_type fgmres
+-log_view
+-m 2828
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_max_it 100
+-mg_coarse_ksp_rtol 1e-2
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_asm_type basic
+-mg_coarse_pc_type asm
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_type lu
+-n 2828
+-nw
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local 
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch: 
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native   
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native     
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code with NL 400 Processors             #################################################
+#############################################################################################################
+#############################################################################################################
+
+scontrol show jobid 6264706
+JobId=6264706 JobName=strong_ASM_final
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=2064949 Nice=0 Account=def-asarkar QOS=normal
+   JobState=COMPLETED Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:10:02 TimeLimit=01:10:00 TimeMin=N/A
+   SubmitTime=2021-10-21T14:15:55 EligibleTime=2021-10-21T14:15:55
+   AccrueTime=2021-10-21T14:15:55
+   StartTime=2021-10-21T14:19:15 EndTime=2021-10-21T14:29:17 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2021-10-21T14:19:15
+   Partition=compute AllocNode:Sid=nia-login05:197179
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia[0493-0502]
+   BatchHost=nia0493
+   NumNodes=10 NumCPUs=800 NumTasks=400 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=800,mem=1750000M,node=10,billing=400
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong/runff_niagara_strong_poisson.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong/strong_ASM_final-6264706.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/poisson_hpc/strong/strong_ASM_final-6264706.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+
+sacct -j 6264706
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- -------- 
+6264706      strong_AS+ def-asark+   00:10:02                        32:57.571 1-02:16:49      0:0 
+6264706.bat+      batch def-asark+   00:10:02  90535408K  71398144K  05:42.986   05:41:10      0:0 
+6264706.ext+     extern def-asark+   00:10:02    138360K      1064K  00:00.004  00:00.004      0:0 
+6264706.0         orted def-asark+   00:03:40  83940576K  65878840K  01:23.999   02:14:34      0:0 
+6264706.1         orted def-asark+   00:02:12  96711184K  78643272K  03:25.867   03:42:05      0:0 
+6264706.2         orted def-asark+   00:01:28  94405064K  76351812K  05:35.636   04:12:53      0:0 
+6264706.3         orted def-asark+   00:01:20  89404700K  71345288K  07:32.243   05:02:52      0:0 
+6264706.4         orted def-asark+   00:01:10  89404876K  71327212K  09:16.834   05:23:13      0:0 

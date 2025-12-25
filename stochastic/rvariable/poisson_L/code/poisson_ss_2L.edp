@@ -1,0 +1,298 @@
+
+// ##### CODE FOR INTRUSIVE SSFEM FOR POISSON PROBLEM - Two level DOMAIN DECOMPOSITION
+
+// @ copyright Sudhi P V
+// Carleton University
+// Vector Approach
+
+// Only works up to 10th order output expansion, RV case
+// Run " FreeFem++ generate.edp -ordo $n" to generate required .edp files for running this code
+
+
+include "getARGV.idp"
+load "PETSc"
+macro dimension()2//
+include "macro_ddm.idp"       // additional DDM functions
+
+load "gmsh"
+
+real t1 = mpiWtime();
+
+// For solution output in vtk format
+load "iovtk"
+int[int] Order = [1]; // 1 - P1 lagrange elements 0 - P0
+
+int level = 2;
+int s = 2;
+
+Mat[int] MG(level);
+matrix[int] P(level - 1);
+
+mesh [int] Th(level);
+
+/// Changing to structures squre changes boundary labels to 1,2,3,4. Don't forget to change labels in weak form.
+real m = getARGV("-m", 100);
+real n = getARGV("-n", 100);
+Th[level-1] = square(m,n);
+
+
+//Th[level-1] = gmshload("./square.msh"); // 606 vertices
+
+if(mpirank == 0) cout << "Number of Vertices for coarse grid  " << Th[level-1].nv << endl;
+
+if(mpirank == 0) cout << "Number of Vertices for fine mesh in  " << (m*2+1)^2  << endl;
+
+include "ssinit.edp"
+
+buildMatRecursive(Th, s, level, P, MG, Pk, mpiCommWorld);
+
+//if(mpirank == 0) cout << "Number of Vertices for fine mesh in process  "+ mpirank << "  " + Th[0].nv << endl;
+
+//plot(Th[0], cmm="fine");
+
+//plot(Th[1], cmm="coarse");
+
+
+int[int] labs = labels(Th[0]);
+
+if(mpirank == 0) cout<<labs<< endl;
+
+if(mpirank ==0)
+{
+    cout<<"order of input  "<<ordIN<< endl;
+    cout<<"order of output  "<<ordOUT<< endl;
+    cout<<"Mean of Gaussian  "<< muG<< endl;
+    cout<<"Sd of Gaussian  "<< sigmaG<< endl;
+    cout << "Size of linear System  " << (m*2+1)^2 * outPC << endl;
+
+}
+
+
+real [int] Li(6);
+
+// #############################################################################
+
+func real[int] diffLognormal(real ordIN, real muG, real sigmaG)
+{
+
+    // Log normal random variable expansion
+
+    real muL =  exp(muG + 0.5 * sigmaG^2);
+
+    Li (0) = muL * (1);
+    Li (1) = muL * (sigmaG);
+    Li (2) = muL * (sigmaG^2)/sqrt(2);
+    Li (3) = muL * (sigmaG^3)/sqrt(6);
+    Li (4) = muL * (sigmaG^4)/sqrt(24);
+    Li (5) = muL * (sigmaG^5)/sqrt(120);
+
+
+
+    //real Li = muL * sigmaG ^ i /
+
+    return Li;
+
+}
+
+// #############################################################################
+
+// Load Cijk - Multiplication Tensor
+
+string loc = "./cijk_O10_D1";
+
+ifstream file1(loc);
+
+int nCijk;
+real k2,k3,k4,k5;
+
+
+file1 >> nCijk;
+
+//cout << k1 << endl;
+
+real [int,int] Cijk(nCijk,4);
+
+for (int i = 0; i < nCijk ; i++)
+{
+
+file1 >> k2 >> k3 >> k4 >> k5;
+
+//cout << k2 << k3 << k4 << k5 << endl;
+
+Cijk(i,0) = k2;
+Cijk(i,1) = k3;
+Cijk(i,2) = k4;
+Cijk(i,3) = k5;
+
+
+}
+
+//cout << Cijk << endl;
+
+// #############################################################################
+
+
+
+Li = diffLognormal(ordIN, muG, sigmaG);
+
+if(mpirank ==0) cout << Li << endl;
+
+
+real [int,int] Cd(outPC,outPC);
+
+Cd = 0;
+
+for(int k =0; k< outPC ; k++)
+{
+    for(int j =0; j< outPC ; j++)
+    {
+        for(int i =0; i< inPC ; i++)
+        {
+            for(int id = 0; id <nCijk ; id ++ )
+            {
+
+                if(Cijk(id,0) == i+1 && Cijk(id,1) == j+1 && Cijk(id,2) == k+1)
+                {
+
+                    Cd(j,k) += Li(i) * Cijk(id,3);
+                    break;
+
+                }
+
+            }
+        }
+
+    }
+}
+
+//cout << Cd << endl;
+
+//ObjectView(Cd, format="matlab", name="Cd.m");
+
+
+
+// ##################### WEAK FORMS #####################################################################
+
+fespace Wh(Th[0], Pk);
+
+fespace Vh(Th[0], P1);
+
+Wh <real> def(b);
+
+macro Grad(u) [dx(u),dy(u)]         // EOM
+
+func f = 1;
+
+include "ssweakcomp.edp"
+
+real [int] rhs(Wh.ndof);
+
+
+//set(MG[0], sparams = "-ksp_type gmres -pc_type hypre -pc_hypre_boomeramg_max_iter 2 -ksp_view_final_residual" +
+//    "-ksp_rtol 1e-8 -ksp_converged_reason"); //
+// bs=4 is for hypre solver setting the number of components for vector PDEs
+
+set(MG, P, sparams = "-pc_type mg -pc_mg_type multiplicative -ksp_monitor -ksp_type fgmres -ksp_max_it 200");
+//set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type asm -mg_coarse_ksp_max_it 100 -mg_coarse_ksp_monitor -mg_coarse_ksp_converged_reason");
+set(MG, 0, sparams = "-mg_coarse_ksp_type gmres -mg_coarse_pc_type hypre -mg_coarse_ksp_monitor -mg_coarse_ksp_converged_reason", bs=outPC);
+//-mg_coarse_pc_hypre_boomeramg_max_iter 5
+set(MG, level - 1, sparams = "-mg_levels_pc_type asm -mg_levels_sub_pc_type lu -mg_levels_sub_pc_factor_mat_solver_type mumps");
+
+
+
+for(int l=0;l<level;l++)
+
+    {
+
+        fespace Whc(Th[l], Pk);
+
+        /*
+        varf stoPoisson(def(U), def(V)) = int2d(Th[l])(  coeffmult(U,V) ) + int2d(Th[l])(UtransV(b,V))
+                                        //+ on(7,8,9,10, U = 0,U1 = 0, U2 = 0, U3=0); // Unstructured square mesh from gmsh
+                                        + on(1,2,3,4, U = 0,U1 = 0, U2 = 0, U3=0); // Structured Square mesh
+
+        */
+        include "ssweakform1.edp"
+
+
+        MG[l] = stoPoisson(Whc,Whc,tgv=-1);
+        if(l==0) rhs = stoPoisson(0,Whc,tgv=-1);
+
+    }
+
+
+
+Wh <real> def(U);
+
+//ObjectView(MG[1], format="matlab", name="C.m");
+//ObjectView(MG[0], format="matlab", name="F.m");
+
+set(MG[0],setup = 1);
+U[] = MG[0]^(-1) * rhs;
+
+
+real t2 = mpiWtime() - t1;
+
+if(mpirank ==0) {
+cout << "time taken for solve is" << t2 << endl;
+}
+//cout << rhs << endl;
+
+//plot(U, cmm="0");
+//plot(U1, cmm="1st");
+//plot(U2, cmm="2nd");
+// Solution Output
+
+IFMACRO(notrun)
+
+Vh [real] sol(outPC);
+
+
+include "ssolution.edp"
+
+
+/*
+plot(sol[0], wait = 1, cmm="Mean");
+plot(sol[1], wait = 1, cmm="PC 1");
+plot(sol[2], wait = 1, cmm="PC 2");
+plot(sol[3], wait = 1, cmm="PC 3");
+*/
+
+
+// Calculation of standard deviation
+Vh Ustd = 0;
+
+for(int n=1; n<outPC; n++)
+{
+    Ustd = Ustd + sol[n]^2;
+}
+
+Ustd = sqrt(Ustd);
+
+//plot(Ustd, wait=1,cmm="SD");
+
+
+
+for(int k =0; k < outPC ; k++)
+{
+savevtk("./output/U"+k+".vtu", Th[0], sol[k],bin = 1, order = Order, append = true);
+}
+
+savevtk("./output/U_std"+".vtu", Th[0], Ustd,bin = 1, order = Order, append = true);
+
+ObjectView(MG[0], object = "ksp");
+
+
+
+ENDIFMACRO
+
+
+
+
+
+
+
+
+
+
+

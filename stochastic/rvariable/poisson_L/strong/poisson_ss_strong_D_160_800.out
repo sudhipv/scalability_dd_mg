@@ -1,0 +1,1926 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) mii/1.1.1
+
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpiexec
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpirun
+Number of Vertices for coarse grid  4004001
+Number of Vertices for fine mesh in  1.6008e+07
+2
+	-111111	  4
+order of input  2
+order of output  3
+Mean of Gaussian  0
+Sd of Gaussian  0.3
+Size of linear System  6.4032e+07
+6
+	1.04602786	0.313808358	0.06656880537	0.01153005531	0.001729508297
+	0.0002320378871
+  0 KSP Residual norm 2.499375000000e-04
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.397727961622e+05
+      1 KSP Residual norm 2.506887577552e+04
+      2 KSP Residual norm 3.817817696612e+03
+      3 KSP Residual norm 6.783468472956e+02
+      4 KSP Residual norm 8.053176666076e+01
+      5 KSP Residual norm 1.639877807195e+01
+      6 KSP Residual norm 2.387558774300e+00
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 6
+  1 KSP Residual norm 2.477485372960e-04
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.328388649035e+00
+      1 KSP Residual norm 3.418726700842e-01
+      2 KSP Residual norm 5.367310113109e-02
+      3 KSP Residual norm 9.906933943859e-03
+      4 KSP Residual norm 1.856371699365e-03
+      5 KSP Residual norm 3.505141714544e-04
+      6 KSP Residual norm 6.122219081719e-05
+      7 KSP Residual norm 9.931447163783e-06
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  2 KSP Residual norm 3.936123506612e-05
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 8.022718831976e+00
+      1 KSP Residual norm 1.349771366037e+00
+      2 KSP Residual norm 2.513607491430e-01
+      3 KSP Residual norm 6.273859990819e-02
+      4 KSP Residual norm 1.289686110212e-02
+      5 KSP Residual norm 2.692010290145e-03
+      6 KSP Residual norm 4.013834603605e-04
+      7 KSP Residual norm 6.331574394681e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  3 KSP Residual norm 2.308378111773e-06
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 8.185429712347e+01
+      1 KSP Residual norm 1.078415855489e+01
+      2 KSP Residual norm 1.919381751843e+00
+      3 KSP Residual norm 4.873381353534e-01
+      4 KSP Residual norm 6.271316376155e-02
+      5 KSP Residual norm 1.206084287182e-02
+      6 KSP Residual norm 2.464702911939e-03
+      7 KSP Residual norm 3.778630024058e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  4 KSP Residual norm 4.109826519301e-07
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.561309418535e+01
+      1 KSP Residual norm 3.403734200147e+00
+      2 KSP Residual norm 7.694418725996e-01
+      3 KSP Residual norm 1.498665490438e-01
+      4 KSP Residual norm 3.382203809231e-02
+      5 KSP Residual norm 7.962986219284e-03
+      6 KSP Residual norm 1.596985087459e-03
+      7 KSP Residual norm 3.447392752490e-04
+      8 KSP Residual norm 2.669556225122e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  5 KSP Residual norm 1.026523892086e-07
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 3.400439128282e+01
+      1 KSP Residual norm 3.812371962241e+00
+      2 KSP Residual norm 6.282860993228e-01
+      3 KSP Residual norm 1.521004610280e-01
+      4 KSP Residual norm 1.829880991722e-02
+      5 KSP Residual norm 2.913819058836e-03
+      6 KSP Residual norm 5.960371880891e-04
+      7 KSP Residual norm 8.281624925056e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  6 KSP Residual norm 2.650269564301e-08
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.874956236885e+01
+      1 KSP Residual norm 4.235791024097e+00
+      2 KSP Residual norm 8.279637560943e-01
+      3 KSP Residual norm 2.048302582870e-01
+      4 KSP Residual norm 4.911617860377e-02
+      5 KSP Residual norm 1.069729993117e-02
+      6 KSP Residual norm 2.008021992039e-03
+      7 KSP Residual norm 3.818566879109e-04
+      8 KSP Residual norm 2.948073067494e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  7 KSP Residual norm 5.262410477332e-09
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.803789858673e+01
+      1 KSP Residual norm 3.227222605485e+00
+      2 KSP Residual norm 6.574784892585e-01
+      3 KSP Residual norm 1.333126307485e-01
+      4 KSP Residual norm 1.376960409248e-02
+      5 KSP Residual norm 2.216588274124e-03
+      6 KSP Residual norm 6.406809355570e-04
+      7 KSP Residual norm 1.117560149248e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  8 KSP Residual norm 6.071313921136e-10
+KSP Object: 160 MPI processes
+  type: fgmres
+    restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+    happy breakdown tolerance 1e-30
+  maximum iterations=200, initial guess is zero
+  tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+  right preconditioning
+  using UNPRECONDITIONED norm type for convergence test
+PC Object: 160 MPI processes
+  type: mg
+    type is MULTIPLICATIVE, levels=2 cycles=v
+      Cycles per PCApply=1
+      Not using Galerkin computed coarse grid matrices
+  Coarse grid solver -- level -------------------------------
+    KSP Object: (mg_coarse_) 160 MPI processes
+      type: gmres
+        restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+        happy breakdown tolerance 1e-30
+      maximum iterations=10000, initial guess is zero
+      tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+      left preconditioning
+      using PRECONDITIONED norm type for convergence test
+    PC Object: (mg_coarse_) 160 MPI processes
+      type: hypre
+        HYPRE BoomerAMG preconditioning
+          Cycle type V
+          Maximum number of levels 25
+          Maximum number of iterations PER hypre call 1
+          Convergence tolerance PER hypre call 0.
+          Threshold for strong coupling 0.25
+          Interpolation truncation factor 0.
+          Interpolation: max elements per row 0
+          Number of levels of aggressive coarsening 0
+          Number of paths for aggressive coarsening 1
+          Maximum row sums 0.9
+          Sweeps down         1
+          Sweeps up           1
+          Sweeps on coarse    1
+          Relax down          symmetric-SOR/Jacobi
+          Relax up            symmetric-SOR/Jacobi
+          Relax on coarse     Gaussian-elimination
+          Relax weight  (all)      1.
+          Outer relax weight (all) 1.
+          Using CF-relaxation
+          Not using more complex smoothers.
+          Measure type        local
+          Coarsen type        Falgout
+          Interpolation type  classical
+      linear system matrix = precond matrix:
+      Mat Object: 160 MPI processes
+        type: mpiaij
+        rows=16016004, cols=16016004, bs=4
+        total: nonzeros=448192016, allocated nonzeros=448192016
+        total number of mallocs used during MatSetValues calls=0
+          using I-node (on process 0) routines: found 24817 nodes, limit used is 5
+  Down solver (pre-smoother) on level 1 -------------------------------
+    KSP Object: (mg_levels_1_) 160 MPI processes
+      type: chebyshev
+        eigenvalue estimates used:  min = 0.198115, max = 2.17927
+        eigenvalues estimate via gmres min 0.0125114, max 1.98115
+        eigenvalues estimated using gmres with translations  [0. 0.1; 0. 1.1]
+        KSP Object: (mg_levels_1_esteig_) 160 MPI processes
+          type: gmres
+            restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+            happy breakdown tolerance 1e-30
+          maximum iterations=10, initial guess is zero
+          tolerances:  relative=1e-12, absolute=1e-50, divergence=10000.
+          left preconditioning
+          using PRECONDITIONED norm type for convergence test
+        estimating eigenvalues using noisy right hand side
+      maximum iterations=2, nonzero initial guess
+      tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+      left preconditioning
+      using NONE norm type for convergence test
+    PC Object: (mg_levels_1_) 160 MPI processes
+      type: asm
+        total subdomain blocks = 160, amount of overlap = 1
+        restriction/interpolation type - RESTRICT
+        Local solver information for first block is in the following KSP and PC objects on rank 0:
+        Use -mg_levels_1_ksp_view ::ascii_info_detail to display information for all blocks
+      KSP Object: (mg_levels_1_sub_) 1 MPI processes
+        type: preonly
+        maximum iterations=10000, initial guess is zero
+        tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+        left preconditioning
+        using NONE norm type for convergence test
+      PC Object: (mg_levels_1_sub_) 1 MPI processes
+        type: lu
+          out-of-place factorization
+          tolerance for zero pivot 2.22045e-14
+          matrix ordering: nd
+          factor fill ratio given 0., needed 0.
+            Factored matrix follows:
+              Mat Object: 1 MPI processes
+                type: mumps
+                rows=402488, cols=402488
+                package used to perform factorization: mumps
+                total: nonzeros=132612448, allocated nonzeros=132612448
+                  MUMPS run parameters:
+                    SYM (matrix type):                   0
+                    PAR (host participation):            1
+                    ICNTL(1) (output for error):         6
+                    ICNTL(2) (output of diagnostic msg): 0
+                    ICNTL(3) (output for global info):   0
+                    ICNTL(4) (level of printing):        0
+                    ICNTL(5) (input mat struct):         0
+                    ICNTL(6) (matrix prescaling):        7
+                    ICNTL(7) (sequential matrix ordering):7
+                    ICNTL(8) (scaling strategy):        77
+                    ICNTL(10) (max num of refinements):  0
+                    ICNTL(11) (error analysis):          0
+                    ICNTL(12) (efficiency control):                         1
+                    ICNTL(13) (sequential factorization of the root node):  0
+                    ICNTL(14) (percentage of estimated workspace increase): 20
+                    ICNTL(18) (input mat struct):                           0
+                    ICNTL(19) (Schur complement info):                      0
+                    ICNTL(20) (RHS sparse pattern):                         0
+                    ICNTL(21) (solution struct):                            0
+                    ICNTL(22) (in-core/out-of-core facility):               0
+                    ICNTL(23) (max size of memory can be allocated locally):0
+                    ICNTL(24) (detection of null pivot rows):               0
+                    ICNTL(25) (computation of a null space basis):          0
+                    ICNTL(26) (Schur options for RHS or solution):          0
+                    ICNTL(27) (blocking size for multiple RHS):             -32
+                    ICNTL(28) (use parallel or sequential ordering):        1
+                    ICNTL(29) (parallel ordering):                          0
+                    ICNTL(30) (user-specified set of entries in inv(A)):    0
+                    ICNTL(31) (factors is discarded in the solve phase):    0
+                    ICNTL(33) (compute determinant):                        0
+                    ICNTL(35) (activate BLR based factorization):           0
+                    ICNTL(36) (choice of BLR factorization variant):        0
+                    ICNTL(38) (estimated compression rate of LU factors):   333
+                    CNTL(1) (relative pivoting threshold):      0.01
+                    CNTL(2) (stopping criterion of refinement): 1.49012e-08
+                    CNTL(3) (absolute pivoting threshold):      0.
+                    CNTL(4) (value of static pivoting):         -1.
+                    CNTL(5) (fixation for null pivots):         0.
+                    CNTL(7) (dropping parameter for BLR):       0.
+                    RINFO(1) (local estimated flops for the elimination after analysis):
+                      [0] 7.37474e+10
+                    RINFO(2) (local estimated flops for the assembly after factorization):
+                      [0]  2.29739e+08
+                    RINFO(3) (local estimated flops for the elimination after factorization):
+                      [0]  7.37474e+10
+                    INFO(15) (estimated size of (in MB) MUMPS internal data for running numerical factorization):
+                    [0] 1484
+                    INFO(16) (size of (in MB) MUMPS internal data used during numerical factorization):
+                      [0] 1484
+                    INFO(23) (num of pivots eliminated on this processor after factorization):
+                      [0] 402488
+                    RINFOG(1) (global estimated flops for the elimination after analysis): 7.37474e+10
+                    RINFOG(2) (global estimated flops for the assembly after factorization): 2.29739e+08
+                    RINFOG(3) (global estimated flops for the elimination after factorization): 7.37474e+10
+                    (RINFOG(12) RINFOG(13))*2^INFOG(34) (determinant): (0.,0.)*(2^0)
+                    INFOG(3) (estimated real workspace for factors on all processors after analysis): 132612448
+                    INFOG(4) (estimated integer workspace for factors on all processors after analysis): 5092094
+                    INFOG(5) (estimated maximum front size in the complete tree): 2004
+                    INFOG(6) (number of nodes in the complete tree): 37018
+                    INFOG(7) (ordering option effectively use after analysis): 5
+                    INFOG(8) (structural symmetry in percent of the permuted matrix after analysis): 100
+                    INFOG(9) (total real/complex workspace to store the matrix factors after factorization): 132612448
+                    INFOG(10) (total integer space store the matrix factors after factorization): 5092094
+                    INFOG(11) (order of largest frontal matrix after factorization): 2004
+                    INFOG(12) (number of off-diagonal pivots): 0
+                    INFOG(13) (number of delayed pivots after factorization): 0
+                    INFOG(14) (number of memory compress after factorization): 0
+                    INFOG(15) (number of steps of iterative refinement after solution): 0
+                    INFOG(16) (estimated size (in MB) of all MUMPS internal data for factorization after analysis: value on the most memory consuming processor): 1484
+                    INFOG(17) (estimated size of all MUMPS internal data for factorization after analysis: sum over all processors): 1484
+                    INFOG(18) (size of all MUMPS internal data allocated during factorization: value on the most memory consuming processor): 1484
+                    INFOG(19) (size of all MUMPS internal data allocated during factorization: sum over all processors): 1484
+                    INFOG(20) (estimated number of entries in the factors): 132612448
+                    INFOG(21) (size in MB of memory effectively used during factorization - value on the most memory consuming processor): 1267
+                    INFOG(22) (size in MB of memory effectively used during factorization - sum over all processors): 1267
+                    INFOG(23) (after analysis: value of ICNTL(6) effectively used): 0
+                    INFOG(24) (after analysis: value of ICNTL(12) effectively used): 1
+                    INFOG(25) (after factorization: number of pivots modified by static pivoting): 0
+                    INFOG(28) (after factorization: number of null pivots encountered): 0
+                    INFOG(29) (after factorization: effective number of entries in the factors (sum over all processors)): 132612448
+                    INFOG(30, 31) (after solution: size in Mbytes of memory used during solution phase): 1415, 1415
+                    INFOG(32) (after analysis: type of analysis done): 1
+                    INFOG(33) (value used for ICNTL(8)): 7
+                    INFOG(34) (exponent of the determinant if determinant is requested): 0
+                    INFOG(35) (after factorization: number of entries taking into account BLR factor compression - sum over all processors): 132612448
+                    INFOG(36) (after analysis: estimated size of all MUMPS internal data for running BLR in-core - value on the most memory consuming processor): 0
+                    INFOG(37) (after analysis: estimated size of all MUMPS internal data for running BLR in-core - sum over all processors): 0
+                    INFOG(38) (after analysis: estimated size of all MUMPS internal data for running BLR out-of-core - value on the most memory consuming processor): 0
+                    INFOG(39) (after analysis: estimated size of all MUMPS internal data for running BLR out-of-core - sum over all processors): 0
+        linear system matrix = precond matrix:
+        Mat Object: (mg_levels_1_sub_) 1 MPI processes
+          type: seqaij
+          rows=402488, cols=402488
+          total: nonzeros=11228928, allocated nonzeros=11228928
+          total number of mallocs used during MatSetValues calls=0
+            using I-node routines: found 100622 nodes, limit used is 5
+      linear system matrix = precond matrix:
+      Mat Object: 160 MPI processes
+        type: mpiaij
+        rows=64032004, cols=64032004
+        total: nonzeros=1792384016, allocated nonzeros=1792384016
+        total number of mallocs used during MatSetValues calls=0
+          using I-node (on process 0) routines: found 99628 nodes, limit used is 5
+  Up solver (post-smoother) same as down solver (pre-smoother)
+  linear system matrix = precond matrix:
+  Mat Object: 160 MPI processes
+    type: mpiaij
+    rows=64032004, cols=64032004
+    total: nonzeros=1792384016, allocated nonzeros=1792384016
+    total number of mallocs used during MatSetValues calls=0
+      using I-node (on process 0) routines: found 99628 nodes, limit used is 5
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0133.scinet.local with 160 processors, by sudhipv Thu Mar  3 06:48:32 2022
+Using Petsc Release Version 3.15.0, Mar 30, 2021
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           6.580e+01     1.000   6.580e+01
+Objects:              1.460e+02     1.000   1.460e+02
+Flop:                 6.812e+12     1.350   6.166e+12  9.866e+14
+Flop/sec:             1.035e+11     1.350   9.370e+10  1.499e+13
+MPI Messages:         1.641e+03     4.471   9.728e+02  1.557e+05
+MPI Message Lengths:  1.390e+07     3.395   1.038e+04  1.616e+09
+MPI Reductions:       2.380e+02     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 6.5803e+01 100.0%  9.8656e+14 100.0%  1.557e+05 100.0%  1.038e+04      100.0%  2.200e+02  92.4%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          7 1.0 6.0520e-01127.7 0.00e+00 0.0 2.6e+03 4.0e+00 5.0e+00  0  0  2  0  2   0  0  2  0  2     0
+BuildTwoSidedF         2 1.0 3.9122e-0316.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+MatMult              115 1.0 3.0259e+00 1.2 1.43e+09 1.0 1.0e+05 6.2e+03 2.0e+00  4  0 65 39  1   4  0 65 39  1 74761
+MatMultAdd             8 1.0 1.0589e-01 1.1 6.46e+06 1.0 6.8e+03 1.2e+04 0.0e+00  0  0  4  5  0   0  0  4  5  0  9675
+MatMultTranspose       8 1.0 3.1866e-01 3.1 0.00e+00 0.0 6.8e+03 4.1e+04 0.0e+00  0  0  4 17  0   0  0  4 17  0     0
+MatSolve              43 1.0 1.2548e+01 1.1 6.81e+12 1.4 0.0e+00 0.0e+00 0.0e+00 18100  0  0  0  18100  0  0  0 78597276
+MatLUFactorSym         1 1.0 1.6741e+00 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+MatLUFactorNum         1 1.0 4.8601e+00 1.1 2.37e+08 1.1 0.0e+00 0.0e+00 0.0e+00  7  0  0  0  0   7  0  0  0  0  7476
+MatConvert             1 1.0 4.8078e-02 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 4.0e+00  0  0  0  0  2   0  0  0  0  2     0
+MatResidual            8 1.0 4.6990e-01 1.8 1.81e+08 1.0 6.8e+03 8.3e+03 0.0e+00  1  0  4  3  0   1  0  4  3  0 61030
+MatAssemblyBegin       6 1.0 4.2294e-03 6.9 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+MatAssemblyEnd         6 1.0 1.5225e+00 4.8 0.00e+00 0.0 0.0e+00 0.0e+00 1.2e+01  1  0  0  0  5   1  0  0  0  5     0
+MatGetRowIJ            3 1.0 2.2464e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       1 1.0 4.6100e-01 1.2 0.00e+00 0.0 4.2e+03 7.1e+04 1.0e+00  1  0  3 19  0   1  0  3 19  0     0
+MatGetOrdering         1 1.0 1.1712e-01 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 9.9918e-02 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatView                5 1.7 2.9866e-01171.5 0.00e+00 0.0 0.0e+00 0.0e+00 3.0e+00  0  0  0  0  1   0  0  0  0  1     0
+KSPSetUp               3 1.0 1.1518e+01 1.0 1.74e+12 1.4 2.6e+04 1.8e+04 3.8e+01 17 26 16 28 16  17 26 16 28 17 21912791
+KSPSolve               1 1.0 2.1629e+01 1.0 5.07e+12 1.4 1.2e+05 8.4e+03 1.4e+02 33 74 80 65 59  33 74 80 65 64 33944249
+KSPGMRESOrthog        75 1.0 7.9243e-01 2.1 2.42e+08 1.0 0.0e+00 0.0e+00 7.5e+01  1  0  0  0 32   1  0  0  0 34 48250
+PCSetUp                1 1.0 1.2349e+01 1.0 1.74e+12 1.4 2.6e+04 1.8e+04 4.2e+01 19 26 16 28 18  19 26 16 28 19 20437006
+PCSetUpOnBlocks       17 1.0 6.5799e+00 1.1 2.37e+08 1.1 0.0e+00 0.0e+00 0.0e+00 10  0  0  0  0  10  0  0  0  0  5522
+PCApply                8 1.0 2.1287e+01 1.0 5.07e+12 1.4 1.2e+05 8.5e+03 1.2e+02 32 74 76 62 52  32 74 76 62 56 34486927
+PCApplyOnBlocks       43 1.0 1.2580e+01 1.1 6.81e+12 1.4 0.0e+00 0.0e+00 0.0e+00 18100  0  0  0  18100  0  0  0 78396338
+VecMDot               75 1.0 6.5152e-01 2.8 1.21e+08 1.0 0.0e+00 0.0e+00 7.5e+01  1  0  0  0 32   1  0  0  0 34 29343
+VecNorm               85 1.0 1.1465e-01 2.7 2.94e+07 1.0 0.0e+00 0.0e+00 8.5e+01  0  0  0  0 36   0  0  0  0 39 40500
+VecScale             101 1.0 1.7142e-02 1.1 1.47e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 135439
+VecCopy               77 1.0 1.0173e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet               236 1.0 1.4852e-01 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY               18 1.0 2.0655e-02 1.3 9.70e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 74409
+VecAYPX               48 1.0 6.7751e-02 1.3 2.58e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 60487
+VecAXPBYCZ            16 1.0 4.2113e-02 2.1 3.23e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 121639
+VecMAXPY              85 1.0 1.7340e-01 1.0 1.47e+08 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 134075
+VecScatterBegin      279 1.0 8.6467e-01 3.1 0.00e+00 0.0 1.3e+05 6.4e+03 3.0e+00  1  0 85 52  1   1  0 85 52  1     0
+VecScatterEnd        279 1.0 5.4277e-0138.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize          76 1.0 1.1794e-01 2.6 3.32e+07 1.0 0.0e+00 0.0e+00 7.6e+01  0  0  0  0 32   0  0  0  0 35 44397
+SFSetGraph             5 1.0 1.1441e-03 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 6.3690e-0118.6 0.00e+00 0.0 5.1e+03 1.7e+03 3.0e+00  0  0  3  1  1   0  0  3  1  1     0
+SFReduceBegin         43 1.0 6.8420e-02 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd           43 1.0 1.4200e-04 2.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack               279 1.0 7.0378e-03 3.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack             279 1.0 1.0586e-0310.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    12             12    399512924     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Viewer     3              2         1696     0.
+              Vector    85             85    203508088     0.
+           Index Set    15             15     10533504     0.
+   IS L to G Mapping     1              1      4830536     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+========================================================================================================================
+Average time to get PetscTime(): 2.96e-08
+Average time for MPI_Barrier(): 6.69528e-05
+Average time for zero size MPI_Send(): 1.21495e-06
+#PETSc Option Table entries:
+-ksp_max_it 200
+-ksp_monitor
+-ksp_type fgmres
+-log_view
+-m 2000
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_monitor
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_factor_mat_solver_type mumps
+-mg_levels_sub_pc_type lu
+-n 2000
+-nw
+-ordo 3
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch:
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+Number of Vertices for coarse grid  4004001
+Number of Vertices for fine mesh in  1.6008e+07
+1
+	-111111
+order of input  2
+order of output  3
+Mean of Gaussian  0
+Sd of Gaussian  0.3
+Size of linear System  6.4032e+07
+6
+	1.04602786	0.313808358	0.06656880537	0.01153005531	0.001729508297
+	0.0002320378871
+  0 KSP Residual norm 2.499375000000e-04
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.290113366221e+05
+      1 KSP Residual norm 2.550751741380e+04
+      2 KSP Residual norm 4.076712033062e+03
+      3 KSP Residual norm 7.566921767818e+02
+      4 KSP Residual norm 9.057891103381e+01
+      5 KSP Residual norm 1.638321788499e+01
+      6 KSP Residual norm 3.098602321938e+00
+      7 KSP Residual norm 5.413067647254e-01
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  1 KSP Residual norm 2.469013067352e-04
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 5.101294064163e+00
+      1 KSP Residual norm 5.653478949106e-01
+      2 KSP Residual norm 9.157290703592e-02
+      3 KSP Residual norm 1.699005912599e-02
+      4 KSP Residual norm 2.286990867759e-03
+      5 KSP Residual norm 4.201648810645e-04
+      6 KSP Residual norm 9.903813694898e-05
+      7 KSP Residual norm 1.738268873732e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  2 KSP Residual norm 3.402558715092e-05
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.446217646677e+01
+      1 KSP Residual norm 1.581724303536e+00
+      2 KSP Residual norm 2.772246207065e-01
+      3 KSP Residual norm 5.362712929876e-02
+      4 KSP Residual norm 8.211513332381e-03
+      5 KSP Residual norm 1.361158308405e-03
+      6 KSP Residual norm 3.639851216600e-04
+      7 KSP Residual norm 6.250673549632e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  3 KSP Residual norm 1.747858946723e-06
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.970023801092e+01
+      1 KSP Residual norm 5.669276231814e+00
+      2 KSP Residual norm 1.213064852559e+00
+      3 KSP Residual norm 2.488605533887e-01
+      4 KSP Residual norm 3.488508974926e-02
+      5 KSP Residual norm 6.950520887565e-03
+      6 KSP Residual norm 1.770371811002e-03
+      7 KSP Residual norm 3.363420095792e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  4 KSP Residual norm 3.176015555025e-07
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 8.326272218159e+01
+      1 KSP Residual norm 9.121037514215e+00
+      2 KSP Residual norm 1.630059894964e+00
+      3 KSP Residual norm 3.154720662155e-01
+      4 KSP Residual norm 4.716075946880e-02
+      5 KSP Residual norm 7.644380133323e-03
+      6 KSP Residual norm 2.146408268253e-03
+      7 KSP Residual norm 3.712388893450e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  5 KSP Residual norm 9.902257210672e-08
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.259201677685e+01
+      1 KSP Residual norm 1.529374123247e+00
+      2 KSP Residual norm 2.735108012954e-01
+      3 KSP Residual norm 5.839799976561e-02
+      4 KSP Residual norm 1.262529628848e-02
+      5 KSP Residual norm 1.719947925368e-03
+      6 KSP Residual norm 3.269165176118e-04
+      7 KSP Residual norm 6.764048122044e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  6 KSP Residual norm 1.887399262119e-08
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.386440500924e+02
+      1 KSP Residual norm 1.517889459333e+01
+      2 KSP Residual norm 2.732413495168e+00
+      3 KSP Residual norm 5.266602398069e-01
+      4 KSP Residual norm 7.756091159786e-02
+      5 KSP Residual norm 1.232840586187e-02
+      6 KSP Residual norm 3.232907652140e-03
+      7 KSP Residual norm 5.844896102472e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  7 KSP Residual norm 4.173332016680e-09
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.531796549080e+02
+      1 KSP Residual norm 1.681209753983e+01
+      2 KSP Residual norm 2.995917186626e+00
+      3 KSP Residual norm 5.821804323236e-01
+      4 KSP Residual norm 8.615431159216e-02
+      5 KSP Residual norm 1.373157164486e-02
+      6 KSP Residual norm 3.635110750058e-03
+      7 KSP Residual norm 6.502318515845e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  8 KSP Residual norm 6.404061248239e-10
+ : 320 MPI processes
+  type: fgmres
+    restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+    happy breakdown tolerance 1e-30
+  maximum iterations=200, initial guess is zero
+  tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+  right preconditioning
+  using UNPRECONDITIONED norm type for convergence test
+PC Object: 320 MPI processes
+  type: mg
+    type is MULTIPLICATIVE, levels=2 cycles=v
+      Cycles per PCApply=1
+      Not using Galerkin computed coarse grid matrices
+  Coarse grid solver -- level -------------------------------
+    KSP Object: (mg_coarse_) 320 MPI processes
+      type: gmres
+        restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+        happy breakdown tolerance 1e-30
+      maximum iterations=10000, initial guess is zero
+      tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+      left preconditioning
+      using PRECONDITIONED norm type for convergence test
+    PC Object: (mg_coarse_) 320 MPI processes
+      type: hypre
+        HYPRE BoomerAMG preconditioning
+          Cycle type V
+          Maximum number of levels 25
+          Maximum number of iterations PER hypre call 1
+          Convergence tolerance PER hypre call 0.
+          Threshold for strong coupling 0.25
+          Interpolation truncation factor 0.
+          Interpolation: max elements per row 0
+          Number of levels of aggressive coarsening 0
+          Number of paths for aggressive coarsening 1
+          Maximum row sums 0.9
+          Sweeps down         1
+          Sweeps up           1
+          Sweeps on coarse    1
+          Relax down          symmetric-SOR/Jacobi
+          Relax up            symmetric-SOR/Jacobi
+          Relax on coarse     Gaussian-elimination
+          Relax weight  (all)      1.
+          Outer relax weight (all) 1.
+          Using CF-relaxation
+          Not using more complex smoothers.
+          Measure type        local
+          Coarsen type        Falgout
+          Interpolation type  classical
+      linear system matrix = precond matrix:
+      Mat Object: 320 MPI processes
+        type: mpiaij
+        rows=16016004, cols=16016004, bs=4
+        total: nonzeros=448192016, allocated nonzeros=448192016
+        total number of mallocs used during MatSetValues calls=0
+          using I-node (on process 0) routines: found 12219 nodes, limit used is 5
+  Down solver (pre-smoother) on level 1 -------------------------------
+    KSP Object: (mg_levels_1_) 320 MPI processes
+      type: chebyshev
+        eigenvalue estimates used:  min = 0.197557, max = 2.17313
+        eigenvalues estimate via gmres min 0.0155788, max 1.97557
+        eigenvalues estimated using gmres with translations  [0. 0.1; 0. 1.1]
+        KSP Object: (mg_levels_1_esteig_) 320 MPI processes
+          type: gmres
+            restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+            happy breakdown tolerance 1e-30
+          maximum iterations=10, initial guess is zero
+          tolerances:  relative=1e-12, absolute=1e-50, divergence=10000.
+          left preconditioning
+          using PRECONDITIONED norm type for convergence test
+        estimating eigenvalues using noisy right hand side
+      maximum iterations=2, nonzero initial guess
+      tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+      left preconditioning
+      using NONE norm type for convergence test
+    PC Object: (mg_levels_1_) 320 MPI processes
+      type: asm
+        total subdomain blocks = 320, amount of overlap = 1
+        restriction/interpolation type - RESTRICT
+        Local solver information for first block is in the following KSP and PC objects on rank 0:
+        Use -mg_levels_1_ksp_view ::ascii_info_detail to display information for all blocks
+      KSP Object: (mg_levels_1_sub_) 1 MPI processes
+        type: preonly
+        maximum iterations=10000, initial guess is zero
+        tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+        left preconditioning
+        using NONE norm type for convergence test
+      PC Object: (mg_levels_1_sub_) 1 MPI processes
+        type: lu
+          out-of-place factorization
+          tolerance for zero pivot 2.22045e-14
+          matrix ordering: nd
+          factor fill ratio given 0., needed 0.
+            Factored matrix follows:
+              Mat Object: 1 MPI processes
+                type: mumps
+                rows=201964, cols=201964
+                package used to perform factorization: mumps
+                total: nonzeros=60271152, allocated nonzeros=60271152
+                  MUMPS run parameters:
+                    SYM (matrix type):                   0
+                    PAR (host participation):            1
+                    ICNTL(1) (output for error):         6
+                    ICNTL(2) (output of diagnostic msg): 0
+                    ICNTL(3) (output for global info):   0
+                    ICNTL(4) (level of printing):        0
+                    ICNTL(5) (input mat struct):         0
+                    ICNTL(6) (matrix prescaling):        7
+                    ICNTL(7) (sequential matrix ordering):7
+                    ICNTL(8) (scaling strategy):        77
+                    ICNTL(10) (max num of refinements):  0
+                    ICNTL(11) (error analysis):          0
+                    ICNTL(12) (efficiency control):                         1
+                    ICNTL(13) (sequential factorization of the root node):  0
+                    ICNTL(14) (percentage of estimated workspace increase): 20
+                    ICNTL(18) (input mat struct):                           0
+                    ICNTL(19) (Schur complement info):                      0
+                    ICNTL(20) (RHS sparse pattern):                         0
+                    ICNTL(21) (solution struct):                            0
+                    ICNTL(22) (in-core/out-of-core facility):               0
+                    ICNTL(23) (max size of memory can be allocated locally):0
+                    ICNTL(24) (detection of null pivot rows):               0
+                    ICNTL(25) (computation of a null space basis):          0
+                    ICNTL(26) (Schur options for RHS or solution):          0
+                    ICNTL(27) (blocking size for multiple RHS):             -32
+                    ICNTL(28) (use parallel or sequential ordering):        1
+                    ICNTL(29) (parallel ordering):                          0
+                    ICNTL(30) (user-specified set of entries in inv(A)):    0
+                    ICNTL(31) (factors is discarded in the solve phase):    0
+                    ICNTL(33) (compute determinant):                        0
+                    ICNTL(35) (activate BLR based factorization):           0
+                    ICNTL(36) (choice of BLR factorization variant):        0
+                    ICNTL(38) (estimated compression rate of LU factors):   333
+                    CNTL(1) (relative pivoting threshold):      0.01
+                    CNTL(2) (stopping criterion of refinement): 1.49012e-08
+                    CNTL(3) (absolute pivoting threshold):      0.
+                    CNTL(4) (value of static pivoting):         -1.
+                    CNTL(5) (fixation for null pivots):         0.
+                    CNTL(7) (dropping parameter for BLR):       0.
+                    RINFO(1) (local estimated flops for the elimination after analysis):
+                      [0] 2.55477e+10
+                    RINFO(2) (local estimated flops for the assembly after factorization):
+                      [0]  9.96123e+07
+                    RINFO(3) (local estimated flops for the elimination after factorization):
+                      [0]  2.55477e+10
+                    INFO(15) (estimated size of (in MB) MUMPS internal data for running numerical factorization):
+                    [0] 686
+                    INFO(16) (size of (in MB) MUMPS internal data used during numerical factorization):
+                      [0] 686
+                    INFO(23) (num of pivots eliminated on this processor after factorization):
+                      [0] 201964
+                    RINFOG(1) (global estimated flops for the elimination after analysis): 2.55477e+10
+                    RINFOG(2) (global estimated flops for the assembly after factorization): 9.96123e+07
+                    RINFOG(3) (global estimated flops for the elimination after factorization): 2.55477e+10
+                    (RINFOG(12) RINFOG(13))*2^INFOG(34) (determinant): (0.,0.)*(2^0)
+                    INFOG(3) (estimated real workspace for factors on all processors after analysis): 60271152
+                    INFOG(4) (estimated integer workspace for factors on all processors after analysis): 2530865
+                    INFOG(5) (estimated maximum front size in the complete tree): 1536
+                    INFOG(6) (number of nodes in the complete tree): 18795
+                    INFOG(7) (ordering option effectively use after analysis): 5
+                    INFOG(8) (structural symmetry in percent of the permuted matrix after analysis): 100
+                    INFOG(9) (total real/complex workspace to store the matrix factors after factorization): 60271152
+                    INFOG(10) (total integer space store the matrix factors after factorization): 2530865
+                    INFOG(11) (order of largest frontal matrix after factorization): 1536
+                    INFOG(12) (number of off-diagonal pivots): 0
+                    INFOG(13) (number of delayed pivots after factorization): 0
+                    INFOG(14) (number of memory compress after factorization): 0
+                    INFOG(15) (number of steps of iterative refinement after solution): 0
+                    INFOG(16) (estimated size (in MB) of all MUMPS internal data for factorization after analysis: value on the most memory consuming processor): 686
+                    INFOG(17) (estimated size of all MUMPS internal data for factorization after analysis: sum over all processors): 686
+                    INFOG(18) (size of all MUMPS internal data allocated during factorization: value on the most memory consuming processor): 686
+                    INFOG(19) (size of all MUMPS internal data allocated during factorization: sum over all processors): 686
+                    INFOG(20) (estimated number of entries in the factors): 60271152
+                    INFOG(21) (size in MB of memory effectively used during factorization - value on the most memory consuming processor): 586
+                    INFOG(22) (size in MB of memory effectively used during factorization - sum over all processors): 586
+                    INFOG(23) (after analysis: value of ICNTL(6) effectively used): 0
+                    INFOG(24) (after analysis: value of ICNTL(12) effectively used): 1
+                    INFOG(25) (after factorization: number of pivots modified by static pivoting): 0
+                    INFOG(28) (after factorization: number of null pivots encountered): 0
+                    INFOG(29) (after factorization: effective number of entries in the factors (sum over all processors)): 60271152
+                    INFOG(30, 31) (after solution: size in Mbytes of memory used during solution phase): 651, 651
+                    INFOG(32) (after analysis: type of analysis done): 1
+                    INFOG(33) (value used for ICNTL(8)): 7
+                    INFOG(34) (exponent of the determinant if determinant is requested): 0
+                    INFOG(35) (after factorization: number of entries taking into account BLR factor compression - sum over all processors): 60271152
+                    INFOG(36) (after analysis: estimated size of all MUMPS internal data for running BLR in-core - value on the most memory consuming processor): 0
+                    INFOG(37) (after analysis: estimated size of all MUMPS internal data for running BLR in-core - sum over all processors): 0
+                    INFOG(38) (after analysis: estimated size of all MUMPS internal data for running BLR out-of-core - value on the most memory consuming processor): 0
+                    INFOG(39) (after analysis: estimated size of all MUMPS internal data for running BLR out-of-core - sum over all processors): 0
+        linear system matrix = precond matrix:
+        Mat Object: (mg_levels_1_sub_) 1 MPI processes
+          type: seqaij
+          rows=201964, cols=201964
+          total: nonzeros=5624240, allocated nonzeros=5624240
+          total number of mallocs used during MatSetValues calls=0
+            using I-node routines: found 50491 nodes, limit used is 5
+      linear system matrix = precond matrix:
+      Mat Object: 320 MPI processes
+        type: mpiaij
+        rows=64032004, cols=64032004
+        total: nonzeros=1792384016, allocated nonzeros=1792384016
+        total number of mallocs used during MatSetValues calls=0
+          using I-node (on process 0) routines: found 49443 nodes, limit used is 5
+  Up solver (post-smoother) same as down solver (pre-smoother)
+  linear system matrix = precond matrix:
+  Mat Object: 320 MPI processes
+    type: mpiaij
+    rows=64032004, cols=64032004
+    total: nonzeros=1792384016, allocated nonzeros=1792384016
+    total number of mallocs used during MatSetValues calls=0
+      using I-node (on process 0) routines: found 49443 nodes, limit used is 5
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0133.scinet.local with 320 processors, by sudhipv Thu Mar  3 06:49:14 2022
+Using Petsc Release Version 3.15.0, Mar 30, 2021
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           3.816e+01     1.000   3.816e+01
+Objects:              1.460e+02     1.000   1.460e+02
+Flop:                 2.431e+12     1.279   2.195e+12  7.025e+14
+Flop/sec:             6.370e+10     1.279   5.752e+10  1.841e+13
+MPI Messages:         1.862e+03     5.101   1.003e+03  3.208e+05
+MPI Message Lengths:  9.182e+06     2.977   7.237e+03  2.322e+09
+MPI Reductions:       2.360e+02     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 3.8164e+01 100.0%  7.0245e+14 100.0%  3.208e+05 100.0%  7.237e+03      100.0%  2.180e+02  92.4%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          7 1.0 3.7221e-01138.5 0.00e+00 0.0 5.3e+03 4.0e+00 5.0e+00  1  0  2  0  2   1  0  2  0  2     0
+BuildTwoSidedF         2 1.0 3.7431e-0314.4 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+MatMult              114 1.0 1.6047e+00 1.4 7.15e+08 1.0 2.1e+05 4.3e+03 2.0e+00  4  0 65 38  1   4  0 65 38  1 140425
+MatMultAdd             8 1.0 6.2522e-02 1.3 3.24e+06 1.0 1.4e+04 8.6e+03 0.0e+00  0  0  4  5  0   0  0  4  5  0 16386
+MatMultTranspose       8 1.0 1.3241e-01 4.8 0.00e+00 0.0 1.4e+04 2.9e+04 0.0e+00  0  0  4 17  0   0  0  4 17  0     0
+MatSolve              43 1.0 6.2360e+00 1.1 2.43e+12 1.3 0.0e+00 0.0e+00 0.0e+00 15100  0  0  0  15100  0  0  0 112593812
+MatLUFactorSym         1 1.0 8.4086e-01 1.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  2  0  0  0  0   2  0  0  0  0     0
+MatLUFactorNum         1 1.0 2.0325e+00 1.2 1.07e+08 1.2 0.0e+00 0.0e+00 0.0e+00  5  0  0  0  0   5  0  0  0  0 15859
+MatConvert             1 1.0 2.9835e-02 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 4.0e+00  0  0  0  0  2   0  0  0  0  2     0
+MatResidual            8 1.0 2.0843e-01 2.2 9.08e+07 1.0 1.4e+04 5.8e+03 0.0e+00  0  0  4  3  0   0  0  4  3  0 137593
+MatAssemblyBegin       6 1.0 3.8378e-03 4.1 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+MatAssemblyEnd         6 1.0 7.8442e-0116.1 0.00e+00 0.0 0.0e+00 0.0e+00 1.2e+01  1  0  0  0  5   1  0  0  0  6     0
+MatGetRowIJ            3 1.0 1.1272e-02 2.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       1 1.0 3.6051e-01 1.6 0.00e+00 0.0 8.8e+03 4.9e+04 1.0e+00  1  0  3 19  0   1  0  3 19  0     0
+MatGetOrdering         1 1.0 6.2028e-02 2.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 6.6861e-02 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatView                5 1.7 2.2995e-01131.7 0.00e+00 0.0 0.0e+00 0.0e+00 3.0e+00  1  0  0  0  1   1  0  0  0  1     0
+KSPSetUp               3 1.0 5.2534e+00 1.0 6.22e+11 1.3 5.3e+04 1.2e+04 3.8e+01 14 26 16 28 16  14 26 16 28 17 34206361
+KSPSolve               1 1.0 1.0752e+01 1.0 1.81e+12 1.3 2.6e+05 5.9e+03 1.4e+02 28 74 80 65 58  28 74 80 65 63 48619226
+KSPGMRESOrthog        74 1.0 6.2285e-01 2.2 1.20e+08 1.0 0.0e+00 0.0e+00 7.4e+01  1  0  0  0 31   1  0  0  0 34 60460
+PCSetUp                1 1.0 5.8354e+00 1.0 6.22e+11 1.3 5.3e+04 1.2e+04 4.2e+01 15 26 16 28 18  15 26 16 28 19 30794737
+PCSetUpOnBlocks       17 1.0 2.8443e+00 1.1 1.07e+08 1.2 0.0e+00 0.0e+00 0.0e+00  7  0  0  0  0   7  0  0  0  0 11333
+PCApply                8 1.0 1.0558e+01 1.0 1.81e+12 1.3 2.4e+05 5.9e+03 1.2e+02 27 74 76 62 51  27 74 76 62 56 49506189
+PCApplyOnBlocks       43 1.0 6.2499e+00 1.1 2.43e+12 1.3 0.0e+00 0.0e+00 0.0e+00 15100  0  0  0  15100  0  0  0 112343661
+VecMDot               74 1.0 5.6470e-01 2.5 5.98e+07 1.0 0.0e+00 0.0e+00 7.4e+01  1  0  0  0 31   1  0  0  0 34 33343
+VecNorm               84 1.0 4.8093e-02 2.1 1.47e+07 1.0 0.0e+00 0.0e+00 8.4e+01  0  0  0  0 36   0  0  0  0 39 95883
+VecScale             100 1.0 4.3689e-03 1.2 7.33e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 527745
+VecCopy               77 1.0 4.0279e-02 1.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet               235 1.0 6.7474e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY               18 1.0 1.0367e-02 1.6 4.87e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 148251
+VecAYPX               48 1.0 3.2536e-02 1.6 1.30e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 125953
+VecAXPBYCZ            16 1.0 2.0953e-02 2.7 1.62e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 244474
+VecMAXPY              84 1.0 7.5481e-02 1.1 7.29e+07 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 303756
+VecScatterBegin      278 1.0 4.7900e-01 3.4 0.00e+00 0.0 2.7e+05 4.4e+03 3.0e+00  1  0 85 52  1   1  0 85 52  1     0
+VecScatterEnd        278 1.0 3.4251e-0156.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize          75 1.0 4.2112e-02 2.3 1.65e+07 1.0 0.0e+00 0.0e+00 7.5e+01  0  0  0  0 32   0  0  0  0 34 123197
+SFSetGraph             5 1.0 6.6819e-04 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 3.8453e-0121.3 0.00e+00 0.0 1.1e+04 1.2e+03 3.0e+00  1  0  3  1  1   1  0  3  1  1     0
+SFReduceBegin         43 1.0 3.2887e-02 2.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd           43 1.0 1.0531e-04 3.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack               278 1.0 3.8241e-03 3.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack             278 1.0 8.0447e-04 9.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    12             12    198871084     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Viewer     3              2         1696     0.
+              Vector    85             85    101108664     0.
+           Index Set    15             15      5322920     0.
+   IS L to G Mapping     1              1      2424248     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.14e-08
+Average time for MPI_Barrier(): 7.56846e-05
+Average time for zero size MPI_Send(): 1.28323e-06
+#PETSc Option Table entries:
+-ksp_max_it 200
+-ksp_monitor
+-ksp_type fgmres
+-log_view
+-m 2000
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_monitor
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_factor_mat_solver_type mumps
+-mg_levels_sub_pc_type lu
+-n 2000
+-nw
+-ordo 3
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch:
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+Number of Vertices for coarse grid  4004001
+Number of Vertices for fine mesh in  1.6008e+07
+1
+	-111111
+order of input  2
+order of output  3
+Mean of Gaussian  0
+Sd of Gaussian  0.3
+Size of linear System  6.4032e+07
+6
+	1.04602786	0.313808358	0.06656880537	0.01153005531	0.001729508297
+	0.0002320378871
+  0 KSP Residual norm 2.499375000000e-04
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.132208122550e+05
+      1 KSP Residual norm 2.619446563580e+04
+      2 KSP Residual norm 4.074468661866e+03
+      3 KSP Residual norm 7.879939966957e+02
+      4 KSP Residual norm 1.050274599213e+02
+      5 KSP Residual norm 1.718923461746e+01
+      6 KSP Residual norm 3.553202963419e+00
+      7 KSP Residual norm 7.604954448763e-01
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  1 KSP Residual norm 2.456936528067e-04
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 6.220285573041e+00
+      1 KSP Residual norm 7.580196945704e-01
+      2 KSP Residual norm 1.201198110253e-01
+      3 KSP Residual norm 2.359389772450e-02
+      4 KSP Residual norm 3.728305565384e-03
+      5 KSP Residual norm 5.837168280246e-04
+      6 KSP Residual norm 1.332662253788e-04
+      7 KSP Residual norm 3.140959192762e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  2 KSP Residual norm 2.936625855033e-05
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.684590159225e+01
+      1 KSP Residual norm 3.235395401567e+00
+      2 KSP Residual norm 5.504032310700e-01
+      3 KSP Residual norm 1.149154283341e-01
+      4 KSP Residual norm 1.947811512175e-02
+      5 KSP Residual norm 2.731969448069e-03
+      6 KSP Residual norm 6.985887470070e-04
+      7 KSP Residual norm 1.638368881907e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  3 KSP Residual norm 1.936735897610e-06
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.147676476711e+02
+      1 KSP Residual norm 1.383186180752e+01
+      2 KSP Residual norm 2.462630550046e+00
+      3 KSP Residual norm 5.403243967553e-01
+      4 KSP Residual norm 8.967222341665e-02
+      5 KSP Residual norm 1.450153002804e-02
+      6 KSP Residual norm 3.720319002018e-03
+      7 KSP Residual norm 8.398044768978e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  4 KSP Residual norm 3.573016626911e-07
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 8.942929990118e+01
+      1 KSP Residual norm 1.088320382433e+01
+      2 KSP Residual norm 1.946130165368e+00
+      3 KSP Residual norm 4.186123292963e-01
+      4 KSP Residual norm 6.830500876843e-02
+      5 KSP Residual norm 1.044173375647e-02
+      6 KSP Residual norm 2.902238298991e-03
+      7 KSP Residual norm 6.670942259543e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  5 KSP Residual norm 9.509169691245e-08
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 6.180420250612e+00
+      1 KSP Residual norm 1.614145928055e+00
+      2 KSP Residual norm 2.949782472046e-01
+      3 KSP Residual norm 6.354964201210e-02
+      4 KSP Residual norm 1.491618694043e-02
+      5 KSP Residual norm 2.103041267576e-03
+      6 KSP Residual norm 3.625772333585e-04
+      7 KSP Residual norm 9.086502659550e-05
+      8 KSP Residual norm 2.038726518257e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  6 KSP Residual norm 2.228243464152e-08
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 9.922510033063e+01
+      1 KSP Residual norm 1.207359085995e+01
+      2 KSP Residual norm 2.165292663132e+00
+      3 KSP Residual norm 4.648663906434e-01
+      4 KSP Residual norm 7.556335316607e-02
+      5 KSP Residual norm 1.146465912659e-02
+      6 KSP Residual norm 3.171398514820e-03
+      7 KSP Residual norm 7.334899390139e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  7 KSP Residual norm 5.249612286010e-09
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 6.841042705181e+01
+      1 KSP Residual norm 8.483501811219e+00
+      2 KSP Residual norm 1.577744431292e+00
+      3 KSP Residual norm 3.416448196231e-01
+      4 KSP Residual norm 5.548684717730e-02
+      5 KSP Residual norm 9.673539635114e-03
+      6 KSP Residual norm 2.526940003361e-03
+      7 KSP Residual norm 5.862745921062e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  8 KSP Residual norm 6.887984747453e-10
+KSP Object: 640 MPI processes
+  type: fgmres
+    restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+    happy breakdown tolerance 1e-30
+  maximum iterations=200, initial guess is zero
+  tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+  right preconditioning
+  using UNPRECONDITIONED norm type for convergence test
+PC Object: 640 MPI processes
+  type: mg
+    type is MULTIPLICATIVE, levels=2 cycles=v
+      Cycles per PCApply=1
+      Not using Galerkin computed coarse grid matrices
+  Coarse grid solver -- level -------------------------------
+    KSP Object: (mg_coarse_) 640 MPI processes
+      type: gmres
+        restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+        happy breakdown tolerance 1e-30
+      maximum iterations=10000, initial guess is zero
+      tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+      left preconditioning
+      using PRECONDITIONED norm type for convergence test
+    PC Object: (mg_coarse_) 640 MPI processes
+      type: hypre
+        HYPRE BoomerAMG preconditioning
+          Cycle type V
+          Maximum number of levels 25
+          Maximum number of iterations PER hypre call 1
+          Convergence tolerance PER hypre call 0.
+          Threshold for strong coupling 0.25
+          Interpolation truncation factor 0.
+          Interpolation: max elements per row 0
+          Number of levels of aggressive coarsening 0
+          Number of paths for aggressive coarsening 1
+          Maximum row sums 0.9
+          Sweeps down         1
+          Sweeps up           1
+          Sweeps on coarse    1
+          Relax down          symmetric-SOR/Jacobi
+          Relax up            symmetric-SOR/Jacobi
+          Relax on coarse     Gaussian-elimination
+          Relax weight  (all)      1.
+          Outer relax weight (all) 1.
+          Using CF-relaxation
+          Not using more complex smoothers.
+          Measure type        local
+          Coarsen type        Falgout
+          Interpolation type  classical
+      linear system matrix = precond matrix:
+      Mat Object: 640 MPI processes
+        type: mpiaij
+        rows=16016004, cols=16016004, bs=4
+        total: nonzeros=448192016, allocated nonzeros=448192016
+        total number of mallocs used during MatSetValues calls=0
+          using I-node (on process 0) routines: found 6054 nodes, limit used is 5
+  Down solver (pre-smoother) on level 1 -------------------------------
+    KSP Object: (mg_levels_1_) 640 MPI processes
+      type: chebyshev
+        eigenvalue estimates used:  min = 0.196847, max = 2.16532
+        eigenvalues estimate via gmres min 0.0167078, max 1.96847
+        eigenvalues estimated using gmres with translations  [0. 0.1; 0. 1.1]
+        KSP Object: (mg_levels_1_esteig_) 640 MPI processes
+          type: gmres
+            restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+            happy breakdown tolerance 1e-30
+          maximum iterations=10, initial guess is zero
+          tolerances:  relative=1e-12, absolute=1e-50, divergence=10000.
+          left preconditioning
+          using PRECONDITIONED norm type for convergence test
+        estimating eigenvalues using noisy right hand side
+      maximum iterations=2, nonzero initial guess
+      tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+      left preconditioning
+      using NONE norm type for convergence test
+    PC Object: (mg_levels_1_) 640 MPI processes
+      type: asm
+        total subdomain blocks = 640, amount of overlap = 1
+        restriction/interpolation type - RESTRICT
+        Local solver information for first block is in the following KSP and PC objects on rank 0:
+        Use -mg_levels_1_ksp_view ::ascii_info_detail to display information for all blocks
+      KSP Object: (mg_levels_1_sub_) 1 MPI processes
+        type: preonly
+        maximum iterations=10000, initial guess is zero
+        tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+        left preconditioning
+        using NONE norm type for convergence test
+      PC Object: (mg_levels_1_sub_) 1 MPI processes
+        type: lu
+          out-of-place factorization
+          tolerance for zero pivot 2.22045e-14
+          matrix ordering: nd
+          factor fill ratio given 0., needed 0.
+            Factored matrix follows:
+              Mat Object: 1 MPI processes
+                type: mumps
+                rows=101424, cols=101424
+                package used to perform factorization: mumps
+                total: nonzeros=27147552, allocated nonzeros=27147552
+                  MUMPS run parameters:
+                    SYM (matrix type):                   0
+                    PAR (host participation):            1
+                    ICNTL(1) (output for error):         6
+                    ICNTL(2) (output of diagnostic msg): 0
+                    ICNTL(3) (output for global info):   0
+                    ICNTL(4) (level of printing):        0
+                    ICNTL(5) (input mat struct):         0
+                    ICNTL(6) (matrix prescaling):        7
+                    ICNTL(7) (sequential matrix ordering):7
+                    ICNTL(8) (scaling strategy):        77
+                    ICNTL(10) (max num of refinements):  0
+                    ICNTL(11) (error analysis):          0
+                    ICNTL(12) (efficiency control):                         1
+                    ICNTL(13) (sequential factorization of the root node):  0
+                    ICNTL(14) (percentage of estimated workspace increase): 20
+                    ICNTL(18) (input mat struct):                           0
+                    ICNTL(19) (Schur complement info):                      0
+                    ICNTL(20) (RHS sparse pattern):                         0
+                    ICNTL(21) (solution struct):                            0
+                    ICNTL(22) (in-core/out-of-core facility):               0
+                    ICNTL(23) (max size of memory can be allocated locally):0
+                    ICNTL(24) (detection of null pivot rows):               0
+                    ICNTL(25) (computation of a null space basis):          0
+                    ICNTL(26) (Schur options for RHS or solution):          0
+                    ICNTL(27) (blocking size for multiple RHS):             -32
+                    ICNTL(28) (use parallel or sequential ordering):        1
+                    ICNTL(29) (parallel ordering):                          0
+                    ICNTL(30) (user-specified set of entries in inv(A)):    0
+                    ICNTL(31) (factors is discarded in the solve phase):    0
+                    ICNTL(33) (compute determinant):                        0
+                    ICNTL(35) (activate BLR based factorization):           0
+                    ICNTL(36) (choice of BLR factorization variant):        0
+                    ICNTL(38) (estimated compression rate of LU factors):   333
+                    CNTL(1) (relative pivoting threshold):      0.01
+                    CNTL(2) (stopping criterion of refinement): 1.49012e-08
+                    CNTL(3) (absolute pivoting threshold):      0.
+                    CNTL(4) (value of static pivoting):         -1.
+                    CNTL(5) (fixation for null pivots):         0.
+                    CNTL(7) (dropping parameter for BLR):       0.
+                    RINFO(1) (local estimated flops for the elimination after analysis):
+                      [0] 8.55984e+09
+                    RINFO(2) (local estimated flops for the assembly after factorization):
+                      [0]  4.19609e+07
+                    RINFO(3) (local estimated flops for the elimination after factorization):
+                      [0]  8.55984e+09
+                    INFO(15) (estimated size of (in MB) MUMPS internal data for running numerical factorization):
+                    [0] 311
+                    INFO(16) (size of (in MB) MUMPS internal data used during numerical factorization):
+                      [0] 311
+                    INFO(23) (num of pivots eliminated on this processor after factorization):
+                      [0] 101424
+                    RINFOG(1) (global estimated flops for the elimination after analysis): 8.55984e+09
+                    RINFOG(2) (global estimated flops for the assembly after factorization): 4.19609e+07
+                    RINFOG(3) (global estimated flops for the elimination after factorization): 8.55984e+09
+                    (RINFOG(12) RINFOG(13))*2^INFOG(34) (determinant): (0.,0.)*(2^0)
+                    INFOG(3) (estimated real workspace for factors on all processors after analysis): 27147552
+                    INFOG(4) (estimated integer workspace for factors on all processors after analysis): 1244726
+                    INFOG(5) (estimated maximum front size in the complete tree): 1136
+                    INFOG(6) (number of nodes in the complete tree): 9466
+                    INFOG(7) (ordering option effectively use after analysis): 5
+                    INFOG(8) (structural symmetry in percent of the permuted matrix after analysis): 100
+                    INFOG(9) (total real/complex workspace to store the matrix factors after factorization): 27147552
+                    INFOG(10) (total integer space store the matrix factors after factorization): 1244726
+                    INFOG(11) (order of largest frontal matrix after factorization): 1136
+                    INFOG(12) (number of off-diagonal pivots): 0
+                    INFOG(13) (number of delayed pivots after factorization): 0
+                    INFOG(14) (number of memory compress after factorization): 0
+                    INFOG(15) (number of steps of iterative refinement after solution): 0
+                    INFOG(16) (estimated size (in MB) of all MUMPS internal data for factorization after analysis: value on the most memory consuming processor): 311
+                    INFOG(17) (estimated size of all MUMPS internal data for factorization after analysis: sum over all processors): 311
+                    INFOG(18) (size of all MUMPS internal data allocated during factorization: value on the most memory consuming processor): 311
+                    INFOG(19) (size of all MUMPS internal data allocated during factorization: sum over all processors): 311
+                    INFOG(20) (estimated number of entries in the factors): 27147552
+                    INFOG(21) (size in MB of memory effectively used during factorization - value on the most memory consuming processor): 267
+                    INFOG(22) (size in MB of memory effectively used during factorization - sum over all processors): 267
+                    INFOG(23) (after analysis: value of ICNTL(6) effectively used): 0
+                    INFOG(24) (after analysis: value of ICNTL(12) effectively used): 1
+                    INFOG(25) (after factorization: number of pivots modified by static pivoting): 0
+                    INFOG(28) (after factorization: number of null pivots encountered): 0
+                    INFOG(29) (after factorization: effective number of entries in the factors (sum over all processors)): 27147552
+                    INFOG(30, 31) (after solution: size in Mbytes of memory used during solution phase): 293, 293
+                    INFOG(32) (after analysis: type of analysis done): 1
+                    INFOG(33) (value used for ICNTL(8)): 7
+                    INFOG(34) (exponent of the determinant if determinant is requested): 0
+                    INFOG(35) (after factorization: number of entries taking into account BLR factor compression - sum over all processors): 27147552
+                    INFOG(36) (after analysis: estimated size of all MUMPS internal data for running BLR in-core - value on the most memory consuming processor): 0
+                    INFOG(37) (after analysis: estimated size of all MUMPS internal data for running BLR in-core - sum over all processors): 0
+                    INFOG(38) (after analysis: estimated size of all MUMPS internal data for running BLR out-of-core - value on the most memory consuming processor): 0
+                    INFOG(39) (after analysis: estimated size of all MUMPS internal data for running BLR out-of-core - sum over all processors): 0
+        linear system matrix = precond matrix:
+        Mat Object: (mg_levels_1_sub_) 1 MPI processes
+          type: seqaij
+          rows=101424, cols=101424
+          total: nonzeros=2818048, allocated nonzeros=2818048
+          total number of mallocs used during MatSetValues calls=0
+            using I-node routines: found 25356 nodes, limit used is 5
+      linear system matrix = precond matrix:
+      Mat Object: 640 MPI processes
+        type: mpiaij
+        rows=64032004, cols=64032004
+        total: nonzeros=1792384016, allocated nonzeros=1792384016
+        total number of mallocs used during MatSetValues calls=0
+          using I-node (on process 0) routines: found 24615 nodes, limit used is 5
+  Up solver (post-smoother) same as down solver (pre-smoother)
+  linear system matrix = precond matrix:
+  Mat Object: 640 MPI processes
+    type: mpiaij
+    rows=64032004, cols=64032004
+    total: nonzeros=1792384016, allocated nonzeros=1792384016
+    total number of mallocs used during MatSetValues calls=0
+      using I-node (on process 0) routines: found 24615 nodes, limit used is 5
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0133.scinet.local with 640 processors, by sudhipv Thu Mar  3 06:49:44 2022
+Using Petsc Release Version 3.15.0, Mar 30, 2021
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           2.592e+01     1.000   2.592e+01
+Objects:              1.460e+02     1.000   1.460e+02
+Flop:                 8.800e+11     1.370   7.823e+11  5.007e+14
+Flop/sec:             3.395e+10     1.370   3.018e+10  1.932e+13
+MPI Messages:         3.009e+03    16.265   1.035e+03  6.627e+05
+MPI Message Lengths:  6.838e+06     3.495   5.047e+03  3.345e+09
+MPI Reductions:       2.380e+02     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 2.5920e+01 100.0%  5.0065e+14 100.0%  6.627e+05 100.0%  5.047e+03      100.0%  2.200e+02  92.4%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          7 1.0 2.9658e-0146.3 0.00e+00 0.0 1.1e+04 4.0e+00 5.0e+00  1  0  2  0  2   1  0  2  0  2     0
+BuildTwoSidedF         2 1.0 2.0505e-03 7.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+MatMult              115 1.0 7.8325e-01 1.4 3.62e+08 1.0 4.3e+05 3.0e+03 2.0e+00  3  0 65 38  1   3  0 65 38  1 288819
+MatMultAdd             8 1.0 2.5507e-02 1.2 1.63e+06 1.0 2.9e+04 6.0e+03 0.0e+00  0  0  4  5  0   0  0  4  5  0 40166
+MatMultTranspose       8 1.0 8.2410e-02 6.1 0.00e+00 0.0 2.9e+04 2.0e+04 0.0e+00  0  0  4 18  0   0  0  4 18  0     0
+MatSolve              43 1.0 2.9746e+00 1.2 8.79e+11 1.4 0.0e+00 0.0e+00 0.0e+00 10100  0  0  0  10100  0  0  0 168201098
+MatLUFactorSym         1 1.0 4.3835e-01 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+MatLUFactorNum         1 1.0 9.9432e-01 1.4 4.80e+07 1.2 0.0e+00 0.0e+00 0.0e+00  3  0  0  0  0   3  0  0  0  0 28372
+MatConvert             1 1.0 1.8113e-02 1.0 0.00e+00 0.0 0.0e+00 0.0e+00 4.0e+00  0  0  0  0  2   0  0  0  0  2     0
+MatResidual            8 1.0 1.1762e-01 2.9 4.57e+07 1.0 2.9e+04 4.0e+03 0.0e+00  0  0  4  3  0   0  0  4  3  0 243818
+MatAssemblyBegin       6 1.0 2.1407e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+MatAssemblyEnd         6 1.0 5.7390e-0113.8 0.00e+00 0.0 0.0e+00 0.0e+00 1.2e+01  1  0  0  0  5   1  0  0  0  5     0
+MatGetRowIJ            3 1.0 5.4209e-03 2.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       1 1.0 1.6592e-01 1.7 0.00e+00 0.0 1.8e+04 3.4e+04 1.0e+00  0  0  3 19  0   0  0  3 19  0     0
+MatGetOrdering         1 1.0 2.3408e-02 1.9 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 3.1356e-02 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatView                5 1.7 2.1779e-0167.6 0.00e+00 0.0 0.0e+00 0.0e+00 3.0e+00  1  0  0  0  1   1  0  0  0  1     0
+KSPSetUp               3 1.0 2.6252e+00 1.0 2.25e+11 1.4 1.1e+05 8.7e+03 3.8e+01 10 26 16 28 16  10 26 16 28 17 48787174
+KSPSolve               1 1.0 5.3800e+00 1.0 6.55e+11 1.4 5.3e+05 4.1e+03 1.4e+02 21 74 80 65 59  21 74 80 65 64 69252084
+KSPGMRESOrthog        75 1.0 3.6159e-01 2.0 6.12e+07 1.1 0.0e+00 0.0e+00 7.5e+01  1  0  0  0 32   1  0  0  0 34 105563
+PCSetUp                1 1.0 3.0030e+00 1.0 2.25e+11 1.4 1.1e+05 8.7e+03 4.2e+01 12 26 16 28 18  12 26 16 28 19 42649487
+PCSetUpOnBlocks       17 1.0 1.3578e+00 1.3 4.80e+07 1.2 0.0e+00 0.0e+00 0.0e+00  5  0  0  0  0   5  0  0  0  0 20777
+PCApply                8 1.0 5.2699e+00 1.0 6.55e+11 1.4 5.0e+05 4.1e+03 1.2e+02 20 74 76 62 52  20 74 76 62 56 70691631
+PCApplyOnBlocks       43 1.0 2.9829e+00 1.2 8.79e+11 1.4 0.0e+00 0.0e+00 0.0e+00 10100  0  0  0  10100  0  0  0 167735323
+VecMDot               75 1.0 3.3836e-01 2.1 3.06e+07 1.1 0.0e+00 0.0e+00 7.5e+01  1  0  0  0 32   1  0  0  0 34 56405
+VecNorm               85 1.0 5.5438e-02 2.6 7.45e+06 1.1 0.0e+00 0.0e+00 8.5e+01  0  0  0  0 36   0  0  0  0 39 83758
+VecScale             101 1.0 1.4766e-03 1.7 3.73e+06 1.1 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 1572343
+VecCopy               77 1.0 1.5682e-02 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet               236 1.0 3.1973e-02 1.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY               18 1.0 3.6887e-03 1.8 2.45e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 416652
+VecAYPX               48 1.0 1.4437e-02 1.5 6.53e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 283857
+VecAXPBYCZ            16 1.0 1.0003e-02 2.8 8.16e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 512087
+VecMAXPY              85 1.0 3.0002e-02 1.1 3.72e+07 1.1 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 773833
+VecScatterBegin      279 1.0 3.4800e-01 5.1 0.00e+00 0.0 5.6e+05 3.1e+03 3.0e+00  1  0 85 52  1   1  0 85 52  1     0
+VecScatterEnd        279 1.0 1.7081e-0152.3 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize          76 1.0 5.2930e-02 2.8 8.43e+06 1.1 0.0e+00 0.0e+00 7.6e+01  0  0  0  0 32   0  0  0  0 35 98926
+SFSetGraph             5 1.0 3.1211e-04 2.1 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 3.0279e-0123.7 0.00e+00 0.0 2.2e+04 8.2e+02 3.0e+00  1  0  3  1  1   1  0  3  1  1     0
+SFReduceBegin         43 1.0 1.4289e-02 2.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd           43 1.0 7.3038e-05 3.2 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack               279 1.0 2.4579e-03 3.7 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack             279 1.0 5.6372e-04 8.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    12             12     99209292     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Viewer     3              2         1696     0.
+              Vector    85             85     50431512     0.
+           Index Set    15             15      2691872     0.
+   IS L to G Mapping     1              1      1217768     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+========================================================================================================================
+Average time to get PetscTime(): 2.97e-08
+Average time for MPI_Barrier(): 7.53984e-05
+Average time for zero size MPI_Send(): 1.28909e-06
+#PETSc Option Table entries:
+-ksp_max_it 200
+-ksp_monitor
+-ksp_type fgmres
+-log_view
+-m 2000
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_monitor
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_factor_mat_solver_type mumps
+-mg_levels_sub_pc_type lu
+-n 2000
+-nw
+-ordo 3
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch:
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+Number of Vertices for coarse grid  4004001
+Number of Vertices for fine mesh in  1.6008e+07
+2
+	-111111	  3
+order of input  2
+order of output  3
+Mean of Gaussian  0
+Sd of Gaussian  0.3
+Size of linear System  6.4032e+07
+6
+	1.04602786	0.313808358	0.06656880537	0.01153005531	0.001729508297
+	0.0002320378871
+  0 KSP Residual norm 2.499375000000e-04
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 2.233564804549e+05
+      1 KSP Residual norm 2.525298586373e+04
+      2 KSP Residual norm 4.182073143535e+03
+      3 KSP Residual norm 8.494911838773e+02
+      4 KSP Residual norm 1.090724214592e+02
+      5 KSP Residual norm 2.338649130325e+01
+      6 KSP Residual norm 4.633183690778e+00
+      7 KSP Residual norm 9.197134620776e-01
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  1 KSP Residual norm 2.452804450553e-04
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 7.704154647930e+00
+      1 KSP Residual norm 8.674110785080e-01
+      2 KSP Residual norm 1.471885258461e-01
+      3 KSP Residual norm 3.046736421848e-02
+      4 KSP Residual norm 4.466136559926e-03
+      5 KSP Residual norm 8.542242431642e-04
+      6 KSP Residual norm 1.997413913459e-04
+      7 KSP Residual norm 4.517169585080e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  2 KSP Residual norm 2.872582237248e-05
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.193931592433e+01
+      1 KSP Residual norm 4.713190025333e+00
+      2 KSP Residual norm 8.444129431800e-01
+      3 KSP Residual norm 1.834759440341e-01
+      4 KSP Residual norm 2.775988402613e-02
+      5 KSP Residual norm 4.541870106127e-03
+      6 KSP Residual norm 1.133820024136e-03
+      7 KSP Residual norm 2.588167648736e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  3 KSP Residual norm 2.014115104000e-06
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.777979415187e+02
+      1 KSP Residual norm 2.000483862111e+01
+      2 KSP Residual norm 3.643217758919e+00
+      3 KSP Residual norm 8.142419000932e-01
+      4 KSP Residual norm 1.222935472198e-01
+      5 KSP Residual norm 2.072743928231e-02
+      6 KSP Residual norm 6.019922715152e-03
+      7 KSP Residual norm 1.209369782433e-03
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  4 KSP Residual norm 3.742151532426e-07
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.356348643134e+02
+      1 KSP Residual norm 1.528783537415e+01
+      2 KSP Residual norm 2.827035068754e+00
+      3 KSP Residual norm 6.350644153724e-01
+      4 KSP Residual norm 9.347896800938e-02
+      5 KSP Residual norm 1.507086609575e-02
+      6 KSP Residual norm 4.228700366030e-03
+      7 KSP Residual norm 8.920906662253e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  5 KSP Residual norm 9.497412249788e-08
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 4.751731751446e+00
+      1 KSP Residual norm 9.732376223937e-01
+      2 KSP Residual norm 1.946871397712e-01
+      3 KSP Residual norm 4.499261560168e-02
+      4 KSP Residual norm 1.189270147088e-02
+      5 KSP Residual norm 1.888455848290e-03
+      6 KSP Residual norm 3.451441794861e-04
+      7 KSP Residual norm 8.453925677829e-05
+      8 KSP Residual norm 1.820811370158e-05
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 8
+  6 KSP Residual norm 2.286780186171e-08
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 1.370101861308e+02
+      1 KSP Residual norm 1.544841569213e+01
+      2 KSP Residual norm 2.863724357019e+00
+      3 KSP Residual norm 6.430418260638e-01
+      4 KSP Residual norm 9.436374159737e-02
+      5 KSP Residual norm 1.512195949394e-02
+      6 KSP Residual norm 4.151881542410e-03
+      7 KSP Residual norm 8.831728454823e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  7 KSP Residual norm 5.467966614256e-09
+      Residual norms for mg_coarse_ solve.
+      0 KSP Residual norm 9.181075755670e+01
+      1 KSP Residual norm 1.041854847416e+01
+      2 KSP Residual norm 1.988180779700e+00
+      3 KSP Residual norm 4.605244366494e-01
+      4 KSP Residual norm 6.683788989845e-02
+      5 KSP Residual norm 1.142527911723e-02
+      6 KSP Residual norm 3.428054137919e-03
+      7 KSP Residual norm 6.611817102883e-04
+    Linear mg_coarse_ solve converged due to CONVERGED_RTOL iterations 7
+  8 KSP Residual norm 7.108715259693e-10
+KSP Object: 800 MPI processes
+  type: fgmres
+    restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+    happy breakdown tolerance 1e-30
+  maximum iterations=200, initial guess is zero
+  tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+  right preconditioning
+  using UNPRECONDITIONED norm type for convergence test
+PC Object: 800 MPI processes
+  type: mg
+    type is MULTIPLICATIVE, levels=2 cycles=v
+      Cycles per PCApply=1
+      Not using Galerkin computed coarse grid matrices
+  Coarse grid solver -- level -------------------------------
+    KSP Object: (mg_coarse_) 800 MPI processes
+      type: gmres
+        restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+        happy breakdown tolerance 1e-30
+      maximum iterations=10000, initial guess is zero
+      tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+      left preconditioning
+      using PRECONDITIONED norm type for convergence test
+    PC Object: (mg_coarse_) 800 MPI processes
+      type: hypre
+        HYPRE BoomerAMG preconditioning
+          Cycle type V
+          Maximum number of levels 25
+          Maximum number of iterations PER hypre call 1
+          Convergence tolerance PER hypre call 0.
+          Threshold for strong coupling 0.25
+          Interpolation truncation factor 0.
+          Interpolation: max elements per row 0
+          Number of levels of aggressive coarsening 0
+          Number of paths for aggressive coarsening 1
+          Maximum row sums 0.9
+          Sweeps down         1
+          Sweeps up           1
+          Sweeps on coarse    1
+          Relax down          symmetric-SOR/Jacobi
+          Relax up            symmetric-SOR/Jacobi
+          Relax on coarse     Gaussian-elimination
+          Relax weight  (all)      1.
+          Outer relax weight (all) 1.
+          Using CF-relaxation
+          Not using more complex smoothers.
+          Measure type        local
+          Coarsen type        Falgout
+          Interpolation type  classical
+      linear system matrix = precond matrix:
+      Mat Object: 800 MPI processes
+        type: mpiaij
+        rows=16016004, cols=16016004, bs=4
+        total: nonzeros=448192016, allocated nonzeros=448192016
+        total number of mallocs used during MatSetValues calls=0
+          using I-node (on process 0) routines: found 4909 nodes, limit used is 5
+  Down solver (pre-smoother) on level 1 -------------------------------
+    KSP Object: (mg_levels_1_) 800 MPI processes
+      type: chebyshev
+        eigenvalue estimates used:  min = 0.196567, max = 2.16224
+        eigenvalues estimate via gmres min 0.0171568, max 1.96567
+        eigenvalues estimated using gmres with translations  [0. 0.1; 0. 1.1]
+        KSP Object: (mg_levels_1_esteig_) 800 MPI processes
+          type: gmres
+            restart=30, using Classical (unmodified) Gram-Schmidt Orthogonalization with no iterative refinement
+            happy breakdown tolerance 1e-30
+          maximum iterations=10, initial guess is zero
+          tolerances:  relative=1e-12, absolute=1e-50, divergence=10000.
+          left preconditioning
+          using PRECONDITIONED norm type for convergence test
+        estimating eigenvalues using noisy right hand side
+      maximum iterations=2, nonzero initial guess
+      tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+      left preconditioning
+      using NONE norm type for convergence test
+    PC Object: (mg_levels_1_) 800 MPI processes
+      type: asm
+        total subdomain blocks = 800, amount of overlap = 1
+        restriction/interpolation type - RESTRICT
+        Local solver information for first block is in the following KSP and PC objects on rank 0:
+        Use -mg_levels_1_ksp_view ::ascii_info_detail to display information for all blocks
+      KSP Object: (mg_levels_1_sub_) 1 MPI processes
+        type: preonly
+        maximum iterations=10000, initial guess is zero
+        tolerances:  relative=1e-05, absolute=1e-50, divergence=10000.
+        left preconditioning
+        using NONE norm type for convergence test
+      PC Object: (mg_levels_1_sub_) 1 MPI processes
+        type: lu
+          out-of-place factorization
+          tolerance for zero pivot 2.22045e-14
+          matrix ordering: nd
+          factor fill ratio given 0., needed 0.
+            Factored matrix follows:
+              Mat Object: 1 MPI processes
+                type: mumps
+                rows=81076, cols=81076
+                package used to perform factorization: mumps
+                total: nonzeros=21209360, allocated nonzeros=21209360
+                  MUMPS run parameters:
+                    SYM (matrix type):                   0
+                    PAR (host participation):            1
+                    ICNTL(1) (output for error):         6
+                    ICNTL(2) (output of diagnostic msg): 0
+                    ICNTL(3) (output for global info):   0
+                    ICNTL(4) (level of printing):        0
+                    ICNTL(5) (input mat struct):         0
+                    ICNTL(6) (matrix prescaling):        7
+                    ICNTL(7) (sequential matrix ordering):7
+                    ICNTL(8) (scaling strategy):        77
+                    ICNTL(10) (max num of refinements):  0
+                    ICNTL(11) (error analysis):          0
+                    ICNTL(12) (efficiency control):                         1
+                    ICNTL(13) (sequential factorization of the root node):  0
+                    ICNTL(14) (percentage of estimated workspace increase): 20
+                    ICNTL(18) (input mat struct):                           0
+                    ICNTL(19) (Schur complement info):                      0
+                    ICNTL(20) (RHS sparse pattern):                         0
+                    ICNTL(21) (solution struct):                            0
+                    ICNTL(22) (in-core/out-of-core facility):               0
+                    ICNTL(23) (max size of memory can be allocated locally):0
+                    ICNTL(24) (detection of null pivot rows):               0
+                    ICNTL(25) (computation of a null space basis):          0
+                    ICNTL(26) (Schur options for RHS or solution):          0
+                    ICNTL(27) (blocking size for multiple RHS):             -32
+                    ICNTL(28) (use parallel or sequential ordering):        1
+                    ICNTL(29) (parallel ordering):                          0
+                    ICNTL(30) (user-specified set of entries in inv(A)):    0
+                    ICNTL(31) (factors is discarded in the solve phase):    0
+                    ICNTL(33) (compute determinant):                        0
+                    ICNTL(35) (activate BLR based factorization):           0
+                    ICNTL(36) (choice of BLR factorization variant):        0
+                    ICNTL(38) (estimated compression rate of LU factors):   333
+                    CNTL(1) (relative pivoting threshold):      0.01
+                    CNTL(2) (stopping criterion of refinement): 1.49012e-08
+                    CNTL(3) (absolute pivoting threshold):      0.
+                    CNTL(4) (value of static pivoting):         -1.
+                    CNTL(5) (fixation for null pivots):         0.
+                    CNTL(7) (dropping parameter for BLR):       0.
+                    RINFO(1) (local estimated flops for the elimination after analysis):
+                      [0] 6.40095e+09
+                    RINFO(2) (local estimated flops for the assembly after factorization):
+                      [0]  3.29621e+07
+                    RINFO(3) (local estimated flops for the elimination after factorization):
+                      [0]  6.40095e+09
+                    INFO(15) (estimated size of (in MB) MUMPS internal data for running numerical factorization):
+                    [0] 246
+                    INFO(16) (size of (in MB) MUMPS internal data used during numerical factorization):
+                      [0] 246
+                    INFO(23) (num of pivots eliminated on this processor after factorization):
+                      [0] 81076
+                    RINFOG(1) (global estimated flops for the elimination after analysis): 6.40095e+09
+                    RINFOG(2) (global estimated flops for the assembly after factorization): 3.29621e+07
+                    RINFOG(3) (global estimated flops for the elimination after factorization): 6.40095e+09
+                    (RINFOG(12) RINFOG(13))*2^INFOG(34) (determinant): (0.,0.)*(2^0)
+                    INFOG(3) (estimated real workspace for factors on all processors after analysis): 21209360
+                    INFOG(4) (estimated integer workspace for factors on all processors after analysis): 999041
+                    INFOG(5) (estimated maximum front size in the complete tree): 1020
+                    INFOG(6) (number of nodes in the complete tree): 7619
+                    INFOG(7) (ordering option effectively use after analysis): 5
+                    INFOG(8) (structural symmetry in percent of the permuted matrix after analysis): 100
+                    INFOG(9) (total real/complex workspace to store the matrix factors after factorization): 21209360
+                    INFOG(10) (total integer space store the matrix factors after factorization): 999041
+                    INFOG(11) (order of largest frontal matrix after factorization): 1020
+                    INFOG(12) (number of off-diagonal pivots): 0
+                    INFOG(13) (number of delayed pivots after factorization): 0
+                    INFOG(14) (number of memory compress after factorization): 0
+                    INFOG(15) (number of steps of iterative refinement after solution): 0
+                    INFOG(16) (estimated size (in MB) of all MUMPS internal data for factorization after analysis: value on the most memory consuming processor): 246
+                    INFOG(17) (estimated size of all MUMPS internal data for factorization after analysis: sum over all processors): 246
+                    INFOG(18) (size of all MUMPS internal data allocated during factorization: value on the most memory consuming processor): 246
+                    INFOG(19) (size of all MUMPS internal data allocated during factorization: sum over all processors): 246
+                    INFOG(20) (estimated number of entries in the factors): 21209360
+                    INFOG(21) (size in MB of memory effectively used during factorization - value on the most memory consuming processor): 211
+                    INFOG(22) (size in MB of memory effectively used during factorization - sum over all processors): 211
+                    INFOG(23) (after analysis: value of ICNTL(6) effectively used): 0
+                    INFOG(24) (after analysis: value of ICNTL(12) effectively used): 1
+                    INFOG(25) (after factorization: number of pivots modified by static pivoting): 0
+                    INFOG(28) (after factorization: number of null pivots encountered): 0
+                    INFOG(29) (after factorization: effective number of entries in the factors (sum over all processors)): 21209360
+                    INFOG(30, 31) (after solution: size in Mbytes of memory used during solution phase): 233, 233
+                    INFOG(32) (after analysis: type of analysis done): 1
+                    INFOG(33) (value used for ICNTL(8)): 7
+                    INFOG(34) (exponent of the determinant if determinant is requested): 0
+                    INFOG(35) (after factorization: number of entries taking into account BLR factor compression - sum over all processors): 21209360
+                    INFOG(36) (after analysis: estimated size of all MUMPS internal data for running BLR in-core - value on the most memory consuming processor): 0
+                    INFOG(37) (after analysis: estimated size of all MUMPS internal data for running BLR in-core - sum over all processors): 0
+                    INFOG(38) (after analysis: estimated size of all MUMPS internal data for running BLR out-of-core - value on the most memory consuming processor): 0
+                    INFOG(39) (after analysis: estimated size of all MUMPS internal data for running BLR out-of-core - sum over all processors): 0
+        linear system matrix = precond matrix:
+        Mat Object: (mg_levels_1_sub_) 1 MPI processes
+          type: seqaij
+          rows=81076, cols=81076
+          total: nonzeros=2251472, allocated nonzeros=2251472
+          total number of mallocs used during MatSetValues calls=0
+            using I-node routines: found 20269 nodes, limit used is 5
+      linear system matrix = precond matrix:
+      Mat Object: 800 MPI processes
+        type: mpiaij
+        rows=64032004, cols=64032004
+        total: nonzeros=1792384016, allocated nonzeros=1792384016
+        total number of mallocs used during MatSetValues calls=0
+          using I-node (on process 0) routines: found 19807 nodes, limit used is 5
+  Up solver (post-smoother) same as down solver (pre-smoother)
+  linear system matrix = precond matrix:
+  Mat Object: 800 MPI processes
+    type: mpiaij
+    rows=64032004, cols=64032004
+    total: nonzeros=1792384016, allocated nonzeros=1792384016
+    total number of mallocs used during MatSetValues calls=0
+      using I-node (on process 0) routines: found 19807 nodes, limit used is 5
+************************************************************************************************************************
+***             WIDEN YOUR WINDOW TO 120 CHARACTERS.  Use 'enscript -r -fCourier9' to print this document            ***
+************************************************************************************************************************
+
+---------------------------------------------- PETSc Performance Summary: ----------------------------------------------
+
+/home/a/asarkar/sudhipv/software/FreeFem-sources/src/mpi/FreeFem++-mpi on a  named nia0133.scinet.local with 800 processors, by sudhipv Thu Mar  3 06:50:12 2022
+Using Petsc Release Version 3.15.0, Mar 30, 2021
+
+                         Max       Max/Min     Avg       Total
+Time (sec):           2.408e+01     1.000   2.408e+01
+Objects:              1.460e+02     1.000   1.460e+02
+Flop:                 6.399e+11     1.585   5.625e+11  4.500e+14
+Flop/sec:             2.658e+10     1.585   2.336e+10  1.869e+13
+MPI Messages:         3.125e+03     8.515   1.043e+03  8.344e+05
+MPI Message Lengths:  6.342e+06     3.216   4.483e+03  3.740e+09
+MPI Reductions:       2.380e+02     1.000
+
+Flop counting convention: 1 flop = 1 real number operation of type (multiply/divide/add/subtract)
+                            e.g., VecAXPY() for real vectors of length N --> 2N flop
+                            and VecAXPY() for complex vectors of length N --> 8N flop
+
+Summary of Stages:   ----- Time ------  ----- Flop ------  --- Messages ---  -- Message Lengths --  -- Reductions --
+                        Avg     %Total     Avg     %Total    Count   %Total     Avg         %Total    Count   %Total
+ 0:      Main Stage: 2.4077e+01 100.0%  4.5001e+14 100.0%  8.344e+05 100.0%  4.483e+03      100.0%  2.200e+02  92.4%
+
+------------------------------------------------------------------------------------------------------------------------
+See the 'Profiling' chapter of the users' manual for details on interpreting output.
+Phase summary info:
+   Count: number of times phase was executed
+   Time and Flop: Max - maximum over all processors
+                  Ratio - ratio of maximum to minimum over all processors
+   Mess: number of messages sent
+   AvgLen: average message length (bytes)
+   Reduct: number of global reductions
+   Global: entire computation
+   Stage: stages of a computation. Set stages with PetscLogStagePush() and PetscLogStagePop().
+      %T - percent time in this phase         %F - percent flop in this phase
+      %M - percent messages in this phase     %L - percent message lengths in this phase
+      %R - percent reductions in this phase
+   Total Mflop/s: 10e-6 * (sum of flop over all processors)/(max time over all processors)
+------------------------------------------------------------------------------------------------------------------------
+Event                Count      Time (sec)     Flop                              --- Global ---  --- Stage ----  Total
+                   Max Ratio  Max     Ratio   Max  Ratio  Mess   AvgLen  Reduct  %T %F %M %L %R  %T %F %M %L %R Mflop/s
+------------------------------------------------------------------------------------------------------------------------
+
+--- Event Stage 0: Main Stage
+
+BuildTwoSided          7 1.0 2.7232e-0149.9 0.00e+00 0.0 1.4e+04 4.0e+00 5.0e+00  1  0  2  0  2   1  0  2  0  2     0
+BuildTwoSidedF         2 1.0 2.0050e-03 5.0 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+MatMult              115 1.0 6.5533e-01 1.5 2.90e+08 1.1 5.4e+05 2.7e+03 2.0e+00  2  0 65 38  1   2  0 65 38  1 345194
+MatMultAdd             8 1.0 2.0869e-02 1.3 1.31e+06 1.0 3.6e+04 5.4e+03 0.0e+00  0  0  4  5  0   0  0  4  5  0 49093
+MatMultTranspose       8 1.0 6.2545e-02 5.6 0.00e+00 0.0 3.6e+04 1.8e+04 0.0e+00  0  0  4 18  0   0  0  4 18  0     0
+MatSolve              43 1.0 2.3647e+00 1.2 6.40e+11 1.6 0.0e+00 0.0e+00 0.0e+00  9100  0  0  0   9100  0  0  0 190170288
+MatLUFactorSym         1 1.0 3.8541e-01 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  1  0  0  0  0   1  0  0  0  0     0
+MatLUFactorNum         1 1.0 7.5767e-01 1.4 3.66e+07 1.2 0.0e+00 0.0e+00 0.0e+00  3  0  0  0  0   3  0  0  0  0 35770
+MatConvert             1 1.0 1.4487e-02 1.1 0.00e+00 0.0 0.0e+00 0.0e+00 4.0e+00  0  0  0  0  2   0  0  0  0  2     0
+MatResidual            8 1.0 9.0672e-02 2.6 3.66e+07 1.0 3.6e+04 3.6e+03 0.0e+00  0  0  4  3  0   0  0  4  3  0 316284
+MatAssemblyBegin       6 1.0 2.1156e-03 1.3 0.00e+00 0.0 0.0e+00 0.0e+00 2.0e+00  0  0  0  0  1   0  0  0  0  1     0
+MatAssemblyEnd         6 1.0 5.3915e-01 7.2 0.00e+00 0.0 0.0e+00 0.0e+00 1.2e+01  1  0  0  0  5   1  0  0  0  5     0
+MatGetRowIJ            3 1.0 5.4799e-03 3.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatCreateSubMats       1 1.0 1.3801e-01 1.8 0.00e+00 0.0 2.3e+04 3.1e+04 1.0e+00  0  0  3 19  0   0  0  3 19  0     0
+MatGetOrdering         1 1.0 1.9388e-02 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatIncreaseOvrlp       1 1.0 2.8731e-02 1.5 0.00e+00 0.0 0.0e+00 0.0e+00 1.0e+00  0  0  0  0  0   0  0  0  0  0     0
+MatView                5 1.7 4.6105e-01220.4 0.00e+00 0.0 0.0e+00 0.0e+00 3.0e+00  2  0  0  0  1   2  0  0  0  1     0
+KSPSetUp               3 1.0 2.1640e+00 1.0 1.64e+11 1.6 1.4e+05 7.7e+03 3.8e+01  9 26 16 28 16   9 26 16 28 17 53195756
+KSPSolve               1 1.0 4.4442e+00 1.0 4.76e+11 1.6 6.7e+05 3.6e+03 1.4e+02 18 74 80 65 59  18 74 80 65 64 75353184
+KSPGMRESOrthog        75 1.0 4.2027e-01 1.8 4.91e+07 1.1 0.0e+00 0.0e+00 7.5e+01  1  0  0  0 32   1  0  0  0 34 90823
+PCSetUp                1 1.0 2.5271e+00 1.0 1.64e+11 1.6 1.4e+05 7.7e+03 4.2e+01 10 26 16 28 18  10 26 16 28 19 45553754
+PCSetUpOnBlocks       17 1.0 1.0994e+00 1.3 3.66e+07 1.2 0.0e+00 0.0e+00 0.0e+00  4  0  0  0  0   4  0  0  0  0 24651
+PCApply                8 1.0 4.3328e+00 1.0 4.76e+11 1.6 6.3e+05 3.7e+03 1.2e+02 18 74 76 62 52  18 74 76 62 56 77282434
+PCApplyOnBlocks       43 1.0 2.3710e+00 1.2 6.40e+11 1.6 0.0e+00 0.0e+00 0.0e+00  9100  0  0  0   9100  0  0  0 189664740
+VecMDot               75 1.0 4.0345e-01 1.9 2.45e+07 1.1 0.0e+00 0.0e+00 7.5e+01  1  0  0  0 32   1  0  0  0 34 47305
+VecNorm               85 1.0 5.3361e-02 2.6 5.98e+06 1.1 0.0e+00 0.0e+00 8.5e+01  0  0  0  0 36   0  0  0  0 39 87019
+VecScale             101 1.0 1.1796e-03 1.6 2.99e+06 1.1 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 1968251
+VecCopy               77 1.0 1.1103e-02 1.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecSet               236 1.0 2.9635e-02 1.6 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecAXPY               18 1.0 2.6742e-03 2.0 1.97e+06 1.1 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 574720
+VecAYPX               48 1.0 1.1776e-02 1.8 5.23e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 347996
+VecAXPBYCZ            16 1.0 8.0698e-03 3.2 6.54e+06 1.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 634781
+VecMAXPY              85 1.0 2.1130e-02 1.1 2.99e+07 1.1 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0 1098734
+VecScatterBegin      279 1.0 3.1170e-01 5.5 0.00e+00 0.0 7.1e+05 2.7e+03 3.0e+00  1  0 85 52  1   1  0 85 52  1     0
+VecScatterEnd        279 1.0 1.5416e-0170.5 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+VecNormalize          76 1.0 5.1776e-02 2.8 6.76e+06 1.1 0.0e+00 0.0e+00 7.6e+01  0  0  0  0 32   0  0  0  0 35 101131
+SFSetGraph             5 1.0 2.3568e-04 2.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFSetUp                5 1.0 2.7695e-0125.7 0.00e+00 0.0 2.7e+04 7.3e+02 3.0e+00  1  0  3  1  1   1  0  3  1  1     0
+SFReduceBegin         43 1.0 1.1368e-02 2.8 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFReduceEnd           43 1.0 6.2763e-05 3.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFPack               279 1.0 1.9458e-03 3.0 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+SFUnpack             279 1.0 5.1642e-04 8.4 0.00e+00 0.0 0.0e+00 0.0e+00 0.0e+00  0  0  0  0  0   0  0  0  0  0     0
+------------------------------------------------------------------------------------------------------------------------
+
+Memory usage is given in bytes:
+
+Object Type          Creations   Destructions     Memory  Descendants' Mem.
+Reports information only for process 0.
+
+--- Event Stage 0: Main Stage
+
+              Matrix    12             12     79606844     0.
+       Krylov Solver     5              5        72264     0.
+      Preconditioner     5              5         6024     0.
+              Viewer     3              2         1696     0.
+              Vector    85             85     40608792     0.
+           Index Set    15             15      2147032     0.
+   IS L to G Mapping     1              1       973592     0.
+   Star Forest Graph    11             11        12600     0.
+    Distributed Mesh     3              3        15144     0.
+     Discrete System     3              3         2712     0.
+           Weak Form     3              3         2472     0.
+========================================================================================================================
+Average time to get PetscTime(): 3.15e-08
+Average time for MPI_Barrier(): 7.73892e-05
+Average time for zero size MPI_Send(): 1.22228e-06
+#PETSc Option Table entries:
+-ksp_max_it 200
+-ksp_monitor
+-ksp_type fgmres
+-log_view
+-m 2000
+-mg_coarse_ksp_converged_reason
+-mg_coarse_ksp_monitor
+-mg_coarse_ksp_type gmres
+-mg_coarse_pc_type hypre
+-mg_levels_pc_type asm
+-mg_levels_sub_pc_factor_mat_solver_type mumps
+-mg_levels_sub_pc_type lu
+-n 2000
+-nw
+-ordo 3
+-pc_mg_type multiplicative
+-pc_type mg
+#End of PETSc Option Table entries
+Compiled without FORTRAN kernels
+Compiled with full precision matrices (default)
+sizeof(short) 2 sizeof(int) 4 sizeof(long) 8 sizeof(void*) 8 sizeof(PetscScalar) 8 sizeof(PetscInt) 4
+Configure options: --prefix=/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r MAKEFLAGS= --with-debugging=0 COPTFLAGS="-O3 -mtune=native" CXXOPTFLAGS="-O3 -mtune=native" FOPTFLAGS="-O3 -mtune=native" --with-cxx-dialect=C++11 --with-ssl=0 --with-x=0 --with-fortran-bindings=0 --with-cudac=0 --with-cc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc --with-cxx=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpic++ --with-fc=/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90 --with-scalar-type=real --with-blaslapack-include=/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include --with-blaslapack-lib="-Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -lmkl_rt -lmkl_intel_thread -lmkl_core  -liomp5 -lpthread" --download-metis --download-ptscotch --download-hypre --download-parmetis --download-mmg --download-parmmg --download-superlu --download-suitesparse --download-tetgen --download-slepc --download-hpddm --download-scalapack --download-mumps --download-slepc-configure-arguments=--download-arpack=https://github.com/prj-/arpack-ng/archive/b64dccb.tar.gz PETSC_ARCH=fr
+-----------------------------------------
+Libraries compiled on 2021-05-02 15:39:49 on nia-login03.scinet.local
+Machine characteristics: Linux-3.10.0-957.27.2.el7.x86_64-x86_64-with-centos-7.6.1810-Core
+Using PETSc directory: /home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r
+Using PETSc arch:
+-----------------------------------------
+
+Using C compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc  -fPIC -wd1572 -O3 -mtune=native
+Using Fortran compiler: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90  -fPIC -O3 -mtune=native
+-----------------------------------------
+
+Using include paths: -I/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/include -I/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/include
+-----------------------------------------
+
+Using C linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpicc
+Using Fortran linker: /cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/bin/mpif90
+Using libraries: -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -lpetsc -Wl,-rpath,/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -L/home/a/asarkar/sudhipv/software/FreeFem-sources/install/ff-petsc/r/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/mkl/lib/intel64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/libfabric/1.10.1/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Core/ucx/1.8.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/imkl/2020.1.217/lib/intel64 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/tbb/lib/intel64/gcc4.8 -Wl,-rpath,/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -L/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/compiler/lib/intel64_lin -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx512/Compiler/intel2020/openmpi/4.0.3/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib/gcc/x86_64-pc-linux-gnu/9.3.0 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib64 -Wl,-rpath,/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/lib -Wl,-rpath,/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -L/cvmfs/soft.computecanada.ca/gentoo/2020/usr/lib -lHYPRE -lcmumps -ldmumps -lsmumps -lzmumps -lmumps_common -lpord -lscalapack -lumfpack -lklu -lcholmod -lbtf -lccolamd -lcolamd -lcamd -lamd -lsuitesparseconfig -lsuperlu -lmkl_rt -lmkl_intel_thread -lmkl_core -liomp5 -lpthread -lparmmg -lmmg -lmmg3d -lptesmumps -lptscotchparmetis -lptscotch -lptscotcherr -lesmumps -lscotch -lscotcherr -lpthread -lparmetis -lmetis -ltet -lstdc++ -ldl -lmpi_usempif08 -lmpi_usempi_ignore_tkr -lmpi_mpifh -lmpi -lifport -lifcoremt_pic -limf -lsvml -lm -lipgo -lirc -lpthread -lgcc_s -lirc_s -lrt -lquadmath -lstdc++ -ldl
+-----------------------------------------
+
+#############################################################################################################
+#############################################################################################################
+########     Finsihed Code             #################################################
+#############################################################################################################
+#############################################################################################################
+
+scontrol show jobid 7006686
+JobId=7006686 JobName=poisson_ss_strong_D_160_800
+   UserId=sudhipv(3061414) GroupId=asarkar(6001189) MCS_label=N/A
+   Priority=2110729 Nice=0 Account=def-asarkar QOS=normal
+   JobState=COMPLETING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:03:12 TimeLimit=00:15:00 TimeMin=N/A
+   SubmitTime=2022-03-03T06:43:34 EligibleTime=2022-03-03T06:43:34
+   AccrueTime=2022-03-03T06:43:34
+   StartTime=2022-03-03T06:47:01 EndTime=2022-03-03T06:50:13 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2022-03-03T06:47:01
+   Partition=compute AllocNode:Sid=nia-login03:240465
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=nia[0293,0501,0507,0542,0558,0568,0592,0610,0667,0834,0858,1518-1523,1532-1533]
+   BatchHost=nia0133
+   NumNodes=19 NumCPUs=1600 NumTasks=800 CPUs/Task=1 ReqB:S:C:T=0:0:*:*
+   TRES=cpu=1600,mem=3500000M,node=20,billing=800
+   Socks/Node=* NtasksPerN:B:S:C=40:0:*:* CoreSpec=*
+   MinCPUsNode=40 MinMemoryNode=175000M MinTmpDiskNode=0
+   Features=[skylake|cascade] DelayBoot=00:00:00
+   OverSubscribe=NO Contiguous=0 Licenses=(null) Network=(null)
+   Command=/gpfs/fs0/scratch/a/asarkar/sudhipv/sto_poisson/strong/runff_niagara_ss.sh
+   WorkDir=/gpfs/fs0/scratch/a/asarkar/sudhipv/sto_poisson/strong
+   StdErr=/gpfs/fs0/scratch/a/asarkar/sudhipv/sto_poisson/strong/poisson_ss_strong_D_160_800-7006686.out
+   StdIn=/dev/null
+   StdOut=/gpfs/fs0/scratch/a/asarkar/sudhipv/sto_poisson/strong/poisson_ss_strong_D_160_800-7006686.out
+   Power=
+   MailUser=sudhipv@cmail.carleton.ca MailType=BEGIN,END,FAIL,REQUEUE,STAGE_OUT
+
+sacct -j 7006686
+       JobID    JobName    Account    Elapsed  MaxVMSize     MaxRSS  SystemCPU    UserCPU ExitCode
+------------ ---------- ---------- ---------- ---------- ---------- ---------- ---------- --------
+7006686      poisson_s+ def-asark+   00:03:12                        33:04.474   15:45:55      0:0
+7006686.bat+      batch def-asark+   00:03:12 111198060K  77878400K  03:19.001   01:39:15      0:0
+7006686.ext+     extern def-asark+   00:03:13    138360K      1068K  00:00.006  00:00.010      0:0
+7006686.0         orted def-asark+   00:00:09    395424K      3056K  00:02.837  00:02.478      0:0
+7006686.1         orted def-asark+   00:01:09 117886988K  85520296K  04:08.184   02:05:45      0:0
+7006686.2         orted def-asark+   00:00:43  71771076K  43213728K  05:45.460   02:53:43      0:0
+7006686.3         orted def-asark+   00:00:30    395424K      3056K  08:57.933   04:11:37      0:0
+7006686.4         orted def-asark+   00:00:29    395424K      3056K  10:51.049   04:55:31      0:0
+
+kernel messages produced during job executions:
+[Mar 3 06:20] mlx5_core 0000:06:00.0: mlx5_core_get_rsc:63:(pid 0): Async event for bogus resource 0xf371
